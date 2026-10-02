@@ -1,53 +1,87 @@
 # VISA sRNA–mRNA Regulatory Network
 
-Reproducible analysis repository for the study of vancomycin-responsive small RNA (sRNA) regulatory networks in *Staphylococcus aureus*.
+Reproducible computational workflow for the analysis of vancomycin-responsive small RNA (sRNA) regulatory networks in *Staphylococcus aureus*.
 
-This repository contains the analysis scripts used for data preparation, transcriptomic analysis, RNA–RNA interaction analysis, evidence integration, 3′UTR/Term-seq assessment, IntaRNA structural characterization, and generation of manuscript figures and tables.
-
----
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23109159.svg)](https://doi.org/10.5281/zenodo.23109159)
 
 ## Overview
 
-The analysis integrates multiple complementary evidence layers to characterize candidate sRNA–mRNA regulatory relationships associated with vancomycin response.
+This repository contains the R scripts used for the computational analysis of the VISA sRNA–mRNA regulatory network study.
 
-The analytical framework was designed to keep transcriptomic response, physical RNA–RNA interaction evidence, transcript-boundary information, functional annotation, and RNA interaction-energy predictions as distinct evidence layers rather than combining them into a single biological-confidence score.
+The workflow integrates complementary evidence layers to characterize candidate sRNA–mRNA regulatory relationships, including transcriptomic response, RNase III-CLASH interaction evidence, transcript-boundary/3′UTR evidence, functional annotation, and RNA–RNA structural analysis.
 
-The repository is organized according to the analytical workflow used in the manuscript.
+## Workflow
 
----
+The repository is organized according to the computational workflow used in the study:
 
-## Repository Structure
+1. **Data Preparation**
+   - Dataset discovery
+   - Metadata processing
+   - Experimental-design curation
+   - Processed GEO data preparation
 
-```text
-VISA-sRNA-CLASH-Network/
-│
-├── 01_Data_Preparation/
-│   └── Dataset discovery, metadata processing, experimental-design
-│       curation, and preparation of processed GEO data.
-│
-├── 02_RNA_Seq_Analysis/
-│   └── RNA-seq differential-expression and gene-annotation analyses.
-│
-├── 03_CLASH_Analysis/
-│   └── Processing, quality assessment, benchmarking, and recovery
-│       analysis of RNase III-CLASH interaction data.
-│
-├── 04_Evidence_Integration/
-│   └── Integration and prioritization of independent evidence layers,
-│       functional annotation, target resolution, and final evidence
-│       integration.
-│
-├── 05_TermSeq_3UTR_Analysis/
-│   └── Assessment of transcript boundaries and 3′UTR-associated
-│       evidence using Term-seq information.
-│
-├── 06_IntaRNA_Analysis/
-│   └── Sequence extraction and IntaRNA-based structural characterization
-│       of selected RNA–RNA interaction candidates.
-│
-├── 07_Figures/
-│   └── Scripts used to generate the manuscript figures.
-│
-└── 08_Tables/
-    └── Scripts used to generate manuscript tables and supplementary
-        table content.
+2. **RNA-seq Analysis**
+   - Differential-expression analysis
+   - Gene annotation
+   - Transcriptomic response characterization
+
+3. **CLASH Analysis**
+   - RNase III-CLASH data processing
+   - Interaction extraction and quality assessment
+   - Benchmarking and recovery analysis
+
+4. **Evidence Integration**
+   - Integration of complementary evidence layers
+   - Target identification and prioritization
+   - Functional annotation
+
+5. **Term-seq / 3′UTR Analysis**
+   - Transcript-boundary assessment
+   - 3′UTR evidence integration
+
+6. **IntaRNA Analysis**
+   - Sequence extraction
+   - RNA–RNA interaction prediction
+   - Structural characterization
+
+7. **Figures**
+   - Manuscript figure-generation scripts
+
+8. **Tables**
+   - Manuscript and supplementary table-generation scripts
+
+## Reproducibility
+
+The scripts are provided to document and facilitate reproduction of the computational analyses associated with the study.
+
+The repository is versioned through GitHub releases, and the corresponding release has been archived on Zenodo.
+
+## Data Availability
+
+The analyses use publicly available datasets and resources referenced within the corresponding study and analysis scripts.
+
+Raw or third-party datasets are not redistributed where their original repositories provide the authoritative source.
+
+## Software
+
+The workflow is implemented primarily in **R** and uses packages appropriate to the individual analysis steps.
+
+Package requirements and computational dependencies are specified within the relevant scripts.
+
+## Citation
+
+If you use this repository or its computational workflow, please cite the associated study and the archived software release:
+
+> karrarm-bit (2026). VISA sRNA–mRNA Regulatory Network — Reproducibility Release v1.0.1. Zenodo. https://doi.org/10.5281/zenodo.23109159
+
+## Repository
+
+GitHub:
+https://github.com/karrarm-bit/VISA-sRNA-CLASH-Network
+
+Zenodo:
+https://doi.org/10.5281/zenodo.23109159
+
+## License
+
+This repository is distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
