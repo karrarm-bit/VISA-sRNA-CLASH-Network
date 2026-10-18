@@ -1,0 +1,19 @@
+priority,study_accession,title_new,date_new,srna_relevance,amr_relevance,resistance_category,times_retrieved
+Priority 1,GSE254530,The functional small RNA interactome reveals targets for the vancomycin-responsive sRNA RsaOI in vancomycin tolerant Staphylococcus aureus [RNA-seq],2024-03-18,Possible,Yes,Antimicrobial resistance,6
+Priority 1,GSE254531,The functional small RNA interactome reveals targets for the vancomycin-responsive sRNA RsaOI in vancomycin tolerant Staphylococcus aureus [Ribo-seq],2024-03-18,Possible,Yes,Antimicrobial resistance,6
+Priority 1,GSE254532,The functional small RNA interactome reveals targets for the vancomycin-responsive sRNA RsaOI in vancomycin tolerant Staphylococcus aureus [RNase III-CLASH],2024-03-18,Possible,Yes,Antimicrobial resistance,6
+Priority 1,GSE158830,RNase III-CLASH of multi-drug resistant Staphylococcus aureus reveals a regulatory mRNA 3’UTR required for intermediate vancomycin resistance,2021-09-14,High,Yes,Persistence or tolerance,4
+Priority 1,GSE51366,Genome-wide analysis of the regulatory function mediated by the small regulatory psm-mec RNA of methicillin-resistant Staphylococcus aureus,2017-08-29,Low,Yes,Antimicrobial resistance,3
+Priority 1,GSE166151,RNase III CLASH in MRSA uncovers sRNA regulatory networks coupling metabolism to toxin expression,2022-05-04,Possible,Yes,Antimicrobial resistance,2
+Priority 1,GSE300037,Specific targeting of transcriptional T-box riboswitches leads to effective inhibition of S. aureus,2025-10-19,Low,Yes,Antimicrobial resistance,2
+Priority 1,GSE10165,Evolution of virulence control by the staphylococcal agr quorum-sensing regulator,2009-01-05,High,Yes,Virulence,2
+Priority 1,GSE40864,Investigating the sRNA and mRNA transcriptional response to antibiotics in methicillin-resistant Staphylococcus aureus using Illumina RNAseq,2013-06-10,Possible,Unclear or no,Other or unclear,1
+Priority 1,GSE85265,Toxin mediates sepsis caused by methicillin-resistant Staphylococcus epidermidis,2017-01-06,Low,Yes,Virulence,1
+Priority 2,GSE77242,Characterizing the transcriptional adaptation of Staphylococcus aureus to stationary phase growth,2016-05-18,Possible,Unclear or no,Biofilm,2
+Priority 2,GSE108336,The small RNA Teg41 Regulates Expression of the alpha Phenol Soluble Modulins and is Required for Virulence in Staphylococcus aureus,2019-01-01,Possible,Unclear or no,Virulence,2
+Priority 2,GSE184753,The novel peptide ScrA acts through the SaeRS two component system to regulate virulence gene expression in Staphylococcus aureus,2021-10-01,Possible,Unclear or no,Biofilm,2
+Priority 2,GSE185262,The small RNA Teg41 is a pleiotropic regulator of virulence and stress response in Staphylococcus aureus,2021-10-07,Possible,Unclear or no,Virulence,2
+Priority 2,GSE203563,The Small RNA Teg41 Is a Pleiotropic Regulator of Virulence in Staphylococcus aureus [teg41 psm],2022-09-29,Possible,Unclear or no,Virulence,2
+Priority 2,GSE203564,The Small RNA Teg41 Is a Pleiotropic Regulator of Virulence in Staphylococcus aureus [wt teg41],2022-09-29,Possible,Unclear or no,Virulence,2
+Priority 2,GSE166499,The small RNA SprY controls RNAIII function and affects Staphylococcus aureus virulence,2021-02-10,High,Unclear or no,Virulence,2
+Priority 2,GSE237701,Transcriptomic exploration of SSR42 and its impact on Staphylococcus aureus virulence,2023-07-25,Low,Unclear or no,Virulence,1
