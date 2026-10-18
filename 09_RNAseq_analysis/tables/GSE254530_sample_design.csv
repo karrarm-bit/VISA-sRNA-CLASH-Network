@@ -1,0 +1,7 @@
+matrix_column,dataset,sample_id,gsm_accession,sample_title,file_sample_name,condition,replicate_curated,concentration_curated,exposure_time_curated
+GSM8045612_Cont1_30mins_RNA,GSE254530,GSM8045612,GSM8045612,control_30mins_1,GSM8045612_Cont1_30mins_RNA,Untreated,1,NA,NA
+GSM8045613_Cont2_30mins_RNA,GSE254530,GSM8045613,GSM8045613,control_30mins_2,GSM8045613_Cont2_30mins_RNA,Untreated,2,NA,NA
+GSM8045614_Cont3_30mins_RNA,GSE254530,GSM8045614,GSM8045614,control_30mins_3,GSM8045614_Cont3_30mins_RNA,Untreated,3,NA,NA
+GSM8045615_Van1_30mins_RNA,GSE254530,GSM8045615,GSM8045615,vancomcyin_30mins_1,GSM8045615_Van1_30mins_RNA,Treated,1,8 ug/mL,30 min
+GSM8045616_Van2_30mins_RNA,GSE254530,GSM8045616,GSM8045616,vancomycin_30mins_2,GSM8045616_Van2_30mins_RNA,Treated,2,8 ug/mL,30 min
+GSM8045617_Van3_30mins_RNA,GSE254530,GSM8045617,GSM8045617,vancomcycin_30mins_3,GSM8045617_Van3_30mins_RNA,Treated,3,8 ug/mL,30 min

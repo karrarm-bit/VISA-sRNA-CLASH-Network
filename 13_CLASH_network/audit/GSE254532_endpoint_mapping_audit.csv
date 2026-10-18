@@ -1,0 +1,2713 @@
+endpoint,raw_name,raw_class,raw_locus,mapped_gene_id,mapping_method,assigned_type
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000134779.1,CDS,E0E12-RS08600,NA,Unmapped,mRNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000897132.1,CDS,E0E12-RS02945,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001791010.1,CDS,E0E12-RS02135,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_000551362.1,CDS,E0E12-RS02560,SAA6008_00475,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001838365.1,CDS,E0E12-RS02970,SAA6008_00535,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000613716.1,CDS,E0E12-RS02830,SAA6008_00521,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000193917.1,CDS,E0E12-RS09310,NA,Unmapped,mRNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001157329.1,CDS,E0E12-RS08905,SAA6008_01639,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00741,3UTR,E0E12-RS07200,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00397,3UTR,E0E12-RS04375,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,3UTR-01066,3UTR,E0E12-RS10295,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001801842.1,CDS,E0E12-RS02410,SAA6008_00448,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001050064.1,CDS,E0E12-RS04395,SAA6008_00795,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000933105.1,CDS,E0E12-RS05280,NA,Unmapped,mRNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001255379.1,CDS,E0E12-RS14695,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1250,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,5UTR-00230,5UTR,E0E12-RS04780,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000931232.1,CDS,E0E12-RS03955,NA,Unmapped,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001223008.1,CDS,E0E12-RS08255,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-639,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,Saa-6008-C1.2493,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000391031.1,CDS,E0E12-RS06245,SAA6008_01139,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000511133.1,CDS,E0E12-RS11960,NA,Unmapped,mRNA
+Endpoint 1,WP_000868999.1,CDS,E0E12-RS02730,SAA6008_00502,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA112,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-345,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000290401.1,CDS,E0E12-RS00785,NA,Unmapped,mRNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t07,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000387527.1,CDS,E0E12-RS12750,SAA6008_02282,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000402172.1,CDS,E0E12-RS03575,NA,Unmapped,mRNA
+Endpoint 1,INT-0-528,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000106144.1,CDS,E0E12-RS08995,NA,Unmapped,mRNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t07,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t12,tRNA,NA,SAA6008_t12,Feature-name match: gene_id,tRNA
+Endpoint 1,5UTR-01090,5UTR,E0E12-RS11145,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000119405.1,CDS,E0E12-RS00175,NA,Unmapped,mRNA
+Endpoint 1,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 1,WP_000354184.1,CDS,E0E12-RS06360,NA,Unmapped,mRNA
+Endpoint 1,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,Teg4,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001085792.1,CDS,E0E12-RS03015,SAA6008_00543,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001288048.1,CDS,E0E12-RS03890,NA,Unmapped,mRNA
+Endpoint 1,WP_001801842.1,CDS,E0E12-RS02410,SAA6008_00448,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000882069.1,CDS,E0E12-RS02935,NA,Unmapped,mRNA
+Endpoint 1,WP_000354088.1,CDS,E0E12-RS03275,NA,Unmapped,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001801873.1,CDS,E0E12-RS00215,NA,Unmapped,mRNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000511133.1,CDS,E0E12-RS11960,NA,Unmapped,mRNA
+Endpoint 1,WP_001056228.1,CDS,E0E12-RS04445,SAA6008_00803,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA112,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t14,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-1132,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00824,3UTR,E0E12-RS07910,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001036663.1,CDS,E0E12-RS02505,NA,Unmapped,mRNA
+Endpoint 1,WP_000157603.1,CDS,E0E12-RS11965,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00164,3UTR,E0E12-RS01990,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sprF1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000388082.1,CDS,E0E12-RS12765,SAA6008_02285,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001092058.1,CDS,E0E12-RS04595,NA,Unmapped,mRNA
+Endpoint 1,WP_014373779.1,CDS,E0E12-RS02445,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000258003.1,CDS,E0E12-RS05200,SAA6008_00950,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001237625.1,CDS,E0E12-RS14860,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,5UTR-00504,5UTR,E0E12-RS08960,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-554,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-554,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000109900.1,CDS,E0E12-RS09630,SAA6008_01766,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000031515.1,CDS,E0E12-RS02580,SAA6008_00479,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000573077.1,CDS,E0E12-RS04960,NA,Unmapped,mRNA
+Endpoint 1,SprA2/SprAs2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-934,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,Sau-6477/RsaOI,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000573242.1,CDS,E0E12-RS13445,NA,Unmapped,mRNA
+Endpoint 1,WP_001096491.1,CDS,E0E12-RS09560,NA,Unmapped,mRNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_000369727.1,CDS,E0E12-RS04315,SAA6008_00780,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001216937.1,CDS,E0E12-RS00730,NA,Unmapped,mRNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000731644.1,CDS,E0E12-RS03755,NA,Unmapped,mRNA
+Endpoint 1,WP_001801873.1,CDS,E0E12-RS00215,NA,Unmapped,mRNA
+Endpoint 1,WP_000264071.1,CDS,E0E12-RS02080,SAA6008_00389,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001115440.1,CDS,E0E12-RS07530,SAA6008_01378,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 1,WP_000057594.1,CDS,E0E12-RS02815,SAA6008_00518,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,Saa-6008-C1.2493,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,RsaOB,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00859,5UTR,E0E12-RS00175,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001255379.1,CDS,E0E12-RS14695,NA,Unmapped,mRNA
+Endpoint 1,WP_000831055.1,CDS,E0E12-RS13120,NA,Unmapped,mRNA
+Endpoint 1,WP_000017736.1,CDS,E0E12-RS05555,SAA6008_01014,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001269643.1,CDS,E0E12-RS02720,SAA6008_00500,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001216937.1,CDS,E0E12-RS00730,NA,Unmapped,mRNA
+Endpoint 1,WP_000871601.1,CDS,E0E12-RS00115,SAA6008_00019,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00824,3UTR,E0E12-RS07910,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,WP_000931232.1,CDS,E0E12-RS03955,NA,Unmapped,mRNA
+Endpoint 1,WP_000834095.1,CDS,E0E12-RS00605,NA,Unmapped,mRNA
+Endpoint 1,WP_001240826.1,CDS,E0E12-RS01360,SAA6008_00256,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-151,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001269643.1,CDS,E0E12-RS02720,SAA6008_00500,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000646227.1,CDS,E0E12-RS06750,NA,Unmapped,mRNA
+Endpoint 1,WP_001290430.1,CDS,E0E12-RS00005,SAA6008_00001,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001252529.1,CDS,E0E12-RS02740,SAA6008_00504,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1217,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001117064.1,CDS,E0E12-RS06280,NA,Unmapped,mRNA
+Endpoint 1,WP_000034978.1,CDS,E0E12-RS00975,NA,Unmapped,mRNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000818914.1,CDS,E0E12-RS00970,NA,Unmapped,mRNA
+Endpoint 1,WP_000868999.1,CDS,E0E12-RS02730,SAA6008_00502,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-31,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001106113.1,CDS,E0E12-RS03170,NA,Unmapped,mRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Teg70,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000138487.1,CDS,E0E12-RS05005,NA,Unmapped,mRNA
+Endpoint 1,WP_000926310.1,CDS,E0E12-RS12740,SAA6008_02280,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1183,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000231632.1,CDS,E0E12-RS06115,NA,Unmapped,mRNA
+Endpoint 1,WP_000195429.1,CDS,E0E12-RS01575,NA,Unmapped,mRNA
+Endpoint 1,WP_000610169.1,CDS,E0E12-RS01190,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01196,3UTR,E0E12-RS11565,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00555,3UTR,E0E12-RS05585,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000825819.1,CDS,E0E12-RS12440,SAA6008_02225,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t67,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000808621.1,CDS,E0E12-RS08980,SAA6008_01651,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000559156.1,CDS,E0E12-RS02615,SAA6008_00484,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001800370.1,CDS,E0E12-RS01840,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00275,3UTR,E0E12-RS03240,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,INT-0-528,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000725162.1,CDS,E0E12-RS08500,SAA6008_01564,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001791010.1,CDS,E0E12-RS02135,NA,Unmapped,mRNA
+Endpoint 1,WP_000626897.1,CDS,E0E12-RS06415,SAA6008_01173,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00469,3UTR,E0E12-RS05080,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000931232.1,CDS,E0E12-RS03955,NA,Unmapped,mRNA
+Endpoint 1,WP_000106144.1,CDS,E0E12-RS08995,NA,Unmapped,mRNA
+Endpoint 1,WP_000934798.1,CDS,E0E12-RS01830,NA,Unmapped,mRNA
+Endpoint 1,WP_000258003.1,CDS,E0E12-RS05200,SAA6008_00950,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001108346.1,CDS,E0E12-RS08860,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t27,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000803162.1,CDS,E0E12-RS07165,NA,Unmapped,mRNA
+Endpoint 1,SprA2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Saa-6008-C1.11656,CDS,E0E12-RS11180,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-442,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-442,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,Sau6912-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Sau6912-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001118726.1,CDS,E0E12-RS13610,NA,Unmapped,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000904312.1,CDS,E0E12-RS02695,NA,Unmapped,mRNA
+Endpoint 1,WP_000813311.1,CDS,E0E12-RS01950,NA,Unmapped,mRNA
+Endpoint 1,WP_000216727.1,CDS,E0E12-RS03920,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1190,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000513308.1,CDS,E0E12-RS04290,NA,Unmapped,mRNA
+Endpoint 1,WP_000154161.1,CDS,E0E12-RS15385,SAA6008_02758,Common-name match: gene_symbol,mRNA
+Endpoint 1,sprF1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_000811375.1,CDS,E0E12-RS05720,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000421410.1,CDS,E0E12-RS02070,SAA6008_00387,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001121760.1,CDS,E0E12-RS04375,SAA6008_00791,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000690002.1,CDS,E0E12-RS09120,NA,Unmapped,mRNA
+Endpoint 1,WP_000387527.1,CDS,E0E12-RS12750,SAA6008_02282,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000943842.1,CDS,E0E12-RS01580,SAA6008_00297,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-944,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001051556.1,CDS,E0E12-RS13200,NA,Unmapped,mRNA
+Endpoint 1,WP_000106144.1,CDS,E0E12-RS08995,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001036663.1,CDS,E0E12-RS02505,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000185319.1,CDS,E0E12-RS05015,NA,Unmapped,mRNA
+Endpoint 1,WP_000542274.1,CDS,E0E12-RS12640,SAA6008_02260,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000110247.1,CDS,E0E12-RS06560,SAA6008_01201,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t32,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000691766.1,CDS,E0E12-RS02725,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01253,3UTR,E0E12-RS11985,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001290430.1,CDS,E0E12-RS00005,SAA6008_00001,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t14,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,INT-0-513,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000808621.1,CDS,E0E12-RS08980,SAA6008_01651,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00741,3UTR,E0E12-RS07200,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000082539.1,CDS,E0E12-RS07095,NA,Unmapped,mRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000057549.1,CDS,E0E12-RS04300,NA,Unmapped,mRNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,WP_001269643.1,CDS,E0E12-RS02720,SAA6008_00500,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000369727.1,CDS,E0E12-RS04315,SAA6008_00780,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000403839.1,CDS,E0E12-RS01875,NA,Unmapped,mRNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00276,3UTR,E0E12-RS03240,NA,Unmapped,Regulatory RNA
+Endpoint 1,Teg35,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001801842.1,CDS,E0E12-RS02410,SAA6008_00448,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000264071.1,CDS,E0E12-RS02080,SAA6008_00389,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000391031.1,CDS,E0E12-RS06245,SAA6008_01139,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA275,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SprA2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001118443.1,CDS,E0E12-RS12665,SAA6008_02265,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA275,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-344,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000149344.1,CDS,E0E12-RS03970,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000195429.1,CDS,E0E12-RS04175,NA,Unmapped,mRNA
+Endpoint 1,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_001118443.1,CDS,E0E12-RS12665,SAA6008_02265,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000975342.1,CDS,E0E12-RS01225,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1162,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001224793.1,CDS,E0E12-RS04295,NA,Unmapped,mRNA
+Endpoint 1,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000193917.1,CDS,E0E12-RS09310,NA,Unmapped,mRNA
+Endpoint 1,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-01253,3UTR,E0E12-RS11985,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00954,3UTR,E0E12-RS09120,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-01534,3UTR,E0E12-RS14500,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01379,3UTR,E0E12-RS13155,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000888997.1,CDS,E0E12-RS06250,SAA6008_01140,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t71,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000154930.1,CDS,E0E12-RS05055,SAA6008_00920,Common-name match: gene_symbol,mRNA
+Endpoint 1,5UTR-00182,5UTR,E0E12-RS03945,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000818914.1,CDS,E0E12-RS00970,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t04,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001255379.1,CDS,E0E12-RS14695,NA,Unmapped,mRNA
+Endpoint 1,WP_000173891.1,CDS,E0E12-RS00485,NA,Unmapped,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001242578.1,CDS,E0E12-RS00180,SAA6008_00033,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001789518.1,CDS,E0E12-RS02045,NA,Unmapped,mRNA
+Endpoint 1,WP_031784974.1,CDS,E0E12-RS10005,NA,Unmapped,mRNA
+Endpoint 1,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00020,3UTR,E0E12-RS00185,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001196354.1,CDS,E0E12-RS09490,NA,Unmapped,mRNA
+Endpoint 1,WP_000205572.1,CDS,E0E12-RS04765,SAA6008_00865,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-1016,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000888997.1,CDS,E0E12-RS06250,SAA6008_01140,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-01603,3UTR,E0E12-RS15245,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001240826.1,CDS,E0E12-RS01360,SAA6008_00256,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000129653.1,CDS,E0E12-RS04870,SAA6008_00883,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000597335.1,CDS,E0E12-RS03305,SAA6008_00598,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000402172.1,CDS,E0E12-RS03575,NA,Unmapped,mRNA
+Endpoint 1,WP_000273483.1,CDS,E0E12-RS02170,NA,Unmapped,mRNA
+Endpoint 1,WP_000681758.1,CDS,E0E12-RS07905,NA,Unmapped,mRNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000043634.1,CDS,E0E12-RS06690,SAA6008_01224,Common-name match: gene_symbol,mRNA
+Endpoint 1,5UTR-00328,5UTR,E0E12-RS06185,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1360,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-778,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000098285.1,CDS,E0E12-RS04035,SAA6008_00734,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000737976.1,CDS,E0E12-RS09845,SAA6008_01792,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001050548.1,CDS,E0E12-RS09410,SAA6008_01728,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-999,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000258003.1,CDS,E0E12-RS05200,SAA6008_00950,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-160,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS04580,NA,Unmapped,mRNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS04580,NA,Unmapped,mRNA
+Endpoint 1,WP_000255583.1,CDS,E0E12-RS00025,SAA6008_00005,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-341,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-341,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-341,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-341,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-341,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-341,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 1,WP_000545370.1,CDS,E0E12-RS10725,SAA6008_01920,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000290301.1,CDS,E0E12-RS09910,NA,Unmapped,mRNA
+Endpoint 1,WP_001290430.1,CDS,E0E12-RS00005,SAA6008_00001,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000387527.1,CDS,E0E12-RS12750,SAA6008_02282,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000904312.1,CDS,E0E12-RS02695,NA,Unmapped,mRNA
+Endpoint 1,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000513308.1,CDS,E0E12-RS04290,NA,Unmapped,mRNA
+Endpoint 1,WP_000640490.1,CDS,E0E12-RS07190,NA,Unmapped,mRNA
+Endpoint 1,WP_000216727.1,CDS,E0E12-RS03920,NA,Unmapped,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000178881.1,CDS,E0E12-RS12705,SAA6008_02273,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000774281.1,CDS,E0E12-RS03290,SAA6008_00595,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000354184.1,CDS,E0E12-RS06360,NA,Unmapped,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-1126,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000483713.1,CDS,E0E12-RS05620,NA,Unmapped,mRNA
+Endpoint 1,WP_001288048.1,CDS,E0E12-RS03890,NA,Unmapped,mRNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,WP_000688492.1,CDS,E0E12-RS11575,NA,Unmapped,mRNA
+Endpoint 1,WP_000354088.1,CDS,E0E12-RS03275,NA,Unmapped,mRNA
+Endpoint 1,INT-0-513,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-628,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,5UTR-00178,5UTR,E0E12-RS03870,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1190,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-01196,3UTR,E0E12-RS11565,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000119405.1,CDS,E0E12-RS00175,NA,Unmapped,mRNA
+Endpoint 1,WP_000863479.1,CDS,E0E12-RS06515,SAA6008_01192,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,rsaOF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-528,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,INT-0-500,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001212860.1,CDS,E0E12-RS07005,NA,Unmapped,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000129653.1,CDS,E0E12-RS04870,SAA6008_00883,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000138487.1,CDS,E0E12-RS05005,NA,Unmapped,mRNA
+Endpoint 1,WP_000682646.1,CDS,E0E12-RS08665,NA,Unmapped,mRNA
+Endpoint 1,WP_000211676.1,CDS,E0E12-RS02000,NA,Unmapped,mRNA
+Endpoint 1,WP_000926310.1,CDS,E0E12-RS12740,SAA6008_02280,Common-name match: gene_symbol,mRNA
+Endpoint 1,SRNA305,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000395692.1,CDS,E0E12-RS04880,SAA6008_00885,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000592303.1,CDS,E0E12-RS12835,NA,Unmapped,mRNA
+Endpoint 1,WP_000079317.1,CDS,E0E12-RS06035,NA,Unmapped,mRNA
+Endpoint 1,RsaOB,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00013,3UTR,E0E12-RS00180,NA,Unmapped,Regulatory RNA
+Endpoint 1,Saa-6008-C1.2493-1,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00824,3UTR,E0E12-RS07910,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-554,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SRNA305,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000387527.1,CDS,E0E12-RS12750,SAA6008_02282,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000244412.1,CDS,E0E12-RS03965,NA,Unmapped,mRNA
+Endpoint 1,WP_000634175.1,CDS,E0E12-RS09125,NA,Unmapped,mRNA
+Endpoint 1,WP_000140679.1,CDS,E0E12-RS11980,NA,Unmapped,mRNA
+Endpoint 1,WP_000940769.1,CDS,E0E12-RS00710,NA,Unmapped,mRNA
+Endpoint 1,5UTR-00908,5UTR,E0E12-RS02135,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000733431.1,CDS,E0E12-RS03825,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01379,3UTR,E0E12-RS13155,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000258003.1,CDS,E0E12-RS05200,SAA6008_00950,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 1,SprA2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000391031.1,CDS,E0E12-RS06245,SAA6008_01139,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000667286.1,CDS,E0E12-RS00640,NA,Unmapped,mRNA
+Endpoint 1,WP_000667286.1,CDS,E0E12-RS00640,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-1162,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000110247.1,CDS,E0E12-RS06560,SAA6008_01201,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00405,3UTR,E0E12-RS04400,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000573077.1,CDS,E0E12-RS04960,NA,Unmapped,mRNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SRNA305,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-01534,3UTR,E0E12-RS14500,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001216937.1,CDS,E0E12-RS00730,NA,Unmapped,mRNA
+Endpoint 1,WP_000231632.1,CDS,E0E12-RS06115,NA,Unmapped,mRNA
+Endpoint 1,WP_000178881.1,CDS,E0E12-RS12705,SAA6008_02273,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001071132.1,CDS,E0E12-RS07260,SAA6008_01325,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001548498.1,CDS,E0E12-RS06260,NA,Unmapped,mRNA
+Endpoint 1,WP_000731644.1,CDS,E0E12-RS03755,NA,Unmapped,mRNA
+Endpoint 1,WP_000774281.1,CDS,E0E12-RS03290,SAA6008_00595,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001801873.1,CDS,E0E12-RS00215,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00405,3UTR,E0E12-RS04400,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001115440.1,CDS,E0E12-RS07530,SAA6008_01378,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001242578.1,CDS,E0E12-RS00180,SAA6008_00033,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00020,3UTR,E0E12-RS00185,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00120,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA79,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-571,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-103,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sprG1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000148828.1,CDS,E0E12-RS03845,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000562498.1,CDS,E0E12-RS04120,SAA6008_00747,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000034978.1,CDS,E0E12-RS00975,NA,Unmapped,mRNA
+Endpoint 1,INT-0-318,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaOB,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000110247.1,CDS,E0E12-RS06560,SAA6008_01201,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000847933.1,CDS,E0E12-RS06430,SAA6008_01176,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000801982.1,CDS,E0E12-RS01940,NA,Unmapped,mRNA
+Endpoint 1,WP_000271554.1,CDS,E0E12-RS08740,SAA6008_01611,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000622776.1,CDS,E0E12-RS11145,NA,Unmapped,mRNA
+Endpoint 1,WP_000864305.1,CDS,E0E12-RS00080,SAA6008_00015,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000667286.1,CDS,E0E12-RS00640,NA,Unmapped,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-442,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-442,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000264071.1,CDS,E0E12-RS02080,SAA6008_00389,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000205572.1,CDS,E0E12-RS04765,SAA6008_00865,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000469947.1,CDS,E0E12-RS07365,NA,Unmapped,mRNA
+Endpoint 1,WP_000437472.1,CDS,E0E12-RS05690,NA,Unmapped,mRNA
+Endpoint 1,WP_000855505.1,CDS,E0E12-RS04115,SAA6008_00746,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000829167.1,CDS,E0E12-RS09040,NA,Unmapped,mRNA
+Endpoint 1,INT-0-513,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-449,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 1,WP_001041908.1,CDS,E0E12-RS00280,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01196,3UTR,E0E12-RS11565,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000098285.1,CDS,E0E12-RS04035,SAA6008_00734,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000230361.1,CDS,E0E12-RS01850,NA,Unmapped,mRNA
+Endpoint 1,WP_001085792.1,CDS,E0E12-RS03015,SAA6008_00543,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 1,WP_000264071.1,CDS,E0E12-RS02080,SAA6008_00389,Common-name match: gene_symbol,mRNA
+Endpoint 1,Teg51,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001028294.1,CDS,E0E12-RS00720,NA,Unmapped,mRNA
+Endpoint 1,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000214170.1,CDS,E0E12-RS01915,NA,Unmapped,mRNA
+Endpoint 1,WP_000152734.1,CDS,E0E12-RS07805,NA,Unmapped,mRNA
+Endpoint 1,WP_001269643.1,CDS,E0E12-RS02720,SAA6008_00500,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001010762.1,CDS,E0E12-RS05560,SAA6008_01015,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001276571.1,CDS,E0E12-RS08195,NA,Unmapped,mRNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,INT-0-103,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000161738.1,CDS,E0E12-RS07870,NA,Unmapped,mRNA
+Endpoint 1,INT-0-433,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001106113.1,CDS,E0E12-RS03170,NA,Unmapped,mRNA
+Endpoint 1,5UTR-00901,5UTR,E0E12-RS01940,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000872486.1,CDS,E0E12-RS01210,NA,Unmapped,mRNA
+Endpoint 1,WP_000872158.1,CDS,E0E12-RS05915,NA,Unmapped,mRNA
+Endpoint 1,INT-0-493,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1016,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000651160.1,CDS,E0E12-RS07230,NA,Unmapped,mRNA
+Endpoint 1,WP_000598264.1,CDS,E0E12-RS01205,NA,Unmapped,mRNA
+Endpoint 1,WP_000551362.1,CDS,E0E12-RS02560,SAA6008_00475,Common-name match: gene_symbol,mRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,WP_000181404.1,CDS,E0E12-RS06535,SAA6008_01196,Common-name match: gene_symbol,mRNA
+Endpoint 1,Teg6as,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000511133.1,CDS,E0E12-RS11960,NA,Unmapped,mRNA
+Endpoint 1,5UTR-00504,5UTR,E0E12-RS08960,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000887915.1,CDS,E0E12-RS03080,NA,Unmapped,mRNA
+Endpoint 1,Sau6053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,Saa-6008-C1.3021-1,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 1,WP_000070826.1,CDS,E0E12-RS04345,NA,Unmapped,mRNA
+Endpoint 1,WP_001196354.1,CDS,E0E12-RS09490,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000931232.1,CDS,E0E12-RS03955,NA,Unmapped,mRNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000244412.1,CDS,E0E12-RS03965,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00555,3UTR,E0E12-RS05585,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000140679.1,CDS,E0E12-RS11980,NA,Unmapped,mRNA
+Endpoint 1,WP_000364855.1,CDS,E0E12-RS01525,NA,Unmapped,mRNA
+Endpoint 1,WP_000940769.1,CDS,E0E12-RS00710,NA,Unmapped,mRNA
+Endpoint 1,WP_000940769.1,CDS,E0E12-RS00710,NA,Unmapped,mRNA
+Endpoint 1,SprA2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001106057.1,CDS,E0E12-RS00150,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00275,3UTR,E0E12-RS03240,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001269643.1,CDS,E0E12-RS02720,SAA6008_00500,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000193707.1,CDS,E0E12-RS08080,SAA6008_01480,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-528,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000626897.1,CDS,E0E12-RS06415,SAA6008_01173,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000626897.1,CDS,E0E12-RS06415,SAA6008_01173,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001288202.1,CDS,E0E12-RS02840,SAA6008_00522,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000980134.1,CDS,E0E12-RS03695,NA,Unmapped,mRNA
+Endpoint 1,WP_000216727.1,CDS,E0E12-RS03920,NA,Unmapped,mRNA
+Endpoint 1,WP_000035320.1,CDS,E0E12-RS05745,SAA6008_01048,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-318,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,5UTR-00859,5UTR,E0E12-RS00175,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000894660.1,CDS,E0E12-RS01030,SAA6008_00194,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001548566.1,CDS,E0E12-RS06580,SAA6008_01205,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00911,3UTR,E0E12-RS08680,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000428172.1,CDS,E0E12-RS10610,NA,Unmapped,mRNA
+Endpoint 1,WP_001167887.1,CDS,E0E12-RS02805,NA,Unmapped,mRNA
+Endpoint 1,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-01253,3UTR,E0E12-RS11985,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000421410.1,CDS,E0E12-RS02070,SAA6008_00387,Common-name match: gene_symbol,mRNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000774281.1,CDS,E0E12-RS03290,SAA6008_00595,Common-name match: gene_symbol,mRNA
+Endpoint 1,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001062972.1,CDS,E0E12-RS03990,SAA6008_00726,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001105707.1,CDS,E0E12-RS11560,NA,Unmapped,mRNA
+Endpoint 1,WP_001031975.1,CDS,E0E12-RS05540,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00209,3UTR,E0E12-RS02450,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-449,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-449,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000451774.1,CDS,E0E12-RS01410,NA,Unmapped,mRNA
+Endpoint 1,WP_001190841.1,CDS,E0E12-RS11830,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_002484873.1,CDS,E0E12-RS15545,NA,Unmapped,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_000818278.1,CDS,E0E12-RS06040,SAA6008_01102,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001801873.1,CDS,E0E12-RS00215,NA,Unmapped,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000282655.1,CDS,E0E12-RS11025,NA,Unmapped,mRNA
+Endpoint 1,5UTR-00993,5UTR,E0E12-RS06120,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001106113.1,CDS,E0E12-RS03170,NA,Unmapped,mRNA
+Endpoint 1,INT-0-488,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sprG1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000388082.1,CDS,E0E12-RS12765,SAA6008_02285,Common-name match: gene_symbol,mRNA
+Endpoint 1,SRNA64,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t12,tRNA,NA,SAA6008_t12,Feature-name match: gene_id,tRNA
+Endpoint 1,WP_000613541.1,CDS,E0E12-RS04875,SAA6008_00884,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00013,3UTR,E0E12-RS00180,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000809131.1,CDS,E0E12-RS07470,NA,Unmapped,mRNA
+Endpoint 1,WP_001137495.1,CDS,E0E12-RS03065,SAA6008_00552,Common-name match: gene_symbol,mRNA
+Endpoint 1,Saa-6008-C1.10181,CDS,E0E12-RS09755,NA,Unmapped,mRNA
+Endpoint 1,WP_000195429.1,CDS,E0E12-RS05530,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00050,5UTR,E0E12-RS01210,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000193917.1,CDS,E0E12-RS09310,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001033867.1,CDS,E0E12-RS05375,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000868999.1,CDS,E0E12-RS02730,SAA6008_00502,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000173891.1,CDS,E0E12-RS00485,NA,Unmapped,mRNA
+Endpoint 1,WP_000691584.1,CDS,E0E12-RS10980,NA,Unmapped,mRNA
+Endpoint 1,WP_000205572.1,CDS,E0E12-RS04765,SAA6008_00865,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000057330.1,CDS,E0E12-RS06630,NA,Unmapped,mRNA
+Endpoint 1,WP_000369727.1,CDS,E0E12-RS04315,SAA6008_00780,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,INT-0-612,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-488,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-500,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,Saa-6008-C1.2493,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,WP_000448927.1,CDS,E0E12-RS05195,SAA6008_00949,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000264071.1,CDS,E0E12-RS02080,SAA6008_00389,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA171,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-01603,3UTR,E0E12-RS15245,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-555,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-500,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000043634.1,CDS,E0E12-RS06690,SAA6008_01224,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-529,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-1016,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001208760.1,CDS,E0E12-RS07125,SAA6008_01305,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001103743.1,CDS,E0E12-RS06840,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00013,3UTR,E0E12-RS00180,NA,Unmapped,Regulatory RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,Teg83,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001270834.1,CDS,E0E12-RS05250,NA,Unmapped,mRNA
+Endpoint 1,WP_001283055.1,CDS,E0E12-RS08335,SAA6008_01530,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000079317.1,CDS,E0E12-RS06035,NA,Unmapped,mRNA
+Endpoint 1,5UTR-00645,5UTR,E0E12-RS11755,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000435132.1,CDS,E0E12-RS08970,SAA6008_01650,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-1153,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,WP_000915155.1,CDS,E0E12-RS05140,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000434765.1,CDS,E0E12-RS09370,NA,Unmapped,mRNA
+Endpoint 1,WP_001801842.1,CDS,E0E12-RS02410,SAA6008_00448,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-103,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000818914.1,CDS,E0E12-RS00970,NA,Unmapped,mRNA
+Endpoint 1,WP_000076404.1,CDS,E0E12-RS03090,SAA6008_00557,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000506531.1,CDS,E0E12-RS04240,SAA6008_00768,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-552,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001217125.1,CDS,E0E12-RS09395,NA,Unmapped,mRNA
+Endpoint 1,WP_000749795.1,CDS,E0E12-RS08715,SAA6008_01606,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000391031.1,CDS,E0E12-RS06245,SAA6008_01139,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000511133.1,CDS,E0E12-RS11960,NA,Unmapped,mRNA
+Endpoint 1,WP_031784974.1,CDS,E0E12-RS10005,NA,Unmapped,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000166895.1,CDS,E0E12-RS00980,NA,Unmapped,mRNA
+Endpoint 1,INT-0-1007,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000473701.1,CDS,E0E12-RS06640,NA,Unmapped,mRNA
+Endpoint 1,WP_001240826.1,CDS,E0E12-RS01360,SAA6008_00256,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000129653.1,CDS,E0E12-RS04870,SAA6008_00883,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00040,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-01298,3UTR,E0E12-RS12225,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t27,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000769416.1,CDS,E0E12-RS04885,SAA6008_00886,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001018928.1,CDS,E0E12-RS06020,SAA6008_01099,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000882069.1,CDS,E0E12-RS02935,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00237,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001167887.1,CDS,E0E12-RS02805,NA,Unmapped,mRNA
+Endpoint 1,WP_001036663.1,CDS,E0E12-RS02505,NA,Unmapped,mRNA
+Endpoint 1,WP_000258003.1,CDS,E0E12-RS05200,SAA6008_00950,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000080028.1,CDS,E0E12-RS09025,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001010762.1,CDS,E0E12-RS05560,SAA6008_01015,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000931232.1,CDS,E0E12-RS03955,NA,Unmapped,mRNA
+Endpoint 1,WP_000757884.1,CDS,E0E12-RS01310,NA,Unmapped,mRNA
+Endpoint 1,SprA2/RsaJ,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000897132.1,CDS,E0E12-RS02945,NA,Unmapped,mRNA
+Endpoint 1,WP_001056228.1,CDS,E0E12-RS04445,SAA6008_00803,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000082731.1,CDS,E0E12-RS05220,NA,Unmapped,mRNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000904312.1,CDS,E0E12-RS02695,NA,Unmapped,mRNA
+Endpoint 1,WP_000435107.1,CDS,E0E12-RS03880,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-554,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-554,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,5UTR-00908,5UTR,E0E12-RS02135,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1029,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-1007,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SprA2/SprAs2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000940769.1,CDS,E0E12-RS00710,NA,Unmapped,mRNA
+Endpoint 1,WP_000175756.1,CDS,E0E12-RS07620,NA,Unmapped,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-332,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000813311.1,CDS,E0E12-RS01950,NA,Unmapped,mRNA
+Endpoint 1,WP_000594994.1,CDS,E0E12-RS08710,SAA6008_01605,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000434765.1,CDS,E0E12-RS09370,NA,Unmapped,mRNA
+Endpoint 1,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t12,tRNA,NA,SAA6008_t12,Feature-name match: gene_id,tRNA
+Endpoint 1,WP_001288202.1,CDS,E0E12-RS02840,SAA6008_00522,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000125701.1,CDS,E0E12-RS14795,NA,Unmapped,mRNA
+Endpoint 1,5UTR-01090,5UTR,E0E12-RS11145,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001096491.1,CDS,E0E12-RS09560,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,3UTR-00397,3UTR,E0E12-RS04375,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001234988.1,CDS,E0E12-RS02780,NA,Unmapped,mRNA
+Endpoint 1,WP_001234988.1,CDS,E0E12-RS02780,NA,Unmapped,mRNA
+Endpoint 1,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000435107.1,CDS,E0E12-RS03880,NA,Unmapped,mRNA
+Endpoint 1,WP_000769689.1,CDS,E0E12-RS05120,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t38,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t35,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-513,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000562498.1,CDS,E0E12-RS04120,SAA6008_00747,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,WP_000120368.1,CDS,E0E12-RS03750,NA,Unmapped,mRNA
+Endpoint 1,WP_000930486.1,CDS,E0E12-RS02025,SAA6008_00380,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00343,5UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001288202.1,CDS,E0E12-RS02840,SAA6008_00522,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA112,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000425353.1,CDS,E0E12-RS08865,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000733431.1,CDS,E0E12-RS03825,NA,Unmapped,mRNA
+Endpoint 1,WP_000145499.1,CDS,E0E12-RS05795,NA,Unmapped,mRNA
+Endpoint 1,WP_000682646.1,CDS,E0E12-RS08665,NA,Unmapped,mRNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001010762.1,CDS,E0E12-RS05560,SAA6008_01015,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000610169.1,CDS,E0E12-RS01190,NA,Unmapped,mRNA
+Endpoint 1,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 1,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-01379,3UTR,E0E12-RS13155,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00504,5UTR,E0E12-RS08960,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1739,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SRNA305,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000691766.1,CDS,E0E12-RS02725,NA,Unmapped,mRNA
+Endpoint 1,WP_000004086.1,CDS,E0E12-RS12730,SAA6008_02278,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000613541.1,CDS,E0E12-RS04875,SAA6008_00884,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001093553.1,CDS,E0E12-RS03980,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000888494.1,CDS,E0E12-RS06420,NA,Unmapped,mRNA
+Endpoint 1,WP_001269643.1,CDS,E0E12-RS02720,SAA6008_00500,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000168000.1,CDS,E0E12-RS01195,NA,Unmapped,mRNA
+Endpoint 1,WP_000043634.1,CDS,E0E12-RS06690,SAA6008_01224,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000193917.1,CDS,E0E12-RS09310,NA,Unmapped,mRNA
+Endpoint 1,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-1162,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000613541.1,CDS,E0E12-RS04875,SAA6008_00884,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001117064.1,CDS,E0E12-RS06280,NA,Unmapped,mRNA
+Endpoint 1,WP_000934798.1,CDS,E0E12-RS01830,NA,Unmapped,mRNA
+Endpoint 1,WP_000621175.1,CDS,E0E12-RS11770,NA,Unmapped,mRNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000034978.1,CDS,E0E12-RS00975,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01534,3UTR,E0E12-RS14500,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t14,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001548498.1,CDS,E0E12-RS06260,NA,Unmapped,mRNA
+Endpoint 1,WP_000862083.1,CDS,E0E12-RS09265,SAA6008_01703,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000102735.1,CDS,E0E12-RS08660,NA,Unmapped,mRNA
+Endpoint 1,WP_001008551.1,CDS,E0E12-RS09495,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00824,3UTR,E0E12-RS07910,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001213992.1,CDS,E0E12-RS02610,NA,Unmapped,mRNA
+Endpoint 1,WP_001242578.1,CDS,E0E12-RS00180,SAA6008_00033,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00020,3UTR,E0E12-RS00185,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000833483.1,CDS,E0E12-RS03780,NA,Unmapped,mRNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_014373779.1,CDS,E0E12-RS02445,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t14,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000270135.1,CDS,E0E12-RS01845,NA,Unmapped,mRNA
+Endpoint 1,WP_000868999.1,CDS,E0E12-RS02730,SAA6008_00502,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-1847,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t23,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00067,3UTR,E0E12-RS00785,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000271554.1,CDS,E0E12-RS08740,SAA6008_01611,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000009069.1,CDS,E0E12-RS05670,NA,Unmapped,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,Sau6053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000817954.1,CDS,E0E12-RS03640,NA,Unmapped,mRNA
+Endpoint 1,WP_001017866.1,CDS,E0E12-RS08275,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001126264.1,CDS,E0E12-RS06340,SAA6008_01157,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000829167.1,CDS,E0E12-RS09040,NA,Unmapped,mRNA
+Endpoint 1,WP_001108346.1,CDS,E0E12-RS08860,NA,Unmapped,mRNA
+Endpoint 1,WP_000415673.1,CDS,E0E12-RS01480,NA,Unmapped,mRNA
+Endpoint 1,INT-0-449,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00469,3UTR,E0E12-RS05080,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA171,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000931232.1,CDS,E0E12-RS03955,NA,Unmapped,mRNA
+Endpoint 1,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 1,WP_000361059.1,CDS,E0E12-RS04570,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01196,3UTR,E0E12-RS11565,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000569649.1,CDS,E0E12-RS12645,NA,Unmapped,mRNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000273483.1,CDS,E0E12-RS02170,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001031880.1,CDS,E0E12-RS01125,NA,Unmapped,mRNA
+Endpoint 1,WP_000808621.1,CDS,E0E12-RS08980,SAA6008_01651,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000803162.1,CDS,E0E12-RS07165,NA,Unmapped,mRNA
+Endpoint 1,WP_000134779.1,CDS,E0E12-RS08600,NA,Unmapped,mRNA
+Endpoint 1,Sau6053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001117064.1,CDS,E0E12-RS06280,NA,Unmapped,mRNA
+Endpoint 1,WP_000667286.1,CDS,E0E12-RS00640,NA,Unmapped,mRNA
+Endpoint 1,WP_000667286.1,CDS,E0E12-RS00640,NA,Unmapped,mRNA
+Endpoint 1,INT-0-998,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000211676.1,CDS,E0E12-RS02000,NA,Unmapped,mRNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001056228.1,CDS,E0E12-RS04445,SAA6008_00803,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000057330.1,CDS,E0E12-RS06630,NA,Unmapped,mRNA
+Endpoint 1,WP_000057594.1,CDS,E0E12-RS02815,SAA6008_00518,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000186933.1,CDS,E0E12-RS13575,NA,Unmapped,mRNA
+Endpoint 1,WP_000872486.1,CDS,E0E12-RS01210,NA,Unmapped,mRNA
+Endpoint 1,Saa-6008-C1.2493,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,WP_000505965.1,CDS,E0E12-RS05685,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,WP_000106144.1,CDS,E0E12-RS08995,NA,Unmapped,mRNA
+Endpoint 1,WP_000491755.1,CDS,E0E12-RS03745,NA,Unmapped,mRNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS04580,NA,Unmapped,mRNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS04580,NA,Unmapped,mRNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS04580,NA,Unmapped,mRNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000598264.1,CDS,E0E12-RS01205,NA,Unmapped,mRNA
+Endpoint 1,WP_000185319.1,CDS,E0E12-RS05015,NA,Unmapped,mRNA
+Endpoint 1,WP_000666761.1,CDS,E0E12-RS08510,SAA6008_01566,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000082539.1,CDS,E0E12-RS07095,NA,Unmapped,mRNA
+Endpoint 1,WP_000181404.1,CDS,E0E12-RS06535,SAA6008_01196,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,WP_000491755.1,CDS,E0E12-RS03745,NA,Unmapped,mRNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,Saa-6008-C1.3021-1,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,WP_001288302.1,CDS,E0E12-RS03010,SAA6008_00542,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000746687.1,CDS,E0E12-RS02015,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,3UTR-00555,3UTR,E0E12-RS05585,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000887915.1,CDS,E0E12-RS03080,NA,Unmapped,mRNA
+Endpoint 1,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000147103.1,CDS,E0E12-RS06190,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01185,3UTR,E0E12-RS11550,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00013,3UTR,E0E12-RS00180,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000940769.1,CDS,E0E12-RS00710,NA,Unmapped,mRNA
+Endpoint 1,WP_000542274.1,CDS,E0E12-RS12640,SAA6008_02260,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000565300.1,CDS,E0E12-RS00705,NA,Unmapped,mRNA
+Endpoint 1,WP_001085220.1,CDS,E0E12-RS02950,SAA6008_00532,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000260117.1,CDS,E0E12-RS05760,NA,Unmapped,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_001249285.1,CDS,E0E12-RS06015,NA,Unmapped,mRNA
+Endpoint 1,WP_000565300.1,CDS,E0E12-RS00705,NA,Unmapped,mRNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00166,5UTR,E0E12-RS03745,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00405,3UTR,E0E12-RS04400,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000268484.1,CDS,E0E12-RS06615,SAA6008_01211,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000956747.1,CDS,E0E12-RS06940,NA,Unmapped,mRNA
+Endpoint 1,WP_000942298.1,CDS,E0E12-RS07420,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001273586.1,CDS,E0E12-RS03035,SAA6008_00546,Common-name match: gene_symbol,mRNA
+Endpoint 1,SprA2/SprAs2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000398672.1,CDS,E0E12-RS06185,NA,Unmapped,mRNA
+Endpoint 1,WP_000134232.1,CDS,E0E12-RS03175,NA,Unmapped,mRNA
+Endpoint 1,WP_000421410.1,CDS,E0E12-RS02070,SAA6008_00387,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001290430.1,CDS,E0E12-RS00005,SAA6008_00001,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-944,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-01241,3UTR,E0E12-RS11895,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001074753.1,CDS,E0E12-RS04360,NA,Unmapped,mRNA
+Endpoint 1,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 1,Teg4,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t41,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,INT-0-488,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000847933.1,CDS,E0E12-RS06430,SAA6008_01176,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaOB,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000431306.1,CDS,E0E12-RS01425,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000451774.1,CDS,E0E12-RS01410,NA,Unmapped,mRNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000079317.1,CDS,E0E12-RS06035,NA,Unmapped,mRNA
+Endpoint 1,WP_000057549.1,CDS,E0E12-RS04300,NA,Unmapped,mRNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000119405.1,CDS,E0E12-RS00175,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000057594.1,CDS,E0E12-RS02815,SAA6008_00518,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000822596.1,CDS,E0E12-RS01040,NA,Unmapped,mRNA
+Endpoint 1,WP_001281787.1,CDS,E0E12-RS01930,NA,Unmapped,mRNA
+Endpoint 1,WP_001092058.1,CDS,E0E12-RS04595,NA,Unmapped,mRNA
+Endpoint 1,INT-0-103,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000231632.1,CDS,E0E12-RS06115,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000633068.1,CDS,E0E12-RS13485,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000957015.1,CDS,E0E12-RS10740,SAA6008_01923,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000837752.1,CDS,E0E12-RS04865,NA,Unmapped,mRNA
+Endpoint 1,INT-0-822,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00254,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00166,5UTR,E0E12-RS03745,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001137495.1,CDS,E0E12-RS03065,SAA6008_00552,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000562498.1,CDS,E0E12-RS04120,SAA6008_00747,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001137495.1,CDS,E0E12-RS03065,SAA6008_00552,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000106144.1,CDS,E0E12-RS08995,NA,Unmapped,mRNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000934798.1,CDS,E0E12-RS01830,NA,Unmapped,mRNA
+Endpoint 1,SprA2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000573077.1,CDS,E0E12-RS04960,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00908,5UTR,E0E12-RS02135,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-944,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000134779.1,CDS,E0E12-RS08600,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1153,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001092058.1,CDS,E0E12-RS04595,NA,Unmapped,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000138351.1,CDS,E0E12-RS07750,NA,Unmapped,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000193917.1,CDS,E0E12-RS09310,NA,Unmapped,mRNA
+Endpoint 1,WP_000193917.1,CDS,E0E12-RS09310,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t66,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t36,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,5UTR-00166,5UTR,E0E12-RS03745,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000007967.1,CDS,E0E12-RS05035,NA,Unmapped,mRNA
+Endpoint 1,INT-0-948,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001273085.1,CDS,E0E12-RS03030,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01298,3UTR,E0E12-RS12225,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,Saa-6008-C1.2493,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001196354.1,CDS,E0E12-RS09490,NA,Unmapped,mRNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,WP_000897132.1,CDS,E0E12-RS02945,NA,Unmapped,mRNA
+Endpoint 1,WP_000402172.1,CDS,E0E12-RS03575,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA275,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-999,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1250,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS08820,NA,Unmapped,mRNA
+Endpoint 1,WP_001072197.1,CDS,E0E12-RS04580,NA,Unmapped,mRNA
+Endpoint 1,WP_000185319.1,CDS,E0E12-RS05015,NA,Unmapped,mRNA
+Endpoint 1,WP_000545370.1,CDS,E0E12-RS10725,SAA6008_01920,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00741,3UTR,E0E12-RS07200,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,Saa-6008-C1.2493,CDS,NA,NA,Unmapped,mRNA
+Endpoint 1,Teg70,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA344,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000110603.1,CDS,E0E12-RS08390,NA,Unmapped,mRNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,SRNA306,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001817892.1,CDS,E0E12-RS00165,NA,Unmapped,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SprX,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000402172.1,CDS,E0E12-RS03575,NA,Unmapped,mRNA
+Endpoint 1,3UTR-01253,3UTR,E0E12-RS11985,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000594994.1,CDS,E0E12-RS08710,SAA6008_01605,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000402172.1,CDS,E0E12-RS03575,NA,Unmapped,mRNA
+Endpoint 1,WP_000451774.1,CDS,E0E12-RS01410,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t39,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,3UTR-00469,3UTR,E0E12-RS05080,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1250,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1448,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t56,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000545370.1,CDS,E0E12-RS10725,SAA6008_01920,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,Teg51,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t12,tRNA,NA,SAA6008_t12,Feature-name match: gene_id,tRNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000211676.1,CDS,E0E12-RS02000,NA,Unmapped,mRNA
+Endpoint 1,WP_000926310.1,CDS,E0E12-RS12740,SAA6008_02280,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,5UTR-01028,5UTR,E0E12-RS07565,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t07,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t66,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t69,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t39,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,SAA6008-t36,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001791010.1,CDS,E0E12-RS02135,NA,Unmapped,mRNA
+Endpoint 1,5UTR-01090,5UTR,E0E12-RS11145,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000057330.1,CDS,E0E12-RS06630,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,3UTR-00164,3UTR,E0E12-RS01990,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00323,3UTR,E0E12-RS03750,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-625,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001092058.1,CDS,E0E12-RS04595,NA,Unmapped,mRNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000811375.1,CDS,E0E12-RS05720,NA,Unmapped,mRNA
+Endpoint 1,SRNA305,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-197,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00397,3UTR,E0E12-RS04375,NA,Unmapped,Regulatory RNA
+Endpoint 1,Sau46,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1739,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000610169.1,CDS,E0E12-RS01190,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00237,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000610169.1,CDS,E0E12-RS01190,NA,Unmapped,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001115440.1,CDS,E0E12-RS07530,SAA6008_01378,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,Teg142,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-1739,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000613541.1,CDS,E0E12-RS04875,SAA6008_00884,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000731644.1,CDS,E0E12-RS03755,NA,Unmapped,mRNA
+Endpoint 1,WP_001115440.1,CDS,E0E12-RS07530,SAA6008_01378,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-612,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_000110013.1,CDS,E0E12-RS10165,SAA6008_01818,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000538766.1,CDS,E0E12-RS05865,NA,Unmapped,mRNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,WP_000154161.1,CDS,E0E12-RS15385,SAA6008_02758,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000082539.1,CDS,E0E12-RS07095,NA,Unmapped,mRNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,SAA6008-t05,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_000915155.1,CDS,E0E12-RS05140,NA,Unmapped,mRNA
+Endpoint 1,WP_000195429.1,CDS,E0E12-RS01575,NA,Unmapped,mRNA
+Endpoint 1,WP_000195429.1,CDS,E0E12-RS01575,NA,Unmapped,mRNA
+Endpoint 1,WP_000152734.1,CDS,E0E12-RS07805,NA,Unmapped,mRNA
+Endpoint 1,Teg51,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001028294.1,CDS,E0E12-RS00720,NA,Unmapped,mRNA
+Endpoint 1,WP_000882069.1,CDS,E0E12-RS02935,NA,Unmapped,mRNA
+Endpoint 1,WP_001838365.1,CDS,E0E12-RS02970,SAA6008_00535,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000152734.1,CDS,E0E12-RS07805,NA,Unmapped,mRNA
+Endpoint 1,WP_000052590.1,CDS,E0E12-RS06725,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00415,3UTR,E0E12-RS04505,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000017736.1,CDS,E0E12-RS05555,SAA6008_01014,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000211676.1,CDS,E0E12-RS02000,NA,Unmapped,mRNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00178,5UTR,E0E12-RS03870,NA,Unmapped,Regulatory RNA
+Endpoint 1,SprA2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00230,5UTR,E0E12-RS04780,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000731644.1,CDS,E0E12-RS03755,NA,Unmapped,mRNA
+Endpoint 1,WP_000138487.1,CDS,E0E12-RS05005,NA,Unmapped,mRNA
+Endpoint 1,INT-0-125,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000888997.1,CDS,E0E12-RS06250,SAA6008_01140,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000231632.1,CDS,E0E12-RS06115,NA,Unmapped,mRNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000686342.1,CDS,E0E12-RS04220,NA,Unmapped,mRNA
+Endpoint 1,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 1,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-1153,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00664,3UTR,E0E12-RS06445,NA,Unmapped,Regulatory RNA
+Endpoint 1,SAA6008-t07,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,WP_001801861.1,CDS,E0E12-RS09730,SAA6008_01716,Common-name match: gene_symbol,mRNA
+Endpoint 1,5UTR-00458,5UTR,E0E12-RS08285,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,Teg70,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-944,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000933195.1,CDS,E0E12-RS05275,SAA6008_00965,Common-name match: gene_symbol,mRNA
+Endpoint 1,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00003,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001104611.1,CDS,E0E12-RS08420,SAA6008_01548,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000354088.1,CDS,E0E12-RS03275,NA,Unmapped,mRNA
+Endpoint 1,WP_001115440.1,CDS,E0E12-RS07530,SAA6008_01378,Common-name match: gene_symbol,mRNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000814103.1,CDS,E0E12-RS06655,NA,Unmapped,mRNA
+Endpoint 1,INT-0-488,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t02,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-449,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000057549.1,CDS,E0E12-RS04300,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000139712.1,CDS,E0E12-RS06045,SAA6008_01103,Common-name match: gene_symbol,mRNA
+Endpoint 1,3UTR-00275,3UTR,E0E12-RS03240,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA275,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-01571,3UTR,E0E12-RS14870,NA,Unmapped,Regulatory RNA
+Endpoint 1,5UTR-00166,5UTR,E0E12-RS03745,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00053,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000106144.1,CDS,E0E12-RS08995,NA,Unmapped,mRNA
+Endpoint 1,WP_000737976.1,CDS,E0E12-RS09845,SAA6008_01792,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000109900.1,CDS,E0E12-RS09630,SAA6008_01766,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-337,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_001118726.1,CDS,E0E12-RS13610,NA,Unmapped,mRNA
+Endpoint 1,WP_000813311.1,CDS,E0E12-RS01950,NA,Unmapped,mRNA
+Endpoint 1,Sau-6477/RsaOI,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000388082.1,CDS,E0E12-RS12765,SAA6008_02285,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000031515.1,CDS,E0E12-RS02580,SAA6008_00479,Common-name match: gene_symbol,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,3UTR-00824,3UTR,E0E12-RS07910,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 1,WP_000737976.1,CDS,E0E12-RS09845,SAA6008_01792,Common-name match: gene_symbol,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000811375.1,CDS,E0E12-RS05720,NA,Unmapped,mRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,3UTR-00397,3UTR,E0E12-RS04375,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 1,INT-0-944,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,WP_000134963.1,CDS,E0E12-RS04305,SAA6008_00779,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000057549.1,CDS,E0E12-RS04300,NA,Unmapped,mRNA
+Endpoint 1,WP_000193751.1,CDS,E0E12-RS04085,NA,Unmapped,mRNA
+Endpoint 1,SAA6008-t24,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,3UTR-00469,3UTR,E0E12-RS05080,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000739209.1,CDS,E0E12-RS06070,SAA6008_01107,Common-name match: gene_symbol,mRNA
+Endpoint 1,5UTR-00859,5UTR,E0E12-RS00175,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_000933774.1,CDS,E0E12-RS02745,NA,Unmapped,mRNA
+Endpoint 1,INT-0-345,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,SAA6008-t03,tRNA,NA,NA,Unmapped,tRNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001167887.1,CDS,E0E12-RS02805,NA,Unmapped,mRNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-948,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-1013,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,rsaOF-3,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-552,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,rsaOF-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-772,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-644,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,3UTR-00397,3UTR,E0E12-RS04375,NA,Unmapped,Regulatory RNA
+Endpoint 1,sprG1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_000140679.1,CDS,E0E12-RS11980,NA,Unmapped,mRNA
+Endpoint 1,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 1,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000216727.1,CDS,E0E12-RS03920,NA,Unmapped,mRNA
+Endpoint 1,WP_000728718.1,CDS,E0E12-RS00490,SAA6008_00089,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000691766.1,CDS,E0E12-RS02725,NA,Unmapped,mRNA
+Endpoint 1,WP_000123165.1,CDS,E0E12-RS09035,SAA6008_01661,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000138487.1,CDS,E0E12-RS05005,NA,Unmapped,mRNA
+Endpoint 1,WP_000957075.1,CDS,E0E12-RS02180,NA,Unmapped,mRNA
+Endpoint 1,WP_001255379.1,CDS,E0E12-RS14695,NA,Unmapped,mRNA
+Endpoint 1,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000031892.1,CDS,E0E12-RS03055,NA,Unmapped,mRNA
+Endpoint 1,Teg36,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,WP_001273586.1,CDS,E0E12-RS03035,SAA6008_00546,Common-name match: gene_symbol,mRNA
+Endpoint 1,WP_000897132.1,CDS,E0E12-RS02945,NA,Unmapped,mRNA
+Endpoint 1,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 1,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,Saa-6008-C1.11379,CDS,E0E12-RS11015,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,5UTR-00908-E0E12-RS02135,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,SRNA298,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000749795.1,CDS,E0E12-RS08715,SAA6008_01606,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1448,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001137495.1,CDS,E0E12-RS03065,SAA6008_00552,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_000070811.1,CDS,E0E12-RS09710,NA,Unmapped,mRNA
+Endpoint 2,INT-0-815,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000733283.1,CDS,E0E12-RS14680,NA,Unmapped,mRNA
+Endpoint 2,WP_000090516.1,CDS,E0E12-RS09180,SAA6008_01688,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000455861.1,CDS,E0E12-RS14430,NA,Unmapped,mRNA
+Endpoint 2,WP_001058111.1,CDS,E0E12-RS11735,NA,Unmapped,mRNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000545451.1,CDS,E0E12-RS08910,NA,Unmapped,mRNA
+Endpoint 2,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 2,WP_000043634.1,CDS,E0E12-RS06690,SAA6008_01224,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1375,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1447,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1362,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001165377.1,CDS,E0E12-RS07200,NA,Unmapped,mRNA
+Endpoint 2,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1157,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000808500.1,CDS,E0E12-RS12905,NA,Unmapped,mRNA
+Endpoint 2,WP_000466769.1,CDS,E0E12-RS10295,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001085185.1,CDS,E0E12-RS04400,SAA6008_00796,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-421,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000725802.1,CDS,E0E12-RS11895,SAA6008_02128,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000702782.1,CDS,E0E12-RS03960,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000161314.1,CDS,E0E12-RS08265,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01592-E0E12-RS15080,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1761,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001024830.1,CDS,E0E12-RS07265,NA,Unmapped,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,sRNA275,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000157603.1,CDS,E0E12-RS11965,NA,Unmapped,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,5UTR-00119-E0E12-RS02835,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1376,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-00067-E0E12-RS00785,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1157,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000766074.1,CDS,E0E12-RS12680,SAA6008_02268,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000282655.1,CDS,E0E12-RS11025,NA,Unmapped,mRNA
+Endpoint 2,WP_000985472.1,CDS,E0E12-RS12760,SAA6008_02284,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-493,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 2,WP_000717381.1,CDS,E0E12-RS13045,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-1014,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1375,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1447,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-384,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-384,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000481443.1,CDS,E0E12-RS07140,SAA6008_01308,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000379054.1,CDS,E0E12-RS06600,SAA6008_01209,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000991007.1,CDS,E0E12-RS02040,NA,Unmapped,mRNA
+Endpoint 2,WP_000542274.1,CDS,E0E12-RS12640,SAA6008_02260,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001155264.1,CDS,E0E12-RS13115,SAA6008_02344,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000055337.1,CDS,E0E12-RS06605,SAA6008_01210,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1588,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 2,WP_000825819.1,CDS,E0E12-RS12440,SAA6008_02225,Common-name match: gene_symbol,mRNA
+Endpoint 2,5UTR-00702-E0E12-RS12810,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001130051.1,CDS,E0E12-RS14870,SAA6008_02403,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000952048.1,CDS,E0E12-RS03895,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000149503.1,CDS,E0E12-RS02940,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00664-E0E12-RS06445,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000939059.1,CDS,E0E12-RS08605,SAA6008_01586,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,WP_000133954.1,CDS,E0E12-RS07880,SAA6008_01444,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000702262.1,CDS,E0E12-RS10930,SAA6008_01955,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000157603.1,CDS,E0E12-RS11965,NA,Unmapped,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,5UTR-00119-E0E12-RS02835,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00415-E0E12-RS04505,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sprAs1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00120,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1655,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001174260.1,CDS,E0E12-RS07910,SAA6008_01448,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001106113.1,CDS,E0E12-RS03170,NA,Unmapped,mRNA
+Endpoint 2,WP_000974881.1,CDS,E0E12-RS11970,NA,Unmapped,mRNA
+Endpoint 2,WP_001055897.1,CDS,E0E12-RS01990,NA,Unmapped,mRNA
+Endpoint 2,WP_001283665.1,CDS,E0E12-RS07510,NA,Unmapped,mRNA
+Endpoint 2,SprG3/Teg19b/SprF3,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001092058.1,CDS,E0E12-RS08805,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00212-E0E12-RS02455,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000072681.1,CDS,E0E12-RS06595,SAA6008_01208,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001031407.1,CDS,E0E12-RS14865,NA,Unmapped,mRNA
+Endpoint 2,WP_001142338.1,CDS,E0E12-RS03060,SAA6008_00551,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1400,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-778,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Teg124,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-934,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000402803.1,CDS,E0E12-RS04965,NA,Unmapped,mRNA
+Endpoint 2,WP_000482650.1,CDS,E0E12-RS13810,NA,Unmapped,mRNA
+Endpoint 2,WP_000213875.1,CDS,E0E12-RS13340,NA,Unmapped,mRNA
+Endpoint 2,5UTR-00480-E0E12-RS08570,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Saa-6008-C1.14679,CDS,NA,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1696,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000241588.1,CDS,E0E12-RS08155,NA,Unmapped,mRNA
+Endpoint 2,Sau6057,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Teg4,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000036005.1,CDS,E0E12-RS12080,NA,Unmapped,mRNA
+Endpoint 2,WP_000559156.1,CDS,E0E12-RS02615,SAA6008_00484,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000534419.1,CDS,E0E12-RS14850,NA,Unmapped,mRNA
+Endpoint 2,WP_000110603.1,CDS,E0E12-RS08390,NA,Unmapped,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000623881.1,CDS,E0E12-RS12695,SAA6008_02271,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-669,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000616784.1,CDS,E0E12-RS12675,SAA6008_02267,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000867203.1,CDS,E0E12-RS03680,SAA6008_00667,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaX23,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000091975.1,CDS,E0E12-RS12700,SAA6008_02272,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1716,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000170975.1,CDS,E0E12-RS12610,SAA6008_02254,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001034057.1,CDS,E0E12-RS00735,NA,Unmapped,mRNA
+Endpoint 2,WP_001060146.1,CDS,E0E12-RS00120,NA,Unmapped,mRNA
+Endpoint 2,WP_001174260.1,CDS,E0E12-RS07910,SAA6008_01448,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001549718.1,CDS,E0E12-RS13380,NA,Unmapped,mRNA
+Endpoint 2,WP_000702782.1,CDS,E0E12-RS03960,NA,Unmapped,mRNA
+Endpoint 2,SRNA64,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000886005.1,CDS,E0E12-RS01730,NA,Unmapped,mRNA
+Endpoint 2,INT-0-639,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000691766.1,CDS,E0E12-RS02725,NA,Unmapped,mRNA
+Endpoint 2,WP_000648617.1,CDS,E0E12-RS08580,SAA6008_01581,Common-name match: gene_symbol,mRNA
+Endpoint 2,SRNA412,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000933774.1,CDS,E0E12-RS02745,NA,Unmapped,mRNA
+Endpoint 2,INT-0-383,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000664764.1,CDS,E0E12-RS06745,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,WP_000526539.1,CDS,"E0E12-RS09430,gbkey:=CDS",NA,Unmapped,mRNA
+Endpoint 2,SprX,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000934517.1,CDS,E0E12-RS03255,NA,Unmapped,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000140679.1,CDS,E0E12-RS11980,NA,Unmapped,mRNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00237,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1284,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000175735.1,CDS,E0E12-RS11020,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,tsr21,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000195429.1,CDS,E0E12-RS09605,NA,Unmapped,mRNA
+Endpoint 2,WP_000168000.1,CDS,E0E12-RS01195,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01200-E0E12-RS11565,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1119,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000090796.1,CDS,E0E12-RS12655,SAA6008_02263,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000746376.1,CDS,E0E12-RS14690,NA,Unmapped,mRNA
+Endpoint 2,WP_000794442.1,CDS,E0E12-RS13250,SAA6008_02373,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000985472.1,CDS,E0E12-RS12760,SAA6008_02284,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00276-E0E12-RS03240,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-917,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000666761.1,CDS,E0E12-RS08510,SAA6008_01566,Common-name match: gene_symbol,mRNA
+Endpoint 2,5UTR-00908-E0E12-RS02135,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000579564.1,CDS,E0E12-RS06425,SAA6008_01175,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,WP_000702782.1,CDS,E0E12-RS03960,NA,Unmapped,mRNA
+Endpoint 2,WP_000717381.1,CDS,E0E12-RS13045,NA,Unmapped,mRNA
+Endpoint 2,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000434765.1,CDS,E0E12-RS09370,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1631,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-555,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sprG1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Saa-6008-C1.14808,CDS,NA,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-520,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-555,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA296,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-595,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-884,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1855,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1855,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000734064.1,CDS,E0E12-RS08615,SAA6008_01588,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001001019.1,CDS,E0E12-RS14410,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001131841.1,CDS,E0E12-RS12075,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1284,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1448,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,tsr15,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000143675.1,CDS,E0E12-RS15390,SAA6008_02759,Common-name match: gene_symbol,mRNA
+Endpoint 2,sprG1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000631964.1,CDS,E0E12-RS02975,NA,Unmapped,mRNA
+Endpoint 2,WP_000257888.1,CDS,E0E12-RS05725,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000402465.1,CDS,E0E12-RS12590,NA,Unmapped,mRNA
+Endpoint 2,WP_000070653.1,CDS,E0E12-RS09675,NA,Unmapped,mRNA
+Endpoint 2,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001080824.1,CDS,E0E12-RS12715,SAA6008_02275,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000985472.1,CDS,E0E12-RS12760,SAA6008_02284,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000608521.1,CDS,E0E12-RS07695,NA,Unmapped,mRNA
+Endpoint 2,WP_000621532.1,CDS,E0E12-RS14815,NA,Unmapped,mRNA
+Endpoint 2,WP_000034507.1,CDS,E0E12-RS13880,NA,Unmapped,mRNA
+Endpoint 2,WP_000124353.1,CDS,E0E12-RS12755,SAA6008_02283,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001106113.1,CDS,E0E12-RS03170,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000090796.1,CDS,E0E12-RS12655,SAA6008_02263,Common-name match: gene_symbol,mRNA
+Endpoint 2,sRNA-00237,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001048816.1,CDS,E0E12-RS11985,NA,Unmapped,mRNA
+Endpoint 2,SRNA412,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00120,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000825819.1,CDS,E0E12-RS12440,SAA6008_02225,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-639,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000794442.1,CDS,E0E12-RS13250,SAA6008_02373,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001165377.1,CDS,E0E12-RS07200,NA,Unmapped,mRNA
+Endpoint 2,INT-0-879,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_000673309.1,CDS,E0E12-RS07330,SAA6008_01339,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001549718.1,CDS,E0E12-RS13380,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000036005.1,CDS,E0E12-RS12080,NA,Unmapped,mRNA
+Endpoint 2,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 2,WP_001103965.1,CDS,E0E12-RS01880,NA,Unmapped,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000587958.1,CDS,E0E12-RS03240,NA,Unmapped,mRNA
+Endpoint 2,WP_001187629.1,CDS,E0E12-RS11875,NA,Unmapped,mRNA
+Endpoint 2,WP_000455861.1,CDS,E0E12-RS14430,NA,Unmapped,mRNA
+Endpoint 2,WP_000481425.1,CDS,E0E12-RS14200,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00972-E0E12-RS09230,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000091975.1,CDS,E0E12-RS12700,SAA6008_02272,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000110603.1,CDS,E0E12-RS08390,NA,Unmapped,mRNA
+Endpoint 2,WP_000584648.1,CDS,E0E12-RS09890,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-555,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-419,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,3UTR-01093-E0E12-RS10720,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000019744.1,CDS,E0E12-RS12185,SAA6008_02185,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Saa-6008-C1.13040,CDS,E0E12-RS12520,NA,Unmapped,mRNA
+Endpoint 2,WP_000734064.1,CDS,E0E12-RS08615,SAA6008_01588,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000723418.1,CDS,E0E12-RS12000,SAA6008_02149,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,Saa-6008-C1.11379,CDS,E0E12-RS11015,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1325,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001282728.1,CDS,E0E12-RS00155,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1304,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 2,WP_000795826.1,CDS,E0E12-RS04190,SAA6008_00758,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,WP_000070811.1,CDS,E0E12-RS09710,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1217,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1217,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000057549.1,CDS,E0E12-RS04300,NA,Unmapped,mRNA
+Endpoint 2,WP_000159960.1,CDS,E0E12-RS12085,NA,Unmapped,mRNA
+Endpoint 2,WP_000455861.1,CDS,E0E12-RS14430,NA,Unmapped,mRNA
+Endpoint 2,WP_000072278.1,CDS,E0E12-RS11825,NA,Unmapped,mRNA
+Endpoint 2,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001048816.1,CDS,E0E12-RS11985,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,Saa-6008-C1.14808,CDS,NA,NA,Unmapped,mRNA
+Endpoint 2,WP_000043634.1,CDS,E0E12-RS06690,SAA6008_01224,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,WP_001820550.1,CDS,E0E12-RS06660,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1284,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001119014.1,CDS,E0E12-RS08425,SAA6008_01549,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-862,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000526539.1,CDS,"E0E12-RS09430,gbkey:=CDS",NA,Unmapped,mRNA
+Endpoint 2,WP_000066097.1,CDS,E0E12-RS08630,SAA6008_01591,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-00042-E0E12-RS00485,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01482-E0E12-RS14095,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000725802.1,CDS,E0E12-RS11895,SAA6008_02128,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,WP_001790739.1,CDS,E0E12-RS12285,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01332-E0E12-RS12640,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000804328.1,CDS,E0E12-RS06795,NA,Unmapped,mRNA
+Endpoint 2,sRNA289,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000057330.1,CDS,E0E12-RS06630,NA,Unmapped,mRNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001250038.1,CDS,E0E12-RS12615,SAA6008_02255,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000690002.1,CDS,E0E12-RS09120,NA,Unmapped,mRNA
+Endpoint 2,sprAs1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001077096.1,CDS,E0E12-RS15075,SAA6008_02697,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-493,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,RsaA,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00825-E0E12-RS07905,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000702262.1,CDS,E0E12-RS10930,SAA6008_01955,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001004752.1,CDS,E0E12-RS07255,NA,Unmapped,mRNA
+Endpoint 2,WP_000147103.1,CDS,E0E12-RS06190,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA226,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA171,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,3UTR-01034-E0E12-RS09845,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,rsp-1,pseudogene,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000644737.1,CDS,E0E12-RS12735,SAA6008_02279,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000434765.1,CDS,E0E12-RS09370,NA,Unmapped,mRNA
+Endpoint 2,WP_000147103.1,CDS,E0E12-RS06190,NA,Unmapped,mRNA
+Endpoint 2,WP_001072197.1,CDS,E0E12-RS08820,NA,Unmapped,mRNA
+Endpoint 2,WP_001094394.1,CDS,E0E12-RS11955,NA,Unmapped,mRNA
+Endpoint 2,WP_001279338.1,CDS,E0E12-RS09230,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1375,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1377,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1475,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-343,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000027928.1,CDS,E0E12-RS10730,SAA6008_01921,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,WP_000250824.1,CDS,E0E12-RS03085,NA,Unmapped,mRNA
+Endpoint 2,WP_000795826.1,CDS,E0E12-RS04190,SAA6008_00758,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000124353.1,CDS,E0E12-RS12755,SAA6008_02283,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001131841.1,CDS,E0E12-RS12075,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01332-E0E12-RS12640,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,tsr15,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00742-E0E12-RS07190,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000105070.1,CDS,E0E12-RS08050,NA,Unmapped,mRNA
+Endpoint 2,WP_001140799.1,CDS,E0E12-RS12710,NA,Unmapped,mRNA
+Endpoint 2,WP_000124353.1,CDS,E0E12-RS12755,SAA6008_02283,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001155264.1,CDS,E0E12-RS13115,SAA6008_02344,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1632,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1318,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,5UTR-00702-E0E12-RS12810,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000030812.1,CDS,E0E12-RS05625,NA,Unmapped,mRNA
+Endpoint 2,WP_000952048.1,CDS,E0E12-RS03895,NA,Unmapped,mRNA
+Endpoint 2,WP_001171351.1,CDS,E0E12-RS08025,NA,Unmapped,mRNA
+Endpoint 2,WP_000825819.1,CDS,E0E12-RS12440,SAA6008_02225,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000547818.1,CDS,E0E12-RS15340,SAA6008_02749,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-00664-E0E12-RS06445,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-639,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1147,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1448,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-01200-E0E12-RS11565,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000991007.1,CDS,E0E12-RS02040,NA,Unmapped,mRNA
+Endpoint 2,WP_000277421.1,CDS,E0E12-RS14780,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00491-E0E12-RS05275,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA296,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1054,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000692521.1,CDS,E0E12-RS04110,SAA6008_00745,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000723418.1,CDS,E0E12-RS12000,SAA6008_02149,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001109322.1,CDS,E0E12-RS07665,SAA6008_01403,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000545451.1,CDS,E0E12-RS08910,NA,Unmapped,mRNA
+Endpoint 2,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001232648.1,CDS,E0E12-RS09055,SAA6008_01666,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1665,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000622776.1,CDS,E0E12-RS11145,NA,Unmapped,mRNA
+Endpoint 2,WP_000670752.1,CDS,E0E12-RS05060,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001791613.1,CDS,E0E12-RS11040,NA,Unmapped,mRNA
+Endpoint 2,WP_000958531.1,CDS,E0E12-RS12340,NA,Unmapped,mRNA
+Endpoint 2,5UTR-01169-E0E12-RS14400,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01326-E0E12-RS12560,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00972-E0E12-RS09230,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Teg39as,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001174260.1,CDS,E0E12-RS07910,SAA6008_01448,Common-name match: gene_symbol,mRNA
+Endpoint 2,5UTR-00391-E0E12-RS07200,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001791613.1,CDS,E0E12-RS11040,NA,Unmapped,mRNA
+Endpoint 2,WP_000985472.1,CDS,E0E12-RS12760,SAA6008_02284,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000139712.1,CDS,E0E12-RS06045,SAA6008_01103,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000228666.1,CDS,E0E12-RS10605,NA,Unmapped,mRNA
+Endpoint 2,WP_000349655.1,CDS,E0E12-RS11990,SAA6008_02147,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000035320.1,CDS,E0E12-RS05745,SAA6008_01048,Common-name match: gene_symbol,mRNA
+Endpoint 2,sRNA79,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,WP_001801792.1,CDS,E0E12-RS11995,NA,Unmapped,mRNA
+Endpoint 2,WP_000434765.1,CDS,E0E12-RS09370,NA,Unmapped,mRNA
+Endpoint 2,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-637,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001083311.1,CDS,E0E12-RS12140,NA,Unmapped,mRNA
+Endpoint 2,WP_001083311.1,CDS,E0E12-RS12140,NA,Unmapped,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000070826.1,CDS,E0E12-RS04345,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001041662.1,CDS,E0E12-RS06565,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000402803.1,CDS,E0E12-RS04965,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-529,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001791613.1,CDS,E0E12-RS11040,NA,Unmapped,mRNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000559156.1,CDS,E0E12-RS02615,SAA6008_00484,Common-name match: gene_symbol,mRNA
+Endpoint 2,tsr21,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001140799.1,CDS,E0E12-RS12710,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000702262.1,CDS,E0E12-RS10930,SAA6008_01955,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000534419.1,CDS,E0E12-RS14850,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000616784.1,CDS,E0E12-RS12675,SAA6008_02267,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000219066.1,CDS,E0E12-RS09280,SAA6008_01706,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000180665.1,CDS,E0E12-RS07535,NA,Unmapped,mRNA
+Endpoint 2,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000804328.1,CDS,E0E12-RS06795,NA,Unmapped,mRNA
+Endpoint 2,WP_000064078.1,CDS,E0E12-RS07985,NA,Unmapped,mRNA
+Endpoint 2,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000660709.1,CDS,E0E12-RS14235,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_072482930.1,CDS,E0E12-RS11185,NA,Unmapped,mRNA
+Endpoint 2,WP_000358498.1,CDS,E0E12-RS03850,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001140871.1,CDS,E0E12-RS10840,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000395155.1,CDS,E0E12-RS05265,NA,Unmapped,mRNA
+Endpoint 2,WP_000170975.1,CDS,E0E12-RS12610,SAA6008_02254,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001118417.1,CDS,E0E12-RS05840,NA,Unmapped,mRNA
+Endpoint 2,WP_000136253.1,CDS,E0E12-RS09140,SAA6008_01681,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000164332.1,CDS,E0E12-RS06435,NA,Unmapped,mRNA
+Endpoint 2,WP_000546584.1,CDS,E0E12-RS11810,SAA6008_02115,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000368902.1,CDS,E0E12-RS08745,NA,Unmapped,mRNA
+Endpoint 2,WP_000160212.1,CDS,E0E12-RS12775,SAA6008_02287,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000375652.1,CDS,E0E12-RS00085,NA,Unmapped,mRNA
+Endpoint 2,WP_001083311.1,CDS,E0E12-RS12140,NA,Unmapped,mRNA
+Endpoint 2,WP_001004752.1,CDS,E0E12-RS07255,NA,Unmapped,mRNA
+Endpoint 2,INT-0-520,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-521,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001106654.1,CDS,E0E12-RS04485,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000211359.1,CDS,E0E12-RS13420,SAA6008_02403,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000040054.1,CDS,E0E12-RS05695,SAA6008_01039,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000105070.1,CDS,E0E12-RS08050,NA,Unmapped,mRNA
+Endpoint 2,WP_001137495.1,CDS,E0E12-RS03065,SAA6008_00552,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001231451.1,CDS,E0E12-RS10710,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00469-E0E12-RS05080,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00469-E0E12-RS05080,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-00469-E0E12-RS05080,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000584648.1,CDS,E0E12-RS09890,NA,Unmapped,mRNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001056228.1,CDS,E0E12-RS04445,SAA6008_00803,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001192075.1,CDS,E0E12-RS13830,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,SprA2/RsaJ,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1183,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000120305.1,CDS,E0E12-RS11540,NA,Unmapped,mRNA
+Endpoint 2,WP_000031401.1,CDS,E0E12-RS05860,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1621,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1107,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000004947.1,CDS,E0E12-RS07810,NA,Unmapped,mRNA
+Endpoint 2,WP_000691766.1,CDS,E0E12-RS02725,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1757,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001795535.1,CDS,E0E12-RS09670,NA,Unmapped,mRNA
+Endpoint 2,WP_000257888.1,CDS,E0E12-RS05725,NA,Unmapped,mRNA
+Endpoint 2,WP_000545370.1,CDS,E0E12-RS10725,SAA6008_01920,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1284,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1217,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000066378.1,CDS,E0E12-RS09290,NA,Unmapped,mRNA
+Endpoint 2,WP_000282655.1,CDS,E0E12-RS11025,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000076929.1,CDS,E0E12-RS12930,NA,Unmapped,mRNA
+Endpoint 2,WP_001171351.1,CDS,E0E12-RS08025,NA,Unmapped,mRNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000193707.1,CDS,E0E12-RS08080,SAA6008_01480,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-1448,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001253312.1,CDS,E0E12-RS11585,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,3UTR-00674-E0E12-RS06535,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001817892.1,CDS,E0E12-RS00165,NA,Unmapped,mRNA
+Endpoint 2,WP_000664764.1,CDS,E0E12-RS06745,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1790,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000241351.1,CDS,E0E12-RS11975,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1400,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000622776.1,CDS,E0E12-RS11145,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-676,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001108479.1,CDS,E0E12-RS11905,SAA6008_02130,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000616784.1,CDS,E0E12-RS12675,SAA6008_02267,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000684056.1,CDS,E0E12-RS13890,NA,Unmapped,mRNA
+Endpoint 2,sRNA289,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-815,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000702782.1,CDS,E0E12-RS03960,NA,Unmapped,mRNA
+Endpoint 2,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000139712.1,CDS,E0E12-RS06045,SAA6008_01103,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1119,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000349655.1,CDS,E0E12-RS11990,SAA6008_02147,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000035320.1,CDS,E0E12-RS05745,SAA6008_01048,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-555,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001126264.1,CDS,E0E12-RS06340,SAA6008_01157,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001106019.1,CDS,E0E12-RS11175,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00276-E0E12-RS03240,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000691766.1,CDS,E0E12-RS02725,NA,Unmapped,mRNA
+Endpoint 2,WP_000120494.1,CDS,E0E12-RS12010,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000579564.1,CDS,E0E12-RS06425,SAA6008_01175,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000579564.1,CDS,E0E12-RS06425,SAA6008_01175,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-869,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000138487.1,CDS,E0E12-RS05005,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000068176.1,CDS,E0E12-RS05750,NA,Unmapped,mRNA
+Endpoint 2,WP_000395155.1,CDS,E0E12-RS05265,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1716,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000402465.1,CDS,E0E12-RS12590,NA,Unmapped,mRNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,WP_001283792.1,CDS,E0E12-RS02960,NA,Unmapped,mRNA
+Endpoint 2,WP_001043863.1,CDS,E0E12-RS07865,NA,Unmapped,mRNA
+Endpoint 2,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000622776.1,CDS,E0E12-RS11145,NA,Unmapped,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00801-E0E12-RS07720,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001048816.1,CDS,E0E12-RS11985,NA,Unmapped,mRNA
+Endpoint 2,WP_000070653.1,CDS,E0E12-RS09675,NA,Unmapped,mRNA
+Endpoint 2,5UTR-01157-E0E12-RS14110,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000124353.1,CDS,E0E12-RS12755,SAA6008_02283,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000282655.1,CDS,E0E12-RS11025,NA,Unmapped,mRNA
+Endpoint 2,WP_000941336.1,CDS,E0E12-RS03995,SAA6008_00727,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001074557.1,CDS,E0E12-RS05520,NA,Unmapped,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,WP_001251935.1,CDS,E0E12-RS12375,NA,Unmapped,mRNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00415-E0E12-RS04505,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-513,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000360004.1,CDS,E0E12-RS01415,NA,Unmapped,mRNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,sRNA226,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000686175.1,CDS,E0E12-RS14535,SAA6008_02603,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000631964.1,CDS,E0E12-RS02975,NA,Unmapped,mRNA
+Endpoint 2,WP_000231632.1,CDS,E0E12-RS06115,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-628,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000534419.1,CDS,E0E12-RS14850,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000367064.1,CDS,E0E12-RS03805,NA,Unmapped,mRNA
+Endpoint 2,WP_072482930.1,CDS,E0E12-RS11185,NA,Unmapped,mRNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001251935.1,CDS,E0E12-RS12375,NA,Unmapped,mRNA
+Endpoint 2,5UTR-00807-E0E12-RS14490,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000769416.1,CDS,E0E12-RS04885,SAA6008_00886,Common-name match: gene_symbol,mRNA
+Endpoint 2,Teg39as,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001071589.1,CDS,E0E12-RS14810,NA,Unmapped,mRNA
+Endpoint 2,WP_000197635.1,CDS,E0E12-RS11535,NA,Unmapped,mRNA
+Endpoint 2,Saa-6008-C1.13040,CDS,E0E12-RS12520,NA,Unmapped,mRNA
+Endpoint 2,Saa-6008-C1.13040,CDS,E0E12-RS12520,NA,Unmapped,mRNA
+Endpoint 2,WP_000976269.1,CDS,E0E12-RS03675,SAA6008_00666,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000544967.1,CDS,E0E12-RS10670,NA,Unmapped,mRNA
+Endpoint 2,WP_001221651.1,CDS,E0E12-RS11000,SAA6008_01966,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_011443641.1,CDS,E0E12-RS09020,NA,Unmapped,mRNA
+Endpoint 2,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,SprX,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000505965.1,CDS,E0E12-RS05685,NA,Unmapped,mRNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,SprX,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000036005.1,CDS,E0E12-RS12080,NA,Unmapped,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000133954.1,CDS,E0E12-RS07880,SAA6008_01444,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000238542.1,CDS,E0E12-RS13375,NA,Unmapped,mRNA
+Endpoint 2,WP_000367064.1,CDS,E0E12-RS03805,NA,Unmapped,mRNA
+Endpoint 2,WP_001109322.1,CDS,E0E12-RS07665,SAA6008_01403,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000091975.1,CDS,E0E12-RS12700,SAA6008_02272,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000161738.1,CDS,E0E12-RS07870,NA,Unmapped,mRNA
+Endpoint 2,WP_000110603.1,CDS,E0E12-RS08390,NA,Unmapped,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001283444.1,CDS,E0E12-RS03870,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1678,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001109322.1,CDS,E0E12-RS07665,SAA6008_01403,Common-name match: gene_symbol,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1284,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001004752.1,CDS,E0E12-RS07255,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001283444.1,CDS,E0E12-RS03870,NA,Unmapped,mRNA
+Endpoint 2,WP_000608521.1,CDS,E0E12-RS07695,NA,Unmapped,mRNA
+Endpoint 2,5UTR-00472-E0E12-RS08460,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Teg39as,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-529,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1457,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001015117.1,CDS,E0E12-RS08215,NA,Unmapped,mRNA
+Endpoint 2,WP_000723418.1,CDS,E0E12-RS12000,SAA6008_02149,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000219066.1,CDS,E0E12-RS09280,SAA6008_01706,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 2,WP_000390829.1,CDS,E0E12-RS11760,NA,Unmapped,mRNA
+Endpoint 2,Saa-6008-C1.11656,CDS,E0E12-RS11180,NA,Unmapped,mRNA
+Endpoint 2,WP_000769517.1,CDS,E0E12-RS12945,SAA6008_02316,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000138351.1,CDS,E0E12-RS07750,NA,Unmapped,mRNA
+Endpoint 2,WP_001797236.1,CDS,E0E12-RS05550,SAA6008_01013,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000833483.1,CDS,E0E12-RS03780,NA,Unmapped,mRNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA274,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000105070.1,CDS,E0E12-RS08050,NA,Unmapped,mRNA
+Endpoint 2,WP_000526539.1,CDS,"E0E12-RS09430,gbkey:=CDS",NA,Unmapped,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001043863.1,CDS,E0E12-RS07865,NA,Unmapped,mRNA
+Endpoint 2,WP_001050064.1,CDS,E0E12-RS04395,SAA6008_00795,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000066378.1,CDS,E0E12-RS09290,NA,Unmapped,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,WP_000723418.1,CDS,E0E12-RS12000,SAA6008_02149,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000159960.1,CDS,E0E12-RS12085,NA,Unmapped,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000157603.1,CDS,E0E12-RS11965,NA,Unmapped,mRNA
+Endpoint 2,WP_001790739.1,CDS,E0E12-RS12285,NA,Unmapped,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA275,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000782121.1,CDS,E0E12-RS09880,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,WP_000290472.1,CDS,E0E12-RS05925,SAA6008_01082,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 2,WP_001021468.1,CDS,E0E12-RS12670,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000381270.1,CDS,E0E12-RS13895,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00607-E0E12-RS06020,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000149503.1,CDS,E0E12-RS02940,NA,Unmapped,mRNA
+Endpoint 2,WP_000615921.1,CDS,E0E12-RS12725,SAA6008_02277,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000070826.1,CDS,E0E12-RS04345,NA,Unmapped,mRNA
+Endpoint 2,WP_001106113.1,CDS,E0E12-RS03170,NA,Unmapped,mRNA
+Endpoint 2,WP_000434765.1,CDS,E0E12-RS09370,NA,Unmapped,mRNA
+Endpoint 2,WP_000158417.1,CDS,E0E12-RS15125,SAA6008_02707,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000058381.1,CDS,E0E12-RS09075,NA,Unmapped,mRNA
+Endpoint 2,WP_000032836.1,CDS,E0E12-RS05565,SAA6008_01016,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000702782.1,CDS,E0E12-RS03960,NA,Unmapped,mRNA
+Endpoint 2,WP_001115101.1,CDS,E0E12-RS12055,SAA6008_02159,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000482650.1,CDS,E0E12-RS13810,NA,Unmapped,mRNA
+Endpoint 2,WP_000804328.1,CDS,E0E12-RS06795,NA,Unmapped,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000928413.1,CDS,E0E12-RS05325,NA,Unmapped,mRNA
+Endpoint 2,WP_000545370.1,CDS,E0E12-RS10725,SAA6008_01920,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001131841.1,CDS,E0E12-RS12075,NA,Unmapped,mRNA
+Endpoint 2,WP_000814103.1,CDS,E0E12-RS06655,NA,Unmapped,mRNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-778,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA79,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1534,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000482650.1,CDS,E0E12-RS13810,NA,Unmapped,mRNA
+Endpoint 2,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000090516.1,CDS,E0E12-RS09180,SAA6008_01688,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001283444.1,CDS,E0E12-RS03870,NA,Unmapped,mRNA
+Endpoint 2,WP_000769517.1,CDS,E0E12-RS12945,SAA6008_02316,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000941336.1,CDS,E0E12-RS03995,SAA6008_00727,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,sRNA274,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001088978.1,CDS,E0E12-RS07175,NA,Unmapped,mRNA
+Endpoint 2,WP_000379054.1,CDS,E0E12-RS06600,SAA6008_01209,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000133954.1,CDS,E0E12-RS07880,SAA6008_01444,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01386-E0E12-RS13245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-01561-E0E12-RS14795,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1696,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000985472.1,CDS,E0E12-RS12760,SAA6008_02284,Common-name match: gene_symbol,mRNA
+Endpoint 2,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,SprX,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000542274.1,CDS,E0E12-RS12640,SAA6008_02260,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1588,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000861038.1,CDS,E0E12-RS10905,NA,Unmapped,mRNA
+Endpoint 2,WP_000749795.1,CDS,E0E12-RS08715,SAA6008_01606,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-639,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-00367-E0E12-RS04120,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_000290472.1,CDS,E0E12-RS05925,SAA6008_01082,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000702262.1,CDS,E0E12-RS10930,SAA6008_01955,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-917,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01332-E0E12-RS12640,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001797236.1,CDS,E0E12-RS05550,SAA6008_01013,Common-name match: gene_symbol,mRNA
+Endpoint 2,5UTR-00119-E0E12-RS02835,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Teg70,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000140679.1,CDS,E0E12-RS11980,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1457,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1170,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000622776.1,CDS,E0E12-RS11145,NA,Unmapped,mRNA
+Endpoint 2,WP_000136159.1,CDS,E0E12-RS15050,NA,Unmapped,mRNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,5UTR-00720-E0E12-RS13080,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00246,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000168000.1,CDS,E0E12-RS01195,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00972-E0E12-RS09230,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1400,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA387,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001791613.1,CDS,E0E12-RS11040,NA,Unmapped,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000769416.1,CDS,E0E12-RS04885,SAA6008_00886,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000622776.1,CDS,E0E12-RS11145,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1474,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1255,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000610203.1,CDS,E0E12-RS01215,NA,Unmapped,mRNA
+Endpoint 2,WP_001004752.1,CDS,E0E12-RS07255,NA,Unmapped,mRNA
+Endpoint 2,WP_001040568.1,CDS,E0E12-RS03075,SAA6008_00554,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000072278.1,CDS,E0E12-RS11825,NA,Unmapped,mRNA
+Endpoint 2,WP_000031401.1,CDS,E0E12-RS05860,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000241588.1,CDS,E0E12-RS08155,NA,Unmapped,mRNA
+Endpoint 2,WP_000429674.1,CDS,E0E12-RS13155,NA,Unmapped,mRNA
+Endpoint 2,WP_000769416.1,CDS,E0E12-RS04885,SAA6008_00886,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000664764.1,CDS,E0E12-RS06745,NA,Unmapped,mRNA
+Endpoint 2,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001281145.1,CDS,E0E12-RS11780,SAA6008_02109,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1255,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000259692.1,CDS,E0E12-RS14500,SAA6008_02593,Common-name match: gene_symbol,mRNA
+Endpoint 2,sRNA-00120,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000916187.1,CDS,E0E12-RS08755,SAA6008_01614,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000511133.1,CDS,E0E12-RS11960,NA,Unmapped,mRNA
+Endpoint 2,WP_001174260.1,CDS,E0E12-RS07910,SAA6008_01448,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000573077.1,CDS,E0E12-RS04960,NA,Unmapped,mRNA
+Endpoint 2,WP_001795128.1,CDS,E0E12-RS00185,SAA6008_00034,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000804328.1,CDS,E0E12-RS06795,NA,Unmapped,mRNA
+Endpoint 2,WP_000863440.1,CDS,E0E12-RS05755,NA,Unmapped,mRNA
+Endpoint 2,SRNA305,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1818,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000688492.1,CDS,E0E12-RS11575,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00120,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RsaE/RsaF,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000044586.1,CDS,E0E12-RS15155,SAA6008_02713,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000746376.1,CDS,E0E12-RS14690,NA,Unmapped,mRNA
+Endpoint 2,WP_000746376.1,CDS,E0E12-RS14690,NA,Unmapped,mRNA
+Endpoint 2,WP_001125631.1,CDS,E0E12-RS15105,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000090516.1,CDS,E0E12-RS09180,SAA6008_01688,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000402465.1,CDS,E0E12-RS12590,NA,Unmapped,mRNA
+Endpoint 2,WP_000368902.1,CDS,E0E12-RS08745,NA,Unmapped,mRNA
+Endpoint 2,WP_000149404.1,CDS,E0E12-RS09260,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00567-E0E12-RS05695,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-676,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-917,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000134963.1,CDS,E0E12-RS04305,SAA6008_00779,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001040245.1,CDS,E0E12-RS06350,NA,Unmapped,mRNA
+Endpoint 2,WP_001231451.1,CDS,E0E12-RS10710,NA,Unmapped,mRNA
+Endpoint 2,WP_000425353.1,CDS,E0E12-RS08865,NA,Unmapped,mRNA
+Endpoint 2,WP_000240855.1,CDS,E0E12-RS15465,SAA6008_02775,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-00469-E0E12-RS05080,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000702782.1,CDS,E0E12-RS03960,NA,Unmapped,mRNA
+Endpoint 2,WP_000584648.1,CDS,E0E12-RS09890,NA,Unmapped,mRNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,WP_000101625.1,CDS,E0E12-RS12650,SAA6008_02262,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000704122.1,CDS,E0E12-RS08655,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RsaH,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000794442.1,CDS,E0E12-RS13250,SAA6008_02373,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000650082.1,CDS,E0E12-RS08990,SAA6008_01653,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-676,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Saa-6008-C1.14808,CDS,NA,NA,Unmapped,mRNA
+Endpoint 2,WP_000664764.1,CDS,E0E12-RS06745,NA,Unmapped,mRNA
+Endpoint 2,WP_001083311.1,CDS,E0E12-RS12140,NA,Unmapped,mRNA
+Endpoint 2,WP_001083311.1,CDS,E0E12-RS12140,NA,Unmapped,mRNA
+Endpoint 2,WP_000202189.1,CDS,E0E12-RS08200,SAA6008_01504,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000670752.1,CDS,E0E12-RS05060,NA,Unmapped,mRNA
+Endpoint 2,WP_000545370.1,CDS,E0E12-RS10725,SAA6008_01920,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000006551.1,CDS,E0E12-RS04325,SAA6008_00782,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001280006.1,CDS,E0E12-RS06635,SAA6008_01214,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000260117.1,CDS,E0E12-RS05760,NA,Unmapped,mRNA
+Endpoint 2,WP_001791098.1,CDS,E0E12-RS10530,NA,Unmapped,mRNA
+Endpoint 2,WP_000867203.1,CDS,E0E12-RS03680,SAA6008_00667,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000282655.1,CDS,E0E12-RS11025,NA,Unmapped,mRNA
+Endpoint 2,WP_001024830.1,CDS,E0E12-RS07265,NA,Unmapped,mRNA
+Endpoint 2,WP_000486807.1,CDS,E0E12-RS13180,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001171351.1,CDS,E0E12-RS08025,NA,Unmapped,mRNA
+Endpoint 2,WP_000034507.1,CDS,E0E12-RS13880,NA,Unmapped,mRNA
+Endpoint 2,WP_000120368.1,CDS,E0E12-RS03750,NA,Unmapped,mRNA
+Endpoint 2,WP_001094394.1,CDS,E0E12-RS11955,NA,Unmapped,mRNA
+Endpoint 2,WP_001072197.1,CDS,E0E12-RS08820,NA,Unmapped,mRNA
+Endpoint 2,WP_001072197.1,CDS,E0E12-RS08820,NA,Unmapped,mRNA
+Endpoint 2,INT-0-419,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001280141.1,CDS,E0E12-RS08515,SAA6008_01567,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-879,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-00674-E0E12-RS06535,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000120368.1,CDS,E0E12-RS03750,NA,Unmapped,mRNA
+Endpoint 2,WP_001549718.1,CDS,E0E12-RS13380,NA,Unmapped,mRNA
+Endpoint 2,WP_001185692.1,CDS,E0E12-RS13855,NA,Unmapped,mRNA
+Endpoint 2,WP_001118726.1,CDS,E0E12-RS13610,NA,Unmapped,mRNA
+Endpoint 2,WP_000926310.1,CDS,E0E12-RS12740,SAA6008_02280,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1119,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1119,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000160212.1,CDS,E0E12-RS12775,SAA6008_02287,Common-name match: gene_symbol,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000863479.1,CDS,E0E12-RS06515,SAA6008_01192,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000790705.1,CDS,E0E12-RS14660,NA,Unmapped,mRNA
+Endpoint 2,WP_000680966.1,CDS,E0E12-RS15130,SAA6008_02708,Common-name match: gene_symbol,mRNA
+Endpoint 2,Teg39as,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000035320.1,CDS,E0E12-RS05745,SAA6008_01048,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000569649.1,CDS,E0E12-RS12645,NA,Unmapped,mRNA
+Endpoint 2,WP_000184947.1,CDS,E0E12-RS05475,SAA6008_01000,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000940769.1,CDS,E0E12-RS00710,NA,Unmapped,mRNA
+Endpoint 2,WP_000954654.1,CDS,E0E12-RS03595,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000734064.1,CDS,E0E12-RS08615,SAA6008_01588,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000615921.1,CDS,E0E12-RS12725,SAA6008_02277,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000723418.1,CDS,E0E12-RS12000,SAA6008_02149,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000259718.1,CDS,E0E12-RS12915,NA,Unmapped,mRNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000491755.1,CDS,E0E12-RS03745,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000058381.1,CDS,E0E12-RS09075,NA,Unmapped,mRNA
+Endpoint 2,WP_000942298.1,CDS,E0E12-RS07420,NA,Unmapped,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000159960.1,CDS,E0E12-RS12085,NA,Unmapped,mRNA
+Endpoint 2,WP_001283444.1,CDS,E0E12-RS03870,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1157,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001791162.1,CDS,E0E12-RS08960,SAA6008_01648,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000482650.1,CDS,E0E12-RS13810,NA,Unmapped,mRNA
+Endpoint 2,5UTR-01157-E0E12-RS14110,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-824,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Saa-6008-C1.4756-1,CDS,NA,NA,Unmapped,mRNA
+Endpoint 2,WP_000070653.1,CDS,E0E12-RS09675,NA,Unmapped,mRNA
+Endpoint 2,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 2,SRNA412,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000608521.1,CDS,E0E12-RS07695,NA,Unmapped,mRNA
+Endpoint 2,WP_000725802.1,CDS,E0E12-RS11895,SAA6008_02128,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001270834.1,CDS,E0E12-RS05250,NA,Unmapped,mRNA
+Endpoint 2,WP_000495671.1,CDS,E0E12-RS12190,NA,Unmapped,mRNA
+Endpoint 2,WP_014532405.1,CDS,E0E12-RS00230,NA,Unmapped,mRNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000825819.1,CDS,E0E12-RS12440,SAA6008_02225,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000367064.1,CDS,E0E12-RS03805,NA,Unmapped,mRNA
+Endpoint 2,WP_000164332.1,CDS,E0E12-RS06435,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000495671.1,CDS,E0E12-RS12190,NA,Unmapped,mRNA
+Endpoint 2,WP_000809526.1,CDS,E0E12-RS05850,NA,Unmapped,mRNA
+Endpoint 2,WP_000360004.1,CDS,E0E12-RS01415,NA,Unmapped,mRNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 2,WP_000673309.1,CDS,E0E12-RS07330,SAA6008_01339,Common-name match: gene_symbol,mRNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000991007.1,CDS,E0E12-RS02040,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1677,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000867203.1,CDS,E0E12-RS03680,SAA6008_00667,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001281786.1,CDS,E0E12-RS04730,NA,Unmapped,mRNA
+Endpoint 2,WP_001092058.1,CDS,E0E12-RS08805,NA,Unmapped,mRNA
+Endpoint 2,WP_001020801.1,CDS,E0E12-RS06555,SAA6008_01200,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000120305.1,CDS,E0E12-RS11540,NA,Unmapped,mRNA
+Endpoint 2,WP_000684056.1,CDS,E0E12-RS13890,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000129653.1,CDS,E0E12-RS04870,SAA6008_00883,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,3UTR-01376-E0E12-RS13145,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000491755.1,CDS,E0E12-RS03745,NA,Unmapped,mRNA
+Endpoint 2,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-00555-E0E12-RS05585,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000197635.1,CDS,E0E12-RS11535,NA,Unmapped,mRNA
+Endpoint 2,WP_001273085.1,CDS,E0E12-RS03030,NA,Unmapped,mRNA
+Endpoint 2,WP_000976269.1,CDS,E0E12-RS03675,SAA6008_00666,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000034507.1,CDS,E0E12-RS13880,NA,Unmapped,mRNA
+Endpoint 2,WP_000602071.1,CDS,E0E12-RS11620,NA,Unmapped,mRNA
+Endpoint 2,sprAs1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sprD,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-637,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000402803.1,CDS,E0E12-RS04965,NA,Unmapped,mRNA
+Endpoint 2,INT-0-656,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA79,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000608521.1,CDS,E0E12-RS07695,NA,Unmapped,mRNA
+Endpoint 2,WP_000991302.1,CDS,E0E12-RS10985,SAA6008_01963,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000769517.1,CDS,E0E12-RS12945,SAA6008_02316,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000093351.1,CDS,E0E12-RS08210,SAA6008_01506,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001092058.1,CDS,E0E12-RS08805,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000795826.1,CDS,E0E12-RS04190,SAA6008_00758,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000455861.1,CDS,E0E12-RS14430,NA,Unmapped,mRNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,WP_000072278.1,CDS,E0E12-RS11825,NA,Unmapped,mRNA
+Endpoint 2,WP_000072278.1,CDS,E0E12-RS11825,NA,Unmapped,mRNA
+Endpoint 2,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 2,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 2,WP_000491755.1,CDS,E0E12-RS03745,NA,Unmapped,mRNA
+Endpoint 2,WP_000758215.1,CDS,E0E12-RS05040,NA,Unmapped,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-419,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000154233.1,CDS,E0E12-RS02765,SAA6008_00508,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001273586.1,CDS,E0E12-RS03035,SAA6008_00546,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000093351.1,CDS,E0E12-RS08210,SAA6008_01506,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001024830.1,CDS,E0E12-RS07265,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01332-E0E12-RS12640,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA289,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000602071.1,CDS,E0E12-RS11620,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-493,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-01093-E0E12-RS10720,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Saa-6008-C1.11379,CDS,E0E12-RS11015,NA,Unmapped,mRNA
+Endpoint 2,WP_000455861.1,CDS,E0E12-RS14430,NA,Unmapped,mRNA
+Endpoint 2,WP_000644737.1,CDS,E0E12-RS12735,SAA6008_02279,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001094394.1,CDS,E0E12-RS11955,NA,Unmapped,mRNA
+Endpoint 2,WP_001094394.1,CDS,E0E12-RS11955,NA,Unmapped,mRNA
+Endpoint 2,Saa-6008-C1.9034,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000027928.1,CDS,E0E12-RS10730,SAA6008_01921,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001165377.1,CDS,E0E12-RS07200,NA,Unmapped,mRNA
+Endpoint 2,INT-0-419,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001024830.1,CDS,E0E12-RS07265,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00237,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001109937.1,CDS,E0E12-RS11850,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,SRNA306-1,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000336288.1,CDS,E0E12-RS00170,NA,Unmapped,mRNA
+Endpoint 2,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,WP_000729744.1,CDS,E0E12-RS07185,SAA6008_01315,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1217,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-493,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001048816.1,CDS,E0E12-RS11985,NA,Unmapped,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,INT-0-493,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000616784.1,CDS,E0E12-RS12675,SAA6008_02267,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000616784.1,CDS,E0E12-RS12675,SAA6008_02267,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000027928.1,CDS,E0E12-RS10730,SAA6008_01921,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000692521.1,CDS,E0E12-RS04110,SAA6008_00745,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1183,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000379054.1,CDS,E0E12-RS06600,SAA6008_01209,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000670752.1,CDS,E0E12-RS05060,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001096471.1,CDS,E0E12-RS07845,NA,Unmapped,mRNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1147,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1147,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1147,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000481443.1,CDS,E0E12-RS07140,SAA6008_01308,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,5UTR-00908-E0E12-RS02135,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000825819.1,CDS,E0E12-RS12440,SAA6008_02225,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000170975.1,CDS,E0E12-RS12610,SAA6008_02254,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000737705.1,CDS,E0E12-RS13080,NA,Unmapped,mRNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-725,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001055897.1,CDS,E0E12-RS01990,NA,Unmapped,mRNA
+Endpoint 2,WP_001280006.1,CDS,E0E12-RS06635,SAA6008_01214,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-382,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1147,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001092058.1,CDS,E0E12-RS08805,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000257888.1,CDS,E0E12-RS05725,NA,Unmapped,mRNA
+Endpoint 2,WP_001791613.1,CDS,E0E12-RS11040,NA,Unmapped,mRNA
+Endpoint 2,WP_000751265.1,CDS,E0E12-RS14570,SAA6008_02607,Common-name match: gene_symbol,mRNA
+Endpoint 2,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001198024.1,CDS,E0E12-RS06395,NA,Unmapped,mRNA
+Endpoint 2,sRNA387,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000168000.1,CDS,E0E12-RS01195,NA,Unmapped,mRNA
+Endpoint 2,WP_000139189.1,CDS,E0E12-RS12820,NA,Unmapped,mRNA
+Endpoint 2,WP_000168000.1,CDS,E0E12-RS01195,NA,Unmapped,mRNA
+Endpoint 2,INT-0-342,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1219,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000623881.1,CDS,E0E12-RS12695,SAA6008_02271,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1375,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1375,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1447,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-384,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1189,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-384,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA337,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA387,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000769416.1,CDS,E0E12-RS04885,SAA6008_00886,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000623881.1,CDS,E0E12-RS12695,SAA6008_02271,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000219066.1,CDS,E0E12-RS09280,SAA6008_01706,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000159960.1,CDS,E0E12-RS12085,NA,Unmapped,mRNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000869455.1,CDS,E0E12-RS10170,NA,Unmapped,mRNA
+Endpoint 2,WP_001043863.1,CDS,E0E12-RS07865,NA,Unmapped,mRNA
+Endpoint 2,WP_000918667.1,CDS,E0E12-RS03045,SAA6008_00548,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000143675.1,CDS,E0E12-RS15390,SAA6008_02759,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-879,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-669,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001137495.1,CDS,E0E12-RS03065,SAA6008_00552,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001797236.1,CDS,E0E12-RS05550,SAA6008_01013,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000195429.1,CDS,E0E12-RS09605,NA,Unmapped,mRNA
+Endpoint 2,WP_000195429.1,CDS,E0E12-RS13505,NA,Unmapped,mRNA
+Endpoint 2,WP_000004947.1,CDS,E0E12-RS07810,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1183,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000120305.1,CDS,E0E12-RS11540,NA,Unmapped,mRNA
+Endpoint 2,WP_000149503.1,CDS,E0E12-RS02940,NA,Unmapped,mRNA
+Endpoint 2,WP_000733283.1,CDS,E0E12-RS14680,NA,Unmapped,mRNA
+Endpoint 2,WP_000031401.1,CDS,E0E12-RS05860,NA,Unmapped,mRNA
+Endpoint 2,WP_000004947.1,CDS,E0E12-RS07810,NA,Unmapped,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001118443.1,CDS,E0E12-RS12665,SAA6008_02265,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001554031.1,CDS,E0E12-RS11570,NA,Unmapped,mRNA
+Endpoint 2,WP_001065267.1,CDS,E0E12-RS14965,NA,Unmapped,mRNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,WP_000342185.1,CDS,E0E12-RS06240,NA,Unmapped,mRNA
+Endpoint 2,INT-0-555,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,WP_000725802.1,CDS,E0E12-RS11895,SAA6008_02128,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000175735.1,CDS,E0E12-RS11020,NA,Unmapped,mRNA
+Endpoint 2,WP_001109322.1,CDS,E0E12-RS07665,SAA6008_01403,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001250038.1,CDS,E0E12-RS12615,SAA6008_02255,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000692521.1,CDS,E0E12-RS04110,SAA6008_00745,Common-name match: gene_symbol,mRNA
+Endpoint 2,tsr21,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-419,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000205572.1,CDS,E0E12-RS04765,SAA6008_00865,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01332-E0E12-RS12640,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001549197.1,CDS,E0E12-RS11555,NA,Unmapped,mRNA
+Endpoint 2,WP_000769517.1,CDS,E0E12-RS12945,SAA6008_02316,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000517908.1,CDS,E0E12-RS06445,NA,Unmapped,mRNA
+Endpoint 2,WP_001062972.1,CDS,E0E12-RS03990,SAA6008_00726,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1157,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000919772.1,CDS,E0E12-RS08290,NA,Unmapped,mRNA
+Endpoint 2,WP_000197019.1,CDS,E0E12-RS05165,NA,Unmapped,mRNA
+Endpoint 2,sRNA-00237,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,sRNA-00212,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000608521.1,CDS,E0E12-RS07695,NA,Unmapped,mRNA
+Endpoint 2,WP_000219066.1,CDS,E0E12-RS09280,SAA6008_01706,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001173163.1,CDS,E0E12-RS13525,NA,Unmapped,mRNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,Saa-6008-C1.11379,CDS,E0E12-RS11015,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1304,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,SRNA298,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1325,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001119014.1,CDS,E0E12-RS08425,SAA6008_01549,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-00664-E0E12-RS06445,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000623881.1,CDS,E0E12-RS12695,SAA6008_02271,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000090315.1,CDS,E0E12-RS03070,SAA6008_00553,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000072278.1,CDS,E0E12-RS11825,NA,Unmapped,mRNA
+Endpoint 2,WP_000367064.1,CDS,E0E12-RS03805,NA,Unmapped,mRNA
+Endpoint 2,WP_000134963.1,CDS,E0E12-RS04305,SAA6008_00779,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000282655.1,CDS,E0E12-RS11025,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000673309.1,CDS,E0E12-RS07330,SAA6008_01339,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,SprG3/Teg19b/SprF3,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001792494.1,CDS,E0E12-RS14110,NA,Unmapped,mRNA
+Endpoint 2,WP_000070866.1,CDS,E0E12-RS12150,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00276-E0E12-RS03240,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,3UTR-01093-E0E12-RS10720,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001130051.1,CDS,E0E12-RS14870,SAA6008_02403,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000491755.1,CDS,E0E12-RS03745,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-379,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1479,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,sRNA-00250,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1380,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000717381.1,CDS,E0E12-RS13045,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01034-E0E12-RS09845,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_000739224.1,CDS,E0E12-RS13100,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,WP_001788197.1,CDS,E0E12-RS03050,SAA6008_00549,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001001019.1,CDS,E0E12-RS14410,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1284,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000825929.1,CDS,E0E12-RS13690,NA,Unmapped,mRNA
+Endpoint 2,WP_000024827.1,CDS,E0E12-RS12770,SAA6008_02286,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000090796.1,CDS,E0E12-RS12655,SAA6008_02263,Common-name match: gene_symbol,mRNA
+Endpoint 2,5UTR-00343-E0E12-RS06445,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000602071.1,CDS,E0E12-RS11620,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1655,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_001174260.1,CDS,E0E12-RS07910,SAA6008_01448,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 2,3UTR-01034-E0E12-RS09845,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1477,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1696,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000257888.1,CDS,E0E12-RS05725,NA,Unmapped,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000688492.1,CDS,E0E12-RS11575,NA,Unmapped,mRNA
+Endpoint 2,WP_000608521.1,CDS,E0E12-RS07695,NA,Unmapped,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000673309.1,CDS,E0E12-RS07330,SAA6008_01339,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_001096491.1,CDS,E0E12-RS09560,NA,Unmapped,mRNA
+Endpoint 2,WP_000794589.1,CDS,E0E12-RS14185,SAA6008_02538,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001283444.1,CDS,E0E12-RS03870,NA,Unmapped,mRNA
+Endpoint 2,WP_000161314.1,CDS,E0E12-RS08265,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1716,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000542274.1,CDS,E0E12-RS12640,SAA6008_02260,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-339,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000241602.1,CDS,E0E12-RS13450,NA,Unmapped,mRNA
+Endpoint 2,INT-0-1376,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000215236.1,CDS,E0E12-RS12430,NA,Unmapped,mRNA
+Endpoint 2,WP_000093351.1,CDS,E0E12-RS08210,SAA6008_01506,Common-name match: gene_symbol,mRNA
+Endpoint 2,rsaOG,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000070826.1,CDS,E0E12-RS04345,NA,Unmapped,mRNA
+Endpoint 2,rsaOF-3,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-552,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-529,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,3UTR-01603-E0E12-RS15245,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1249,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,WP_000863556.1,CDS,E0E12-RS08295,NA,Unmapped,mRNA
+Endpoint 2,Sau30,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,5UTR-00677-E0E12-RS12195,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000349655.1,CDS,E0E12-RS11990,SAA6008_02147,Common-name match: gene_symbol,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,RNAIII,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000334465.1,CDS,E0E12-RS12225,SAA6008_02191,Common-name match: gene_symbol,mRNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000547687.1,CDS,E0E12-RS12720,SAA6008_02276,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000175735.1,CDS,E0E12-RS11020,NA,Unmapped,mRNA
+Endpoint 2,WP_000700080.1,CDS,E0E12-RS02700,SAA6008_00496,Common-name match: gene_symbol,mRNA
+Endpoint 2,WP_000842032.1,CDS,E0E12-RS15245,SAA6008_02729,Common-name match: gene_symbol,mRNA
+Endpoint 2,3UTR-01332-E0E12-RS12640,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_001800370.1,CDS,E0E12-RS01840,NA,Unmapped,mRNA
+Endpoint 2,3UTR-00258-E0E12-RS03055,3UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1716,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,5UTR-01028-E0E12-RS07565,5UTR,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,WP_000848304.1,CDS,E0E12-RS08585,NA,Unmapped,mRNA
+Endpoint 2,none,unknown,NA,NA,Unmapped,Unclassified RNA
+Endpoint 2,RsaOR/SprX2,sRNA,NA,NA,Unmapped,Regulatory RNA
+Endpoint 2,INT-0-1217,intergenic_region,NA,NA,Unmapped,Intergenic RNA
+Endpoint 2,INT-0-1378,intergenic_region,NA,NA,Unmapped,Intergenic RNA

@@ -1,0 +1,390 @@
+node_id,node_label,node_type,vancomycin_response,log2_fold_change,adjusted_p_value,is_significant_deg,strong_response,evidence_tier
+RNA:3utr_00020:3utr:saa_6008_c1:40887-40938:-,3UTR-00020,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00042_e0e12_rs00485:3utr:saa_6008_c1:101454-101497:+,3UTR-00042-E0E12-RS00485,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00067:3utr:saa_6008_c1:165791-165861:+,3UTR-00067,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00067_e0e12_rs00785:3utr:saa_6008_c1:165877-165913:+,3UTR-00067-E0E12-RS00785,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00164:3utr:saa_6008_c1:409614-409670:-,3UTR-00164,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00164:3utr:saa_6008_c1:409623-409670:-,3UTR-00164,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00209:3utr:saa_6008_c1:489558-489697:-,3UTR-00209,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00212_e0e12_rs02455:3utr:saa_6008_c1:489707-489796:-,3UTR-00212-E0E12-RS02455,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00258_e0e12_rs03055:3utr:saa_6008_c1:606752-606776:+,3UTR-00258-E0E12-RS03055,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00276:3utr:saa_6008_c1:649798-649883:-,3UTR-00276,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00323:3utr:saa_6008_c1:740263-740294:+,3UTR-00323,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00367_e0e12_rs04120:3utr:saa_6008_c1:811819-811847:+,3UTR-00367-E0E12-RS04120,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00415:3utr:saa_6008_c1:885904-885941:-,3UTR-00415,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00491_e0e12_rs05275:3utr:saa_6008_c1:1025955-1026050:+,3UTR-00491-E0E12-RS05275,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00555_e0e12_rs05585:3utr:saa_6008_c1:1084557-1084613:-,3UTR-00555-E0E12-RS05585,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00567_e0e12_rs05695:3utr:saa_6008_c1:1106695-1106713:+,3UTR-00567-E0E12-RS05695,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00607_e0e12_rs06020:3utr:saa_6008_c1:1168782-1168821:+,3UTR-00607-E0E12-RS06020,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00664:3utr:saa_6008_c1:1249239-1249315:-,3UTR-00664,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00664:3utr:saa_6008_c1:1249239-1249564:-,3UTR-00664,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00664:3utr:saa_6008_c1:1249247-1249391:-,3UTR-00664,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00664:3utr:saa_6008_c1:1249267-1249287:-,3UTR-00664,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00664_e0e12_rs06445:3utr:saa_6008_c1:1249240-1249322:-,3UTR-00664-E0E12-RS06445,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00674_e0e12_rs06535:3utr:saa_6008_c1:1268261-1268295:+,3UTR-00674-E0E12-RS06535,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00741:3utr:saa_6008_c1:1399400-1399450:-,3UTR-00741,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00742_e0e12_rs07190:3utr:saa_6008_c1:1399328-1399348:+,3UTR-00742-E0E12-RS07190,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00801_e0e12_rs07720:3utr:saa_6008_c1:1533663-1533742:-,3UTR-00801-E0E12-RS07720,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00824:3utr:saa_6008_c1:1567031-1567107:-,3UTR-00824,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00824:3utr:saa_6008_c1:1567033-1567107:-,3UTR-00824,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00825_e0e12_rs07905:3utr:saa_6008_c1:1567093-1567168:+,3UTR-00825-E0E12-RS07905,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_00972_e0e12_rs09230:3utr:saa_6008_c1:1820082-1820136:+,3UTR-00972-E0E12-RS09230,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01034_e0e12_rs09845:3utr:saa_6008_c1:1925793-1925849:+,3UTR-01034-E0E12-RS09845,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01066:3utr:saa_6008_c1:1984541-1984613:-,3UTR-01066,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01185:3utr:saa_6008_c1:2176305-2176338:+,3UTR-01185,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01196:3utr:saa_6008_c1:2177974-2178009:+,3UTR-01196,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01241:3utr:saa_6008_c1:2241675-2241707:-,3UTR-01241,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01253:3utr:saa_6008_c1:2256188-2256258:-,3UTR-01253,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01298:3utr:saa_6008_c1:2300437-2300517:-,3UTR-01298,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01298:3utr:saa_6008_c1:2300459-2300517:-,3UTR-01298,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01326_e0e12_rs12560:3utr:saa_6008_c1:2375512-2375549:+,3UTR-01326-E0E12-RS12560,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01332_e0e12_rs12640:3utr:saa_6008_c1:2389515-2389684:-,3UTR-01332-E0E12-RS12640,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01379:3utr:saa_6008_c1:2467074-2467151:-,3UTR-01379,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01534:3utr:saa_6008_c1:2723758-2723791:-,3UTR-01534,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01561_e0e12_rs14795:3utr:saa_6008_c1:2780958-2780978:+,3UTR-01561-E0E12-RS14795,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01571:3utr:saa_6008_c1:2793908-2793925:-,3UTR-01571,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01603:3utr:saa_6008_c1:2877868-2878041:-,3UTR-01603,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01603:3utr:saa_6008_c1:2877928-2878009:-,3UTR-01603,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:3utr_01603_e0e12_rs15245:3utr:saa_6008_c1:2877845-2877912:-,3UTR-01603-E0E12-RS15245,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00050:5utr:saa_6008_c1:270963-270981:+,5UTR-00050,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00166:5utr:saa_6008_c1:738537-738563:+,5UTR-00166,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00178:5utr:saa_6008_c1:761346-761397:-,5UTR-00178,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00230:5utr:saa_6008_c1:924898-924919:+,5UTR-00230,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00328:5utr:saa_6008_c1:1194713-1194767:+,5UTR-00328,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00458:5utr:saa_6008_c1:1633652-1633674:-,5UTR-00458,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00472_e0e12_rs08460:5utr:saa_6008_c1:1668780-1668803:+,5UTR-00472-E0E12-RS08460,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00645:5utr:saa_6008_c1:2216889-2216982:-,5UTR-00645,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00901:5utr:saa_6008_c1:402382-402404:+,5UTR-00901,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_00908_e0e12_rs02135:5utr:saa_6008_c1:432771-432889:-,5UTR-00908-E0E12-RS02135,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:5utr_01169_e0e12_rs14400:5utr:saa_6008_c1:2704699-2704740:-,5UTR-01169-E0E12-RS14400,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1016:intergenic_region:saa_6008_c1:1676632-1676668:+,INT-0-1016,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_103:intergenic_region:saa_6008_c1:166610-166638:-,INT-0-103,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1107:intergenic_region:saa_6008_c1:1834498-1834515:+,INT-0-1107,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1153:intergenic_region:saa_6008_c1:1912064-1912084:+,INT-0-1153,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1157:intergenic_region:saa_6008_c1:1914002-1914067:-,INT-0-1157,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1162:intergenic_region:saa_6008_c1:1921478-1921507:+,INT-0-1162,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1189:intergenic_region:saa_6008_c1:1962715-1962740:+,INT-0-1189,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1255:intergenic_region:saa_6008_c1:2038376-2038433:+,INT-0-1255,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_125:intergenic_region:saa_6008_c1:201203-201234:+,INT-0-125,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1284:intergenic_region:saa_6008_c1:2080121-2080153:+,INT-0-1284,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1448:intergenic_region:saa_6008_c1:2322309-2322327:-,INT-0-1448,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1448:intergenic_region:saa_6008_c1:2322309-2322363:-,INT-0-1448,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_160:intergenic_region:saa_6008_c1:263374-263411:-,INT-0-160,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1621:intergenic_region:saa_6008_c1:2533568-2533614:-,INT-0-1621,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1631:intergenic_region:saa_6008_c1:2545461-2545499:+,INT-0-1631,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1632:intergenic_region:saa_6008_c1:2554842-2555001:+,INT-0-1632,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1665:intergenic_region:saa_6008_c1:2600022-2600042:+,INT-0-1665,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1696:intergenic_region:saa_6008_c1:2639043-2639063:+,INT-0-1696,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1696:intergenic_region:saa_6008_c1:2641086-2641174:+,INT-0-1696,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1790:intergenic_region:saa_6008_c1:2774529-2774575:+,INT-0-1790,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1847:intergenic_region:saa_6008_c1:2862688-2862718:+,INT-0-1847,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_197:intergenic_region:saa_6008_c1:322514-322555:+,INT-0-197,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_1:intergenic_region:saa_6008_c1:2403-2479:-,INT-0-1,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_318:intergenic_region:saa_6008_c1:488498-488560:-,INT-0-318,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_31:intergenic_region:saa_6008_c1:40019-40036:+,INT-0-31,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_332:intergenic_region:saa_6008_c1:515611-515664:-,INT-0-332,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_339:intergenic_region:saa_6008_c1:521152-521248:+,INT-0-339,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_339:intergenic_region:saa_6008_c1:521169-521239:+,INT-0-339,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_419:intergenic_region:saa_6008_c1:631699-631784:-,INT-0-419,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_421:intergenic_region:saa_6008_c1:635531-635579:-,INT-0-421,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_433:intergenic_region:saa_6008_c1:654754-654794:-,INT-0-433,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_488:intergenic_region:saa_6008_c1:749429-749464:+,INT-0-488,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_493:intergenic_region:saa_6008_c1:754478-754540:+,INT-0-493,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_493:intergenic_region:saa_6008_c1:754538-754568:+,INT-0-493,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_500:intergenic_region:saa_6008_c1:768812-768832:-,INT-0-500,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_528:intergenic_region:saa_6008_c1:808087-808166:+,INT-0-528,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_552:intergenic_region:saa_6008_c1:842594-842725:-,INT-0-552,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_571:intergenic_region:saa_6008_c1:876077-876171:-,INT-0-571,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_612:intergenic_region:saa_6008_c1:920436-920464:+,INT-0-612,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_644:intergenic_region:saa_6008_c1:979593-979645:-,INT-0-644,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_669:intergenic_region:saa_6008_c1:1025283-1025324:-,INT-0-669,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_824:intergenic_region:saa_6008_c1:1288745-1288815:-,INT-0-824,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_869:intergenic_region:saa_6008_c1:1372543-1372610:-,INT-0-869,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_879:intergenic_region:saa_6008_c1:1388834-1388882:-,INT-0-879,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_917:intergenic_region:saa_6008_c1:1446237-1446328:+,INT-0-917,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_934:intergenic_region:saa_6008_c1:1479956-1480026:+,INT-0-934,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_934:intergenic_region:saa_6008_c1:1486181-1486257:+,INT-0-934,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_944:intergenic_region:saa_6008_c1:1528500-1528523:+,INT-0-944,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_948:intergenic_region:saa_6008_c1:1535113-1535140:+,INT-0-948,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_998:intergenic_region:saa_6008_c1:1620261-1620380:-,INT-0-998,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:int_0_999:intergenic_region:saa_6008_c1:1620519-1620545:+,INT-0-999,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176548-2176642:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176558-2176645:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176565-2176654:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176569-2176648:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176585-2176627:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176586-2176640:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176586-2176647:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176586-2176731:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176590-2176615:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176591-2176618:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176594-2176649:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176595-2176657:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176597-2176628:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176613-2176638:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176617-2176636:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176663-2176712:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176688-2176722:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176700-2176769:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176723-2176838:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rnaiii:srna:saa_6008_c1:2176742-2176825:-,RNAIII,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaa:srna:saa_6008_c1:656404-656502:+,RsaA,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaa:srna:saa_6008_c1:656422-656457:+,RsaA,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaa:srna:saa_6008_c1:656442-656496:+,RsaA,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015245-1015344:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015246-1015311:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015254-1015328:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015272-1015344:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015290-1015325:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015293-1015338:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsae/rsaf:srna:saa_6008_c1:1015318-1015347:+,RsaE/RsaF,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsah:srna:saa_6008_c1:856246-856267:+,RsaH,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsah:srna:saa_6008_c1:856253-856278:+,RsaH,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsah:srna:saa_6008_c1:856254-856325:+,RsaH,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsah:srna:saa_6008_c1:856280-856327:+,RsaH,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaog:srna:saa_6008_c1:2462722-2462770:-,rsaOG,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaog:srna:saa_6008_c1:2462828-2462858:-,rsaOG,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaog:srna:saa_6008_c1:2462834-2462857:-,rsaOG,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978779-1978926:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978781-1978869:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978781-1978902:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978798-1978864:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978822-1978919:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978854-1978913:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978876-1978906:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978882-1978928:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsaor/sprx2:srna:saa_6008_c1:1978891-1978917:-,RsaOR/SprX2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:rsax23:srna:saa_6008_c1:2683617-2683656:-,RsaX23,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:saa_6008_c1_9034:srna:saa_6008_c1:1707888-1707935:-,Saa-6008-C1.9034,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:saa_6008_c1_9034:srna:saa_6008_c1:1707936-1708032:-,Saa-6008-C1.9034,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sau30:srna:saa_6008_c1:2389473-2389530:-,Sau30,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sau46:srna:saa_6008_c1:1239375-1239407:-,Sau46,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sau6057:srna:saa_6008_c1:610107-610133:+,Sau6057,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sau_6477/rsaoi:srna:saa_6008_c1:646190-646218:-,Sau-6477/RsaOI,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:spra2/rsaj:srna:saa_6008_c1:2584760-2584827:+,SprA2/RsaJ,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:spra2/rsaj:srna:saa_6008_c1:2584761-2584792:+,SprA2/RsaJ,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:spra2/spras2:srna:saa_6008_c1:2588962-2589026:+,SprA2/SprAs2,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:spras1:srna:saa_6008_c1:1914002-1914067:-,sprAs1,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprd:srna:saa_6008_c1:2080874-2080905:+,sprD,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprd:srna:saa_6008_c1:2080880-2080909:+,sprD,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprg1:srna:saa_6008_c1:2119942-2120025:-,sprG1,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprg1:srna:saa_6008_c1:2119945-2119990:-,sprG1,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprg3/teg19b/sprf3:srna:saa_6008_c1:2295468-2295498:+,SprG3/Teg19b/SprF3,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprx:srna:saa_6008_c1:2079963-2080047:+,SprX,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprx:srna:saa_6008_c1:2079966-2080000:+,SprX,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprx:srna:saa_6008_c1:2080008-2080053:+,SprX,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:sprx:srna:saa_6008_c1:2080010-2080099:+,SprX,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna171:srna:saa_6008_c1:900178-900250:-,sRNA171,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna274:srna:saa_6008_c1:1850541-1850582:-,sRNA274,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna289:srna:saa_6008_c1:1939477-1939504:-,sRNA289,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna305:srna:saa_6008_c1:2096344-2096408:+,SRNA305,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna305:srna:saa_6008_c1:2096344-2096448:+,SRNA305,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna305:srna:saa_6008_c1:2096345-2096391:+,SRNA305,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna412:srna:saa_6008_c1:2924278-2924344:+,SRNA412,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna64:srna:saa_6008_c1:390690-390763:-,SRNA64,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna64:srna:saa_6008_c1:390736-390760:-,SRNA64,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00003:srna:saa_6008_c1:35060-35080:-,sRNA-00003,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00040:srna:saa_6008_c1:395233-395267:-,sRNA-00040,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525704-525730:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525705-525755:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525705-525757:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525705-525761:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525708-525752:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525710-525753:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00053:srna:saa_6008_c1:525710-525810:+,sRNA-00053,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00120:srna:saa_6008_c1:1043866-1043885:-,sRNA-00120,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00237:srna:saa_6008_c1:2156789-2156861:+,sRNA-00237,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00237:srna:saa_6008_c1:2156791-2156812:+,sRNA-00237,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00237:srna:saa_6008_c1:2156801-2156849:+,sRNA-00237,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:srna_00246:srna:saa_6008_c1:2294133-2294163:+,sRNA-00246,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg124:srna:saa_6008_c1:2080715-2080771:+,Teg124,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg35:srna:saa_6008_c1:12098-12194:+,Teg35,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg4:srna:saa_6008_c1:49409-49427:-,Teg4,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg4:srna:saa_6008_c1:49450-49554:-,Teg4,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg6as:srna:saa_6008_c1:36499-36542:-,Teg6as,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg70:srna:saa_6008_c1:1743814-1743879:-,Teg70,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:teg83:srna:saa_6008_c1:1624757-1624797:-,Teg83,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:tsr15:srna:saa_6008_c1:920072-920152:+,tsr15,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:tsr21:srna:saa_6008_c1:1182244-1182267:-,tsr21,Regulatory RNA,Not directly measured,NA,NA,FALSE,FALSE,Experimental CLASH node
+RNA:wp_000804328_1:cds:saa_6008_c1:1327187-1327274:+,WP_000804328.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000173891_1:cds:saa_6008_c1:101311-101410:+,WP_000173891.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01688,rpsD,mRNA target,Not significant,0.45185682157355,0.00335294677591185,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000290401_1:cds:saa_6008_c1:165716-165769:+,WP_000290401.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001055897_1:cds:saa_6008_c1:409672-409731:-,WP_001055897.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001055897_1:cds:saa_6008_c1:409668-409731:-,WP_001055897.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001549197_1:cds:saa_6008_c1:2177018-2177061:-,WP_001549197.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_014373779_1:cds:saa_6008_c1:489600-489651:-,WP_014373779.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000031892_1:cds:saa_6008_c1:606666-606734:+,WP_000031892.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000587958_1:cds:saa_6008_c1:650042-650083:-,WP_000587958.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01214,frr,mRNA target,Not significant,-0.478652629928566,8.01877251775888e-4,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_00747,nrdF,mRNA target,Repressed,-1.11794987851898,3.04047754573535e-11,TRUE,FALSE,Tier 2: CLASH plus significant vancomycin response
+SAA6008_02265,infA,mRNA target,Not significant,0.192795017008278,0.321188238598096,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_00965,fabI,mRNA target,Not significant,-0.240302440966779,0.157942333340232,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_01039,ptsP,mRNA target,Not significant,0.237004599761287,0.113452436181507,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_01099,trxA,mRNA target,Not significant,0.59763624436693,1.14141549195479e-4,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000517908_1:cds:saa_6008_c1:1249315-1249332:-,WP_000517908.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000517908_1:cds:saa_6008_c1:1249306-1249564:-,WP_000517908.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000517908_1:cds:saa_6008_c1:1249337-1249455:-,WP_000517908.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000517908_1:cds:saa_6008_c1:1249398-1249427:-,WP_000517908.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000354088_1:cds:saa_6008_c1:655682-655708:-,WP_000354088.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01196,rplS,mRNA target,Not significant,0.666148296602786,2.69571926125175e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001165377_1:cds:saa_6008_c1:1399449-1399512:-,WP_001165377.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000640490_1:cds:saa_6008_c1:1399284-1399327:+,WP_000640490.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01200,sucC,mRNA target,Not significant,-0.261007457806693,0.103098251882956,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_01448,ypdA,mRNA target,Not significant,0.342288101993207,0.0506995933903896,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000681758_1:cds:saa_6008_c1:1567031-1567107:+,WP_000681758.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001279338_1:cds:saa_6008_c1:1820014-1820081:+,WP_001279338.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01792,traP,mRNA target,Not significant,-0.403024674533943,0.0166606382747639,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000466769_1:cds:saa_6008_c1:1984919-1984972:-,WP_000466769.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02708,secA2,mRNA target,Not significant,0.978279884300543,1.61156109260816e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001554031_1:cds:saa_6008_c1:2178006-2178065:+,WP_001554031.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02128,yidC,mRNA target,Not significant,0.191033076971878,0.250445175916333,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001048816_1:cds:saa_6008_c1:2256343-2256383:-,atpE,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02191,glmS,mRNA target,Not significant,-0.0313352750735732,0.891550544839998,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000079317_1:cds:saa_6008_c1:1171648-1171705:+,WP_000079317.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000517908_1:cds:saa_6008_c1:1249478-1249561:-,WP_000517908.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000429674_1:cds:saa_6008_c1:2467152-2467182:-,WP_000429674.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02593,pruA,mRNA target,Not significant,-0.492593942873137,0.00495601237681461,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000125701_1:cds:saa_6008_c1:2780889-2780919:+,WP_000125701.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02403,mqo,mRNA target,Not significant,-0.319665154387022,0.0256753088531264,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_02729,lip1,mRNA target,Not significant,-0.908692512146121,1.05370773024937e-7,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001276571_1:cds:saa_6008_c1:1620204-1620343:+,WP_001276571.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000544967_1:cds:saa_6008_c1:2034046-2034096:-,WP_000544967.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000491755_1:cds:saa_6008_c1:738563-738619:+,WP_000491755.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000342185_1:cds:saa_6008_c1:1205096-1205141:+,WP_000342185.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000147103_1:cds:saa_6008_c1:1194995-1195024:+,WP_000147103.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000919772_1:cds:saa_6008_c1:1633699-1633749:-,WP_000919772.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001103743_1:cds:saa_6008_c1:1338760-1338808:+,WP_001103743.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000390829_1:cds:saa_6008_c1:2217193-2217250:-,WP_000390829.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000066378_1:cds:saa_6008_c1:1833480-1833547:-,WP_000066378.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001791010_1:cds:saa_6008_c1:432665-432803:-,WP_001791010.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001791010_1:cds:saa_6008_c1:432665-432816:-,WP_001791010.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000592303_1:cds:saa_6008_c1:2413142-2413185:-,WP_000592303.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000214170_1:cds:saa_6008_c1:400315-400349:+,WP_000214170.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02316,modA,mRNA target,Repressed,-1.04670881745051,4.78144858619508e-9,TRUE,FALSE,Tier 2: CLASH plus significant vancomycin response
+SAA6008_01716,pepA1,mRNA target,Not significant,0.611801399308945,3.76577194331883e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000429674_1:cds:saa_6008_c1:2468445-2468490:-,WP_000429674.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000888494_1:cds:saa_6008_c1:1243856-1243885:+,WP_000888494.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01403,ebh,mRNA target,Not significant,0.785597428689365,1.10728464720452e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000813311_1:cds:saa_6008_c1:404133-404194:+,WP_000813311.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02267,secY,mRNA target,Not significant,0.140385065497059,0.439685124933044,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_00475,gltB,mRNA target,Induced,1.32490741293084,9.32671268897748e-5,TRUE,FALSE,Tier 2: CLASH plus significant vancomycin response
+RNA:wp_000147103_1:cds:saa_6008_c1:1194964-1195013:+,WP_000147103.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00551,rpsL,mRNA target,Not significant,0.153985807812017,0.394354791043816,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001108346_1:cds:saa_6008_c1:1740026-1740047:-,WP_001108346.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000138487_1:cds:saa_6008_c1:963204-963309:+,WP_000138487.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001549197_1:cds:saa_6008_c1:2176877-2176939:-,WP_001549197.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001096491_1:cds:saa_6008_c1:1887749-1887833:-,WP_001096491.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02713,sasA,mRNA target,Not significant,-0.715705186607987,1.99321261570147e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_02607,isaA,mRNA target,Not significant,-0.102140127462237,0.792446280352216,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000833483_1:cds:saa_6008_c1:747113-747189:+,WP_000833483.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000395155_1:cds:saa_6008_c1:1022508-1022583:+,WP_000395155.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000934517_1:cds:saa_6008_c1:652307-652339:+,WP_000934517.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000690002_1:cds:saa_6008_c1:1799277-1799318:-,ald,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001125631_1:cds:saa_6008_c1:2845002-2845064:+,WP_001125631.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00089,spa,mRNA target,Repressed,-2.88727276645807,2.7722098318263e-43,TRUE,TRUE,Tier 2-high: CLASH plus strong vancomycin response
+RNA:wp_000257888_1:cds:saa_6008_c1:1112722-1112766:-,WP_000257888.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000367064_1:cds:saa_6008_c1:749572-749622:+,WP_000367064.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000076929_1:cds:saa_6008_c1:2427477-2427551:-,WP_000076929.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000402172_1:cds:saa_6008_c1:703599-703658:+,WP_000402172.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000402172_1:cds:saa_6008_c1:703600-703658:+,WP_000402172.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00745,nrdI,mRNA target,Not significant,-0.394139056689559,0.00816919996445622,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_00795,rnr,mRNA target,Not significant,0.300782235741236,0.053875952390638,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000660709_1:cds:saa_6008_c1:2676272-2676326:-,WP_000660709.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000863556_1:cds:saa_6008_c1:1636134-1636237:-,WP_000863556.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000398672_1:cds:saa_6008_c1:1194825-1194911:+,WP_000398672.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00522,lysS,mRNA target,Not significant,0.110574559332945,0.51179503196947,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000082539_1:cds:saa_6008_c1:1379661-1379685:+,WP_000082539.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000817954_1:cds:saa_6008_c1:718425-718468:+,WP_000817954.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00479,treC,mRNA target,Not significant,-0.911200402192014,1.60054704156901e-6,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000213875_1:cds:saa_6008_c1:2502121-2502216:-,WP_000213875.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000608521_1:cds:saa_6008_c1:1529045-1529099:-,WP_000608521.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01504,gcvPB,mRNA target,Not significant,0.481403692740439,0.00681787566388377,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_02279,rpmC,mRNA target,Not significant,0.313837046641432,0.171733579787927,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_00448,lpl10,mRNA target,Not significant,0.214962374998945,0.211782685068398,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000136159_1:cds:saa_6008_c1:2829393-2829432:-,argF,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:saa_6008_c1_2493:cds:saa_6008_c1:517295-517372:+,Saa-6008-C1.2493,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00034,aadD1,mRNA target,Not significant,-0.107578360755877,0.532896980778436,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000145499_1:cds:saa_6008_c1:1124866-1124890:+,WP_000145499.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000216727_1:cds:saa_6008_c1:770220-770297:+,WP_000216727.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000282655_1:cds:saa_6008_c1:2094331-2094467:-,WP_000282655.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000216727_1:cds:saa_6008_c1:770220-770266:+,WP_000216727.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000149344_1:cds:saa_6008_c1:781728-781805:-,WP_000149344.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000052590_1:cds:saa_6008_c1:1312071-1312113:+,WP_000052590.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000166895_1:cds:saa_6008_c1:218259-218286:+,WP_000166895.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001017866_1:cds:saa_6008_c1:1631622-1631655:-,WP_001017866.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01325,mprF,mRNA target,Not significant,-0.726946306101247,4.03974530014672e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_00256,esxA,mRNA target,Not significant,-0.418292583871077,0.018258344189077,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001249285_1:cds:saa_6008_c1:1167325-1167392:+,WP_001249285.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000231632_1:cds:saa_6008_c1:1182218-1182264:-,WP_000231632.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001283444_1:cds:saa_6008_c1:761118-761188:-,WP_001283444.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00297,lip2,mRNA target,Not significant,0.0188276044538523,0.937713090446149,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000273483_1:cds:saa_6008_c1:440226-440344:-,WP_000273483.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001253312_1:cds:saa_6008_c1:2180532-2180563:-,WP_001253312.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001792494_1:cds:saa_6008_c1:2644718-2644802:-,WP_001792494.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000429674_1:cds:saa_6008_c1:2468512-2468570:-,WP_000429674.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01506,gcvT,mRNA target,Not significant,0.274702184512375,0.151267559391077,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000664764_1:cds:saa_6008_c1:1317046-1317089:+,WP_000664764.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000270135_1:cds:saa_6008_c1:391633-391653:-,WP_000270135.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01588,alaS,mRNA target,Not significant,-0.292526764190413,0.062742341377934,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001031880_1:cds:saa_6008_c1:253443-253611:+,WP_001031880.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001801792_1:cds:saa_6008_c1:2257390-2257413:-,WP_001801792.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000704122_1:cds:saa_6008_c1:1705310-1705345:-,WP_000704122.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01139,ftsA,mRNA target,Not significant,0.0950226952388846,0.57101581006176,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_01703,acsA,mRNA target,Not significant,0.0622514917541766,0.685117097895345,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001800370_1:cds:saa_6008_c1:391093-391138:-,WP_001800370.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000691766_1:cds:saa_6008_c1:545722-545866:+,WP_000691766.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001234988_1:cds:saa_6008_c1:556766-556836:+,WP_001234988.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000691766_1:cds:saa_6008_c1:545728-545848:+,WP_000691766.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00502,spoVG,mRNA target,Not significant,0.312830940066168,0.118093981671432,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001173163_1:cds:saa_6008_c1:2539675-2539781:-,WP_001173163.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000057330_1:cds:saa_6008_c1:1289798-1289843:+,WP_000057330.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000817954_1:cds:saa_6008_c1:719108-719179:+,WP_000817954.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000803162_1:cds:saa_6008_c1:1390913-1390964:+,WP_000803162.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00779,trxB,mRNA target,Not significant,0.246104806051904,0.124812716539755,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000282655_1:cds:saa_6008_c1:2094028-2094071:-,WP_000282655.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000185319_1:cds:saa_6008_c1:965063-965093:-,WP_000185319.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00791,eno,mRNA target,Not significant,0.572301675985631,6.29612944443476e-4,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001198024_1:cds:saa_6008_c1:1239458-1239547:-,WP_001198024.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00553,fusA,mRNA target,Not significant,0.0939140948829786,0.632295123220369,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000825929_1:cds:saa_6008_c1:2569052-2569100:-,WP_000825929.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00389,guaB,mRNA target,Repressed,-1.22961894748964,6.36922601652228e-15,TRUE,FALSE,Tier 2: CLASH plus significant vancomycin response
+RNA:wp_000482650_1:cds:saa_6008_c1:2589127-2589147:-,WP_000482650.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000482650_1:cds:saa_6008_c1:2589127-2589169:-,WP_000482650.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001173163_1:cds:saa_6008_c1:2539691-2539779:-,WP_001173163.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000934798_1:cds:saa_6008_c1:389886-389951:+,ssb,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:saa_6008_c1_11656:cds:saa_6008_c1:2119895-2119973:+,Saa-6008-C1.11656,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_072482930_1:cds:saa_6008_c1:2120151-2120200:-,WP_072482930.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000517908_1:cds:saa_6008_c1:1249469-1249551:-,WP_000517908.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001173163_1:cds:saa_6008_c1:2539731-2539781:-,WP_001173163.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000434765_1:cds:saa_6008_c1:1849948-1850048:-,WP_000434765.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001196354_1:cds:saa_6008_c1:1874715-1874781:+,WP_001196354.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001791613_1:cds:saa_6008_c1:2096472-2096557:-,WP_001791613.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001791613_1:cds:saa_6008_c1:2096445-2096557:-,WP_001791613.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00001,dnaA,mRNA target,Not significant,-0.706184645274032,1.27407863974477e-6,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001251935_1:cds:saa_6008_c1:2338177-2338216:+,WP_001251935.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000834095_1:cds:saa_6008_c1:126288-126369:+,WP_000834095.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:saa_6008_c1_11379:cds:saa_6008_c1:2092878-2092935:-,Saa-6008-C1.11379,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001282728_1:cds:saa_6008_c1:35837-35857:-,WP_001282728.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_01082,rpmF,mRNA target,Not significant,0.203280173140687,0.394354791043816,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_000070811_1:cds:saa_6008_c1:1912590-1912629:-,WP_000070811.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000140679_1:cds:saa_6008_c1:2255942-2255990:-,WP_000140679.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001273085_1:cds:saa_6008_c1:597271-597311:+,WP_001273085.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00666,dhaK,mRNA target,Induced,1.09704711124078,1.32978034052569e-13,TRUE,FALSE,Tier 2: CLASH plus significant vancomycin response
+RNA:wp_000809526_1:cds:saa_6008_c1:1138146-1138196:+,WP_000809526.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_00508,mfd,mRNA target,Not significant,-0.301757125050415,0.064348492230642207,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001283665_1:cds:saa_6008_c1:1462442-1462568:-,WP_001283665.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000064078_1:cds:saa_6008_c1:1582286-1582327:-,WP_000064078.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000139189_1:cds:saa_6008_c1:2411061-2411146:-,WP_000139189.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+SAA6008_02277,rplN,mRNA target,Not significant,0.176417662271611,0.336470677700721,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_01201,sucD,mRNA target,Not significant,-0.15084459975348,0.348148469498879,FALSE,FALSE,CLASH-supported: mapped target without significant response
+SAA6008_01015,qoxB,mRNA target,Repressed,-1.65311611834996,3.5834677799344e-18,TRUE,FALSE,Tier 2: CLASH plus significant vancomycin response
+SAA6008_01766,pckA,mRNA target,Not significant,-0.67756281418766,2.70184526347635e-5,FALSE,FALSE,CLASH-supported: mapped target without significant response
+RNA:wp_001187629_1:cds:saa_6008_c1:2240764-2240795:+,WP_001187629.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_014532405_1:cds:saa_6008_c1:49427-49490:-,psm-mec,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_014532405_1:cds:saa_6008_c1:49400-49546:-,psm-mec,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001817892_1:cds:saa_6008_c1:37304-37366:-,WP_001817892.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000425353_1:cds:saa_6008_c1:1743774-1743814:-,WP_000425353.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_001015117_1:cds:saa_6008_c1:1624862-1624880:-,WP_001015117.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000513308_1:cds:saa_6008_c1:846455-846514:+,WP_000513308.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped
+RNA:wp_000231632_1:cds:saa_6008_c1:1182133-1182150:-,WP_000231632.1,mRNA target,NA,NA,NA,FALSE,FALSE,CLASH-supported; target unmapped

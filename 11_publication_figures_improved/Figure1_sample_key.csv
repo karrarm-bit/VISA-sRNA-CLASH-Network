@@ -1,0 +1,7 @@
+original_sample,sample,condition
+GSM8045612_Cont1_30mins_RNA,C1,Untreated
+GSM8045613_Cont2_30mins_RNA,C2,Untreated
+GSM8045614_Cont3_30mins_RNA,C3,Untreated
+GSM8045615_Van1_30mins_RNA,V1,Treated
+GSM8045616_Van2_30mins_RNA,V2,Treated
+GSM8045617_Van3_30mins_RNA,V3,Treated

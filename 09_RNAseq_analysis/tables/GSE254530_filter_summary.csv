@@ -1,0 +1,2 @@
+total_genes,retained_genes,removed_genes,retained_percent,filter_rule
+2783,2529,254,90.87,Count >=10 in at least 3 of 6 samples

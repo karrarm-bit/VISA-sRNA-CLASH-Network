@@ -1,0 +1,14 @@
+metric,value
+Raw CLASH interactions,1356
+Valid standardized interactions,1356
+Interactions with both endpoints mapped,104
+Interactions with at least one endpoint mapped,492
+sRNA-mRNA interaction rows,344
+Unique collapsed sRNA-mRNA edges,211
+Unique regulatory RNA nodes,207
+Unique mRNA target nodes,182
+Vancomycin-responsive CLASH targets,10
+Strong vancomycin-responsive CLASH targets,2
+mRNA-mRNA interactions,492
+Candidate intergenic RNA-mRNA interactions,92
+Other or unclassified interactions,346

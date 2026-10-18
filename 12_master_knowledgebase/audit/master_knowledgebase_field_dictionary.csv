@@ -1,0 +1,16 @@
+field_group,field_name,description
+Identity,gene_id,Original SAA6008 locus identifier
+Identity,current_locus_tag,Current RefSeq locus tag when available
+Identity,gene_symbol,Standard gene symbol
+Identity,product,Full strain-specific product annotation
+Genome,genomic_start,Minimum genomic coordinate parsed from GenBank
+Genome,genomic_end,Maximum genomic coordinate parsed from GenBank
+Genome,strand,Genomic strand inferred from the feature location
+Transcriptomics,log2_fold_change,Vancomycin-treated versus untreated log2 fold change
+Transcriptomics,adjusted_p_value,Benjamini-Hochberg-adjusted P value
+Transcriptomics,vancomycin_response,"Induced, repressed, not significant, or not tested"
+sRNA network,clash_target_status,Whether the gene is an experimentally detected CLASH target
+sRNA network,clash_srna_status,Whether the feature acts as an sRNA node in CLASH
+sRNA network,clash_srna_regulators,Experimentally detected sRNA regulators
+sRNA network,clash_mrna_targets,Experimentally detected mRNA targets
+Evidence,evidence_tier,Integrated confidence tier after data integration
