@@ -1,0 +1,6 @@
+dataset,sample_id,gsm_accession,sample_title,assay_curated,genotype_curated,treatment_curated,vancomycin_status,concentration_curated,exposure_time_curated,replicate_curated,analysis_module,correction_note
+GSE254530,GSM8045617,GSM8045617,vancomcycin_30mins_3,RNA-seq,Not specified,Vancomycin,Treated,8 ug/mL,30 min,3,Discovery_RNAseq_vancomycin_response,"Corrected typographical error: vancomycin-treated replicate 3, 8 ug/mL for 30 min"
+GSE254531,GSM8045618,GSM8045618,S_aureus_JKD6008_ribo_seq_1,Ribo-seq,Not specified,Untreated,Untreated,NA,NA,1,Discovery_Riboseq_baseline_only,Confirmed as untreated baseline Ribo-seq control; no vancomycin-treated Ribo-seq counterpart identified
+GSE254531,GSM8045619,GSM8045619,S_aureus_JKD6008_ribo_seq_2,Ribo-seq,Not specified,Untreated,Untreated,NA,NA,2,Discovery_Riboseq_baseline_only,Confirmed as untreated baseline Ribo-seq control; no vancomycin-treated Ribo-seq counterpart identified
+GSE254532,GSM8045624,GSM8045624,RNaseIII-CLASH_no_treatment_1,RNase III-CLASH,Not specified,Untreated,Untreated,NA,NA,1,Discovery_CLASH_vancomycin_response,Confirmed as untreated RNase III-CLASH sample
+GSE254532,GSM8045625,GSM8045625,RNaseIII-CLASH_no_treatment_2,RNase III-CLASH,Not specified,Untreated,Untreated,NA,NA,2,Discovery_CLASH_vancomycin_response,Confirmed as untreated RNase III-CLASH sample

@@ -1,0 +1,2951 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<MINiML
+   xmlns="http://www.ncbi.nlm.nih.gov/geo/info/MINiML"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ncbi.nlm.nih.gov/geo/info/MINiML http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd"
+   version="0.5.0" >
+
+  <Contributor iid="contrib1">
+    <Person><First>Jai</First><Middle>Justin</Middle><Last>Tree</Last></Person>
+    <Email>j.tree@unsw.edu.au</Email>
+    <Phone>+61 2 938 59142</Phone>
+    <Laboratory>Tree lab</Laboratory>
+    <Department>School of Biotechnology and Biomolecular Sciences</Department>
+    <Organization>University of New South Wales</Organization>
+    <Address>
+      <Line>Rm s110 Bldg F25, UNSW, Gate 11 Botany St</Line>
+      <City>Sydney</City>
+      <State>NSW</State>
+      <Postal-Code>2033</Postal-Code>
+      <Country>Australia</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib2">
+    <Organization>GEO</Organization>
+    <Address>
+      <City></City>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib3">
+    <Person><First>Daniel</First><Last>Mediati</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib4">
+    <Person><First>Julia</First><Last>Wong</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib5">
+    <Person><First>Sylvania</First><Last>Wu</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib6">
+    <Person><First>Ignatius</First><Last>Pang</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib7">
+    <Person><First>Jai</First><Last>Tree</Last></Person>
+  </Contributor>
+
+  <Database iid="GEO">
+    <Name>Gene Expression Omnibus (GEO)</Name>
+    <Public-ID>GEO</Public-ID>
+    <Organization>NCBI NLM NIH</Organization>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo</Web-Link>
+    <Email>geo@ncbi.nlm.nih.gov</Email>
+  </Database>
+
+  <Platform iid="GPL29205">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2020-09-30</Release-Date>
+      <Last-Update-Date>2020-09-30</Last-Update-Date>
+    </Status>
+    <Title>Illumina NextSeq 500 (Staphylococcus aureus subsp. aureus str. JKD6009)</Title>
+    <Accession database="GEO">GPL29205</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Platform iid="GPL29206">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2020-09-30</Release-Date>
+      <Last-Update-Date>2020-09-30</Last-Update-Date>
+    </Status>
+    <Title>Illumina NovaSeq 6000 (Staphylococcus aureus subsp. aureus str. JKD6009)</Title>
+    <Accession database="GEO">GPL29206</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Platform iid="GPL31256">
+    <Status database="GEO">
+      <Submission-Date>2022-01-20</Submission-Date>
+      <Release-Date>2022-01-20</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>Illumina NovaSeq 6000 (Staphylococcus aureus subsp. aureus str. JKD6008)</Title>
+    <Accession database="GEO">GPL31256</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Sample iid="GSM4811608">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 rnc-HTF RNase III-CLASH replicate 1</Title>
+    <Accession database="GEO">GSM4811608</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+rnc-HTF
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNCACTAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811608/suppl/GSM4811608_RncCLASH-top_S1_all_R1_001_trimmed_NNNCACTAGC_L5Bc_rnc-HTF_1_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811608/suppl/GSM4811608_RncCLASH-top_S1_all_R1_001_trimmed_NNNCACTAGC_L5Bc_rnc-HTF_1_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319618" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220921" />
+  </Sample>
+
+  <Sample iid="GSM4811609">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 rnc-HTF RNase III-CLASH replicate 2</Title>
+    <Accession database="GEO">GSM4811609</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+rnc-HTF
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNTCTCTAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811609/suppl/GSM4811609_RncCLASH-top_S1_all_R1_001_trimmed_NNNTCTCTAGC_L5Bd_rnc-HTF_2_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811609/suppl/GSM4811609_RncCLASH-top_S1_all_R1_001_trimmed_NNNTCTCTAGC_L5Bd_rnc-HTF_2_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319617" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220922" />
+  </Sample>
+
+  <Sample iid="GSM4811610">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 rnc-HTF RNase III-CLASH replicate 3</Title>
+    <Accession database="GEO">GSM4811610</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+rnc-HTF
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNATTAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811610/suppl/GSM4811610_JKD60091-rncHTF-1-2-3-ATCACG_S1_all_R1_001_trimmed_NNNATTAGC_L5Ab_BC1_rnc-HTF_1_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811610/suppl/GSM4811610_JKD60091-rncHTF-1-2-3-ATCACG_S1_all_R1_001_trimmed_NNNATTAGC_L5Ab_BC1_rnc-HTF_1_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319616" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220923" />
+  </Sample>
+
+  <Sample iid="GSM4811611">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 rnc-HTF RNase III-CLASH replicate 4</Title>
+    <Accession database="GEO">GSM4811611</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+rnc-HTF
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNGCGCAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811611/suppl/GSM4811611_JKD60091-rncHTF-1-2-3-ATCACG_S1_all_R1_001_trimmed_NNNGCGCAGC_L5Ac_BC1_rnc-HTF-2_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811611/suppl/GSM4811611_JKD60091-rncHTF-1-2-3-ATCACG_S1_all_R1_001_trimmed_NNNGCGCAGC_L5Ac_BC1_rnc-HTF-2_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319615" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220924" />
+  </Sample>
+
+  <Sample iid="GSM4811612">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 rnc-HTF RNase III-CLASH replicate 5</Title>
+    <Accession database="GEO">GSM4811612</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+rnc-HTF
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNCACTAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811612/suppl/GSM4811612_JKD60091-rncHTF-1-2-3-ATCACG_S1_all_R1_001_trimmed_NNNCACTAGC_L5Bc_BC1_rnc-HTF_3_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811612/suppl/GSM4811612_JKD60091-rncHTF-1-2-3-ATCACG_S1_all_R1_001_trimmed_NNNCACTAGC_L5Bc_BC1_rnc-HTF_3_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319614" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220925" />
+  </Sample>
+
+  <Sample iid="GSM4811613">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 rnc-HTF RNase III-CLASH replicate 6</Title>
+    <Accession database="GEO">GSM4811613</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+rnc-HTF
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNCACTAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811613/suppl/GSM4811613_JKD60092-rncHTF4-TGACCA_S3_all_R1_001_trimmed_NNNCACTAGC_L5Bc_BC4_rnc-HTF_4_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811613/suppl/GSM4811613_JKD60092-rncHTF4-TGACCA_S3_all_R1_001_trimmed_NNNCACTAGC_L5Bc_BC4_rnc-HTF_4_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319613" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220926" />
+  </Sample>
+
+  <Sample iid="GSM4811614">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>RNase III-CLASH negative control 1</Title>
+    <Accession database="GEO">GSM4811614</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNAGAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811614/suppl/GSM4811614_RncCLASH-top_S1_all_R1_001_trimmed_NNNAGAGC_L5Ba_control_1_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811614/suppl/GSM4811614_RncCLASH-top_S1_all_R1_001_trimmed_NNNAGAGC_L5Ba_control_1_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319612" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220927" />
+  </Sample>
+
+  <Sample iid="GSM4811615">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>RNase III-CLASH negative control 2</Title>
+    <Accession database="GEO">GSM4811615</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Brain-Heart infusion liquid media
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNase III-CLASH
+      </Characteristics>
+      <Characteristics tag="5' adapter sequence">
+NNNGTGAGC
+      </Characteristics>
+      <Growth-Protocol>
+Brain-Heart Infusion media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+UV-crosslinking and RNase-RNA purification performed as per Waters et al EMBO J 2017
+Library constructed as per Waters et al EMBO J 2017
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Library strategy: CLASH
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811615/suppl/GSM4811615_RncCLASH-top_S1_all_R1_001_trimmed_NNNGTGAGC_L5Bb_control_2_blocks_nomuts_minus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="BEDGRAPH">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811615/suppl/GSM4811615_RncCLASH-top_S1_all_R1_001_trimmed_NNNGTGAGC_L5Bb_control_2_blocks_nomuts_plus_strand_reads.bedgraph.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319611" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220928" />
+  </Sample>
+
+  <Sample iid="GSM4811616">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 dRNA-seq TEX- sample</Title>
+    <Accession database="GEO">GSM4811616</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+dRNA-seq
+      </Characteristics>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Libraries were contructed at Veritis Biotechnology, Germany using the protocl described by Sharma et al Nature 2010
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+MasterTable_GEO.tsv
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319610" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220929" />
+  </Sample>
+
+  <Sample iid="GSM4811617">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 dRNA-seq TEX+ sample</Title>
+    <Accession database="GEO">GSM4811617</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+dRNA-seq
+      </Characteristics>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Libraries were contructed at Veritis Biotechnology, Germany using the protocl described by Sharma et al Nature 2010
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+MasterTable_GEO.tsv
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319609" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220930" />
+  </Sample>
+
+  <Sample iid="GSM4811618">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 Term-seq 1</Title>
+    <Accession database="GEO">GSM4811618</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+Term-seq
+      </Characteristics>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Libraries were constructed at Veritis Biotechnology, Germany using the protocol described by Dar &amp; Sorek Science, 2016
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="GR">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811618/suppl/GSM4811618_Staph_termseq_cont1_minus_strand_single_3end_base_only.gr.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="GR">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811618/suppl/GSM4811618_Staph_termseq_cont1_plus_strand_single_3end_base_only.gr.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319608" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220931" />
+  </Sample>
+
+  <Sample iid="GSM4811619">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2021-09-15</Last-Update-Date>
+    </Status>
+    <Title>JKD6009 Term-seq 2</Title>
+    <Accession database="GEO">GSM4811619</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+Term-seq
+      </Characteristics>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Libraries were constructed at Veritis Biotechnology, Germany using the protocol described by Dar &amp; Sorek Science, 2016
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29205" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NextSeq 500</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="GR">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811619/suppl/GSM4811619_Staph_termseq_cont2_minus_strand_single_3end_base_only.gr.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="GR">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4811nnn/GSM4811619/suppl/GSM4811619_Staph_termseq_cont2_plus_strand_single_3end_base_only.gr.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319607" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220932" />
+  </Sample>
+
+  <Sample iid="GSM4811620">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 WT RNA-seq (no vancomycin) replicate 1</Title>
+    <Accession database="GEO">GSM4811620</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319606" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220933" />
+  </Sample>
+
+  <Sample iid="GSM4811621">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 WT RNA-seq (no vancomycin) replicate 2</Title>
+    <Accession database="GEO">GSM4811621</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319605" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220934" />
+  </Sample>
+
+  <Sample iid="GSM4811622">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 WT RNA-seq (no vancomycin) replicate 3</Title>
+    <Accession database="GEO">GSM4811622</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319604" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220935" />
+  </Sample>
+
+  <Sample iid="GSM4811623">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275 (∆vigR) RNA-seq (no vancomycin) replicate 1</Title>
+    <Accession database="GEO">GSM4811623</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+[delta]sRNA275 ([delta]vigR 3'UTR)
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319636" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220936" />
+  </Sample>
+
+  <Sample iid="GSM4811624">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275 (∆vigR) RNA-seq (no vancomycin) replicate 2</Title>
+    <Accession database="GEO">GSM4811624</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+[delta]sRNA275 ([delta]vigR 3'UTR)
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319635" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220937" />
+  </Sample>
+
+  <Sample iid="GSM4811625">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275 (∆vigR) RNA-seq (no vancomycin) replicate 3</Title>
+    <Accession database="GEO">GSM4811625</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+no antibiotic
+      </Characteristics>
+      <Characteristics tag="genotype">
+[delta]sRNA275 ([delta]vigR 3'UTR)
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319634" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220938" />
+  </Sample>
+
+  <Sample iid="GSM4811626">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 WT RNA-seq (3ug/ml vancomycin for 10mins) replicate 1</Title>
+    <Accession database="GEO">GSM4811626</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3ug/ml vancomcyin for 10 mins
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319633" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220939" />
+  </Sample>
+
+  <Sample iid="GSM4811627">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 WT RNA-seq (3ug/ml vancomycin for 10mins) replicate 2</Title>
+    <Accession database="GEO">GSM4811627</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3ug/ml vancomcyin for 10 mins
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319632" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220940" />
+  </Sample>
+
+  <Sample iid="GSM4811628">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 WT RNA-seq (3ug/ml vancomycin for 10mins) replicate 3</Title>
+    <Accession database="GEO">GSM4811628</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3ug/ml vancomcyin for 10 mins
+      </Characteristics>
+      <Characteristics tag="genotype">
+WT
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319631" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220941" />
+  </Sample>
+
+  <Sample iid="GSM4811629">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275 (∆vigR) RNA-seq (3ug/ml vancomycin for 10mins) replicate 1</Title>
+    <Accession database="GEO">GSM4811629</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3ug/ml vancomcyin for 10 mins
+      </Characteristics>
+      <Characteristics tag="genotype">
+[delta]sRNA275 ([delta]vigR 3'UTR)
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319630" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220942" />
+  </Sample>
+
+  <Sample iid="GSM4811630">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275 (∆vigR) RNA-seq (3ug/ml vancomycin for 10mins) replicate 2</Title>
+    <Accession database="GEO">GSM4811630</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3ug/ml vancomcyin for 10 mins
+      </Characteristics>
+      <Characteristics tag="genotype">
+[delta]sRNA275 ([delta]vigR 3'UTR)
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319629" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220943" />
+  </Sample>
+
+  <Sample iid="GSM4811631">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275 (∆vigR) RNA-seq (3ug/ml vancomycin for 10mins) replicate 3</Title>
+    <Accession database="GEO">GSM4811631</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3ug/ml vancomcyin for 10 mins
+      </Characteristics>
+      <Characteristics tag="genotype">
+[delta]sRNA275 ([delta]vigR 3'UTR)
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319628" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220944" />
+  </Sample>
+
+  <Sample iid="GSM4811632">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1 empty vector control RNA-seq (no vancomycin ) replicate 1</Title>
+    <Accession database="GEO">GSM4811632</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+chloramphenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319627" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220945" />
+  </Sample>
+
+  <Sample iid="GSM4811633">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1 empty vector control RNA-seq (no vancomycin ) replicate 2</Title>
+    <Accession database="GEO">GSM4811633</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+chloramphenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319626" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220946" />
+  </Sample>
+
+  <Sample iid="GSM4811634">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1 empty vector control RNA-seq (no vancomycin ) replicate 3</Title>
+    <Accession database="GEO">GSM4811634</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+chloramphenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319625" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220947" />
+  </Sample>
+
+  <Sample iid="GSM4811635">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1 empty vector control RNA-seq (3ug/ml vancomycin for 10mins) replicate 1</Title>
+    <Accession database="GEO">GSM4811635</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3 ug/ml vancomcyin for 10min, chlorampenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16319388" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220948" />
+  </Sample>
+
+  <Sample iid="GSM4811636">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1 empty vector control RNA-seq (3ug/ml vancomycin for 10mins) replicate 2</Title>
+    <Accession database="GEO">GSM4811636</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3 ug/ml vancomcyin for 10min, chlorampenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317768" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220949" />
+  </Sample>
+
+  <Sample iid="GSM4811637">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1 empty vector control RNA-seq (3ug/ml vancomycin for 10mins) replicate 3</Title>
+    <Accession database="GEO">GSM4811637</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3 ug/ml vancomcyin for 10min, chlorampenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317761" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220950" />
+  </Sample>
+
+  <Sample iid="GSM4811638">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1::sRNA275 CRISPRi knock-down RNA-seq (no vancomycin ) replicate 1</Title>
+    <Accession database="GEO">GSM4811638</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+chloramphenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1::sRNA275 sgRNA
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317751" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220951" />
+  </Sample>
+
+  <Sample iid="GSM4811639">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1::sRNA275 CRISPRi knock-down RNA-seq (no vancomycin ) replicate 2</Title>
+    <Accession database="GEO">GSM4811639</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+chloramphenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1::sRNA275 sgRNA
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317738" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220952" />
+  </Sample>
+
+  <Sample iid="GSM4811640">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1::sRNA275 CRISPRi knock-down RNA-seq (no vancomycin ) replicate 3</Title>
+    <Accession database="GEO">GSM4811640</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+chloramphenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1::sRNA275 sgRNA
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317726" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220953" />
+  </Sample>
+
+  <Sample iid="GSM4811641">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1::sRNA275 CRISPRi knock-down RNA-seq (3ug/ml vancomycin for 10 mins ) replicate 1</Title>
+    <Accession database="GEO">GSM4811641</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3 ug/ml vancomcyin for 10min, chlorampenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1::sRNA275 sgRNA
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317714" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220954" />
+  </Sample>
+
+  <Sample iid="GSM4811642">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1::sRNA275 CRISPRi knock-down RNA-seq (3ug/ml vancomycin for 10 mins ) replicate 2</Title>
+    <Accession database="GEO">GSM4811642</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-Hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3 ug/ml vancomcyin for 10min, chlorampenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1::sRNA275 sgRNA
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317665" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220955" />
+  </Sample>
+
+  <Sample iid="GSM4811643">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 pSD-1::sRNA275 CRISPRi knock-down RNA-seq (3ug/ml vancomycin for 10 mins ) replicate 3</Title>
+    <Accession database="GEO">GSM4811643</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole bacterial cells</Source>
+      <Organism taxid="546343">Staphylococcus aureus subsp. aureus str. JKD6009</Organism>
+      <Characteristics tag="growth media">
+Muller-hinton broth
+      </Characteristics>
+      <Characteristics tag="antibiotic">
+3 ug/ml vancomcyin for 10min, chlorampenicol plasmid selection
+      </Characteristics>
+      <Characteristics tag="genotype">
+pSD-1::sRNA275 sgRNA
+      </Characteristics>
+      <Characteristics tag="sequencing type">
+RNA-seq
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+CRISPRi_275_vs_pSD_DESeq2.xls,  2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx,  meta.xls  pSD275v_pSDv_DESeq2.xls
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL29206" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN16317651" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX9220956" />
+  </Sample>
+
+  <Sample iid="GSM5827723">
+    <Status database="GEO">
+      <Submission-Date>2022-01-20</Submission-Date>
+      <Release-Date>2022-01-23</Release-Date>
+      <Last-Update-Date>2022-01-23</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275::sRNA275 (repaired) RNA-seq (no vancomycin) replicate 1</Title>
+    <Accession database="GEO">GSM5827723</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>∆sRNA275::sRNA275</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="strain">
+JKD6008
+      </Characteristics>
+      <Characteristics tag="genotype">
+{delta}sRNA275::sRNA275 (repaired)
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+DEseq_output_vigR_MutvsREPAIR.xlsx
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN25144324" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX13845193" />
+  </Sample>
+
+  <Sample iid="GSM5827724">
+    <Status database="GEO">
+      <Submission-Date>2022-01-20</Submission-Date>
+      <Release-Date>2022-01-23</Release-Date>
+      <Last-Update-Date>2022-01-23</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275::sRNA275 (repaired) RNA-seq (no vancomycin) replicate 2</Title>
+    <Accession database="GEO">GSM5827724</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>∆sRNA275::sRNA275</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="strain">
+JKD6008
+      </Characteristics>
+      <Characteristics tag="genotype">
+{delta}sRNA275::sRNA275 (repaired)
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+DEseq_output_vigR_MutvsREPAIR.xlsx
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN25144325" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX13845194" />
+  </Sample>
+
+  <Sample iid="GSM5827725">
+    <Status database="GEO">
+      <Submission-Date>2022-01-20</Submission-Date>
+      <Release-Date>2022-01-23</Release-Date>
+      <Last-Update-Date>2022-01-23</Last-Update-Date>
+    </Status>
+    <Title>JKD6008 ∆sRNA275::sRNA275 (repaired) RNA-seq (no vancomycin) replicate 3</Title>
+    <Accession database="GEO">GSM5827725</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>∆sRNA275::sRNA275</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="strain">
+JKD6008
+      </Characteristics>
+      <Characteristics tag="genotype">
+{delta}sRNA275::sRNA275 (repaired)
+      </Characteristics>
+      <Treatment-Protocol>
+3ug/ml vancomycin for 10 mins at OD600 where indicated | 10ug/ml chloramphenicol was added to cultures with pSD-1 and derivatives
+      </Treatment-Protocol>
+      <Growth-Protocol>
+Muller-Hinton media, grown at 37C to an OD600 of 3.0
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+Total RNA was extracted using a GTC Phenol extraction protocol (Tollervey and Mattaj, EMBO J 1987)
+Total RNA-seq libraries were constructed by NovoGene.
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+DEseq_output_vigR_MutvsREPAIR.xlsx
+    </Description>
+    <Data-Processing>
+Trimming - BBTrim from BBTools
+RNase III-CLASH: Merging paired reads: BBMerge from BBTools
+RNase III-CLASH: Calling RNase III binding sites: pyCRAC (Webb et al Genome Biol 2014)
+RNase III-CLASH: Calling RNA-RNA interactions: hyb (Travis et al Bioinformatics 2013)
+dRNA-seq: Mapping, calling RNA 5' ends: ANNOgesic (Yu, Vogel, Forstner Gigascience, 2018)
+Term-seq: Read mapping/alignment: bowtie2
+Term-seq: 3' end mapping: bedtools genomecov
+Term-seq: Statistical filtering: Custom R scripts inspired by Dar &amp; Sorek Science 2016.
+RNA-seq: Read mapping/alignment: bowtie2
+RNA-seq: Statistical analysis: DESeq2 (Bioconductor)
+Genome_build: NC_017341.1
+Genome_build: NZ_LR027876.1
+Supplementary_files_format_and_content: BEDGRAPH format, files contain mapped read depth representing RNase III-RNA interaction sites (binding sites)
+Supplementary_files_format_and_content: BEDGRAPH, RNA 3' end depth (reverse complement read 5' ends)
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN25144326" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX13845195" />
+  </Sample>
+
+  <Series iid="GSE158830">
+    <Status database="GEO">
+      <Submission-Date>2020-09-30</Submission-Date>
+      <Release-Date>2021-09-14</Release-Date>
+      <Last-Update-Date>2022-06-30</Last-Update-Date>
+    </Status>
+    <Title>RNase III-CLASH of multi-drug resistant Staphylococcus aureus reveals a regulatory mRNA 3’UTR required for intermediate vancomycin resistance</Title>
+    <Accession database="GEO">GSE158830</Accession>
+    <Pubmed-ID>34372700</Pubmed-ID>
+    <Pubmed-ID>35732665</Pubmed-ID>
+    <Summary>
+Treatment of methicillin-resistant Staphylococcus aureus (MRSA) infections is dependant on the efficacy of last-line antibiotics like vancomycin. Vancomycin treatment failure is most commonly linked to the emergence of vancomycin-intermediate resistance in clincal isolates (termed VISA). These isolates have not acquired resistance genes but appear to accumulate a heterogenous collection of single nucleotide polymerisms that collectively alter the physiology of the cell to increase vancomycin tolerance. Cell wall thickening is common among VISA isolates and is thought to decrease vancomycin permeability. Changes in regulatory sRNA expression have been correlated with antibiotic stress responses in VISA isolates however the functions of the vast majority of these RNA regulators is unknown. Here we have used the endoribonuclease RNase III to capture RNA-RNA interactions using an RNA proximity-dependant ligation technique termed CLASH. RNase III-CLASH uncovered hundreds of sRNA-mRNA interactions in vivo allowing functional characterisation of many sRNAs for the first time. Surprisingly, we find that an mRNA encoding an unusually long 3’UTR (here termed vigR) functions as a regulatory ‘hub’ within our RNA-RNA interaction network. We demonstrate vigR promotes expression of the cell wall lytic transglycosylase encoded by isaA through a direct mRNA-mRNA interaction. Further, we find that the vigR mRNA 3’UTR is required for cell wall thickening and that deletion of the vigR 3’UTR re-sensitises VISA to vancomycin. Our results demonstrate the utility of RNase III-CLASH for identifying new regulatory RNA functions and indicate that S. aureus may use mRNA-mRNA interactions to co-ordinate gene expression much more widely than previously appreciated.
+    </Summary>
+    <Overall-Design>
+This series consists of four different  sequencing datasets: 1. RNase III-CLASH (RNA proximity-dependant ligation) data from S. aureus JKD6009, 2. dRNA-seq mapping of RNA 5' end,  3. Term-seq mapping of RNA 3' ends, and 4. Total RNA-sequencing data
+
+Please note that the following update has been made on Jan 2022:
+GSM4811620-GSM4811625 raw data files have been replaced (the submitters found that the strains used to generate these FASTQ files had a number of SNPs that might affect the data and generated new sequencing data from re-generated strains).
+The previous 'd275v_WTv_DESeq2.xls' was replaced with '2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx'
+Three additional samples were included
+    </Overall-Design>
+    <Type>Expression profiling by high throughput sequencing</Type>
+    <Contributor-Ref ref="contrib3" position="1" />
+    <Contributor-Ref ref="contrib4" position="2" />
+    <Contributor-Ref ref="contrib5" position="3" />
+    <Contributor-Ref ref="contrib6" position="4" />
+    <Contributor-Ref ref="contrib7" position="5" />
+    <Contact-Ref ref="contrib1" />
+    <Sample-Ref ref="GSM4811608" />
+    <Sample-Ref ref="GSM4811609" />
+    <Sample-Ref ref="GSM4811610" />
+    <Sample-Ref ref="GSM4811611" />
+    <Sample-Ref ref="GSM4811612" />
+    <Sample-Ref ref="GSM4811613" />
+    <Sample-Ref ref="GSM4811614" />
+    <Sample-Ref ref="GSM4811615" />
+    <Sample-Ref ref="GSM4811616" />
+    <Sample-Ref ref="GSM4811617" />
+    <Sample-Ref ref="GSM4811618" />
+    <Sample-Ref ref="GSM4811619" />
+    <Sample-Ref ref="GSM4811620" />
+    <Sample-Ref ref="GSM4811621" />
+    <Sample-Ref ref="GSM4811622" />
+    <Sample-Ref ref="GSM4811623" />
+    <Sample-Ref ref="GSM4811624" />
+    <Sample-Ref ref="GSM4811625" />
+    <Sample-Ref ref="GSM4811626" />
+    <Sample-Ref ref="GSM4811627" />
+    <Sample-Ref ref="GSM4811628" />
+    <Sample-Ref ref="GSM4811629" />
+    <Sample-Ref ref="GSM4811630" />
+    <Sample-Ref ref="GSM4811631" />
+    <Sample-Ref ref="GSM4811632" />
+    <Sample-Ref ref="GSM4811633" />
+    <Sample-Ref ref="GSM4811634" />
+    <Sample-Ref ref="GSM4811635" />
+    <Sample-Ref ref="GSM4811636" />
+    <Sample-Ref ref="GSM4811637" />
+    <Sample-Ref ref="GSM4811638" />
+    <Sample-Ref ref="GSM4811639" />
+    <Sample-Ref ref="GSM4811640" />
+    <Sample-Ref ref="GSM4811641" />
+    <Sample-Ref ref="GSM4811642" />
+    <Sample-Ref ref="GSM4811643" />
+    <Sample-Ref ref="GSM5827723" />
+    <Sample-Ref ref="GSM5827724" />
+    <Sample-Ref ref="GSM5827725" />
+    <Supplementary-Data type="XLSX">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_2021.03.16_MUTvsWT.DEseq2_combined_output.xlsx
+    </Supplementary-Data>
+    <Supplementary-Data type="XLS">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_CRISPRi_275_vs_pSD_DESeq2.xls.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="XLSX">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_DEseq_output_vigR_MutvsREPAIR.xlsx
+    </Supplementary-Data>
+    <Supplementary-Data type="TSV">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_MasterTable_GEO.tsv.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="TAR">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_RAW.tar
+    </Supplementary-Data>
+    <Supplementary-Data type="XLS">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_delta_275_vs_WT_DESeq2.xls.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="XLS">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158830/suppl/GSE158830_pSD275v_pSDv_DESeq2.xls.gz
+    </Supplementary-Data>
+    <Relation type="BioProject" target="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA666667" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRP285933" />
+  </Series>
+
+</MINiML>

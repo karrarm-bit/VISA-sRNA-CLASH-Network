@@ -1,0 +1,7 @@
+check,observed,expected,status
+GSE254530 untreated RNA-seq samples,3,3,PASS
+GSE254530 treated RNA-seq samples,3,3,PASS
+GSE254531 baseline Ribo-seq samples,2,2,PASS
+GSE254532 untreated CLASH samples,2,2,PASS
+GSE254532 treated CLASH samples,4,4,PASS
+Remaining unclear samples,0,0,PASS

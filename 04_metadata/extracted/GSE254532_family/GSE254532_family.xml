@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<MINiML
+   xmlns="http://www.ncbi.nlm.nih.gov/geo/info/MINiML"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ncbi.nlm.nih.gov/geo/info/MINiML http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd"
+   version="0.5.0" >
+
+  <Contributor iid="contrib1">
+    <Person><First>Jai</First><Middle>Justin</Middle><Last>Tree</Last></Person>
+    <Email>j.tree@unsw.edu.au</Email>
+    <Phone>+61 2 938 59142</Phone>
+    <Laboratory>Tree lab</Laboratory>
+    <Department>School of Biotechnology and Biomolecular Sciences</Department>
+    <Organization>University of New South Wales</Organization>
+    <Address>
+      <Line>Rm s110 Bldg F25, UNSW, Gate 11 Botany St</Line>
+      <City>Sydney</City>
+      <State>NSW</State>
+      <Postal-Code>2033</Postal-Code>
+      <Country>Australia</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib2">
+    <Organization>GEO</Organization>
+    <Address>
+      <City></City>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib3">
+    <Person><First>Jai</First><Last>Tree</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib4">
+    <Person><First>Ignatius</First><Last>Pang</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib5">
+    <Person><First>Winton</First><Last>Wu</Last></Person>
+  </Contributor>
+
+  <Database iid="GEO">
+    <Name>Gene Expression Omnibus (GEO)</Name>
+    <Public-ID>GEO</Public-ID>
+    <Organization>NCBI NLM NIH</Organization>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo</Web-Link>
+    <Email>geo@ncbi.nlm.nih.gov</Email>
+  </Database>
+
+  <Platform iid="GPL34143">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-01-30</Release-Date>
+      <Last-Update-Date>2024-01-30</Last-Update-Date>
+    </Status>
+    <Title>Illumina HiSeq 4000 (Staphylococcus aureus subsp. aureus str. JKD6008)</Title>
+    <Accession database="GEO">GPL34143</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Sample iid="GSM8045620">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>JKD6008_untagged_bkg_1</Title>
+    <Accession database="GEO">GSM8045620</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+untagged_background_control_1
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Not included in the final processed data
+    </Description>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667408" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444032" />
+  </Sample>
+
+  <Sample iid="GSM8045621">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>JKD6008_untagged_bkg_2</Title>
+    <Accession database="GEO">GSM8045621</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+untagged_background_control_2
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Not included in the final processed data
+    </Description>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667407" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444033" />
+  </Sample>
+
+  <Sample iid="GSM8045622">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>JKD6008_untagged_bkg_3</Title>
+    <Accession database="GEO">GSM8045622</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+untagged_background_control_3
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Not included in the final processed data
+    </Description>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667406" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444034" />
+  </Sample>
+
+  <Sample iid="GSM8045623">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>JKD6008_untagged_bkg_4</Title>
+    <Accession database="GEO">GSM8045623</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+untagged_background_control_4
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Not included in the final processed data
+    </Description>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667405" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444035" />
+  </Sample>
+
+  <Sample iid="GSM8045624">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>RNaseIII-CLASH_no_treatment_1</Title>
+    <Accession database="GEO">GSM8045624</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+no treatment
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667404" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444036" />
+  </Sample>
+
+  <Sample iid="GSM8045625">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>RNaseIII-CLASH_no_treatment_2</Title>
+    <Accession database="GEO">GSM8045625</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+no treatment
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667403" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444037" />
+  </Sample>
+
+  <Sample iid="GSM8045626">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>RNaseIII-CLASH_vancomycin_1</Title>
+    <Accession database="GEO">GSM8045626</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+2ug/ml vancomycin for 10mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667402" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444038" />
+  </Sample>
+
+  <Sample iid="GSM8045627">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>RNaseIII-CLASH_vancomycin_2</Title>
+    <Accession database="GEO">GSM8045627</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+2ug/ml vancomycin for 10mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667401" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444039" />
+  </Sample>
+
+  <Sample iid="GSM8045628">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>RNaseIII-CLASH_vancomycin_3</Title>
+    <Accession database="GEO">GSM8045628</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+2ug/ml vancomycin for 10mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667400" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444040" />
+  </Sample>
+
+  <Sample iid="GSM8045629">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>RNaseIII-CLASH_vancomycin_4</Title>
+    <Accession database="GEO">GSM8045629</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>strain JKD6008 (vancomycin intermediate, VISA)</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+2ug/ml vancomycin for 10mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>other</Molecule>
+      <Extract-Protocol>
+as per CLASH protocol (PMID: 37925184)
+Libraries were prepared using RNase III-CLASH (PMID: 37925184). This technique captures RNA-RNA interactions associated with RNase III
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+library strategy: RNase III-CLASH
+BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014).
+BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+RNase III-RNA and RNA-RNA interactions were determined using the pipeline Hyb-CRAC-R avaiable at https://github.com/IgnatiusPang/Hyb-CRAC-R
+Assembly: GCF_000145595.1 with additional custom annotations of 5'UTRs and 3'UTRs from PMID: 35732665
+Supplementary files format and content: Final_RATT_VISACLASH.txt, RNA-RNA interactions recovered from RNase III_CLASH. Format as per https://github.com/IgnatiusPang/Hyb-CRAC-R
+Supplementary files format and content: Sa_JKD6008_annot_updated.gtf; updated annotation file in GTF format
+    </Data-Processing>
+    <Platform-Ref ref="GPL34143" />
+    <Library-Strategy>OTHER</Library-Strategy>
+    <Library-Source>other</Library-Source>
+    <Library-Selection>other</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina HiSeq 4000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667399" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23444041" />
+  </Sample>
+
+  <Series iid="GSE254532">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-18</Release-Date>
+      <Last-Update-Date>2024-05-01</Last-Update-Date>
+    </Status>
+    <Title>The functional small RNA interactome reveals targets for the vancomycin-responsive sRNA RsaOI in vancomycin tolerant Staphylococcus aureus [RNase III-CLASH]</Title>
+    <Accession database="GEO">GSE254532</Accession>
+    <Pubmed-ID>38534138</Pubmed-ID>
+    <Summary>
+Small RNAs have been found to control a broad range of bacterial phenotypes including tolerance to antibiotics. Vancomycin tolerance in multidrug resistance Staphylococcus aureus is correlated with dysregulation of small RNAs although their contribution to antibiotic tolerance in poorly understood. RNA-RNA interactome profiling techniques are expanding our understanding of sRNA-mRNA interactions in bacteria; however, determining the function of these interactions for hundreds of sRNA-mRNA pairs is a major challenge. At steady-state, protein and mRNA abundances are often highly correlated and lower than expected protein abundance may indicate translational repression of an mRNA. To identify sRNA-mRNA interactions that regulate mRNA translation, we examined the correlation between gene transcript abundance, ribosome occupancy, and protein levels. We used the machine learning technique self-organising maps (SOMS) to cluster genes with similar transcription and translation patterns and identified a cluster of mRNAs that appeared to be post-transcriptionally repressed. By integrating our clustering with sRNA-mRNA interactome data generated in vancomycin tolerant S. aureus by RNase III-CLASH, we identified sRNAs that may be mediating translational repression. We have confirmed sRNA-dependant post-transcriptional repression of several mRNAs in this cluster. Two of these interactions are mediated by RsaOI, a sRNA that is highly upregulated by vancomycin. We demonstrate regulation of HPr and the cell-wall autolysin Atl. These findings suggest RsaOI coordinates carbon metabolism and cell wall turnover during vancomycin treatment.
+    </Summary>
+    <Overall-Design>
+This study uses a metaomics approach to predict sRNA function on mRNA transcription and translation, and identify genes that are post-transcriptionally regulated. The technique CLASH was used to identify sRNA-mRNA interactions in the cell and is presented in this entry. RNaseIII-CLASH was performed on biological duplicate cultures grown in Muller Hinton media to an OD of 0.8 with or without treatment with 2ug/ml vancomycin for 10mins.
+    </Overall-Design>
+    <Type>Other</Type>
+    <Contributor-Ref ref="contrib3" position="1" />
+    <Contributor-Ref ref="contrib4" position="2" />
+    <Contributor-Ref ref="contrib5" position="3" />
+    <Contact-Ref ref="contrib1" />
+    <Sample-Ref ref="GSM8045620" />
+    <Sample-Ref ref="GSM8045621" />
+    <Sample-Ref ref="GSM8045622" />
+    <Sample-Ref ref="GSM8045623" />
+    <Sample-Ref ref="GSM8045624" />
+    <Sample-Ref ref="GSM8045625" />
+    <Sample-Ref ref="GSM8045626" />
+    <Sample-Ref ref="GSM8045627" />
+    <Sample-Ref ref="GSM8045628" />
+    <Sample-Ref ref="GSM8045629" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254532/suppl/GSE254532_Final_RATT_VISACLASH.txt.gz
+    </Supplementary-Data>
+    <Relation type="SubSeries of" target="GSE254533" />
+    <Relation type="BioProject" target="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1070981" />
+  </Series>
+
+</MINiML>

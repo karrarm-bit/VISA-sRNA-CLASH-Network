@@ -1,0 +1,5 @@
+dataset,assay_expected,study_role
+GSE254530,RNA-seq,Discovery
+GSE254531,Ribo-seq,Discovery
+GSE254532,RNase III-CLASH,Discovery
+GSE158830,RNase III-CLASH,Validation

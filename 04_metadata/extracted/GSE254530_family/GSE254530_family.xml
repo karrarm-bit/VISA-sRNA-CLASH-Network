@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<MINiML
+   xmlns="http://www.ncbi.nlm.nih.gov/geo/info/MINiML"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ncbi.nlm.nih.gov/geo/info/MINiML http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd"
+   version="0.5.0" >
+
+  <Contributor iid="contrib1">
+    <Person><First>Jai</First><Middle>Justin</Middle><Last>Tree</Last></Person>
+    <Email>j.tree@unsw.edu.au</Email>
+    <Phone>+61 2 938 59142</Phone>
+    <Laboratory>Tree lab</Laboratory>
+    <Department>School of Biotechnology and Biomolecular Sciences</Department>
+    <Organization>University of New South Wales</Organization>
+    <Address>
+      <Line>Rm s110 Bldg F25, UNSW, Gate 11 Botany St</Line>
+      <City>Sydney</City>
+      <State>NSW</State>
+      <Postal-Code>2033</Postal-Code>
+      <Country>Australia</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib2">
+    <Organization>GEO</Organization>
+    <Address>
+      <City></City>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib3">
+    <Person><First>Jai</First><Last>Tree</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib4">
+    <Person><First>Ignatius</First><Last>Pang</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib5">
+    <Person><First>Winton</First><Last>Wu</Last></Person>
+  </Contributor>
+
+  <Database iid="GEO">
+    <Name>Gene Expression Omnibus (GEO)</Name>
+    <Public-ID>GEO</Public-ID>
+    <Organization>NCBI NLM NIH</Organization>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo</Web-Link>
+    <Email>geo@ncbi.nlm.nih.gov</Email>
+  </Database>
+
+  <Platform iid="GPL31256">
+    <Status database="GEO">
+      <Submission-Date>2022-01-20</Submission-Date>
+      <Release-Date>2022-01-20</Release-Date>
+      <Last-Update-Date>2022-01-20</Last-Update-Date>
+    </Status>
+    <Title>Illumina NovaSeq 6000 (Staphylococcus aureus subsp. aureus str. JKD6008)</Title>
+    <Accession database="GEO">GPL31256</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Sample iid="GSM8045612">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>control_30mins_1</Title>
+    <Accession database="GEO">GSM8045612</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole cell</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="tissue">
+whole cell
+      </Characteristics>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+no treatment
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+GTF-phenol (Tollervey &amp; Mattaj EMBO J 1987; PMID: 2953599)
+Libraries prepared by Novagene using prokaryotic directional mRNA library preparation (with rRNA removal).
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+prepocessing using BBDuk. BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014). After trimming, BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+mapped using BBMap
+Read counts for each feature was computed using bedtools coverage (https://bedtools.readthedocs.io/en/latest/)(PMID: 25199790)
+Differential gene expression analysis was performed using DESeq2 (Love et al, 2014)(PMID: 25516281)
+Assembly: GCF_000145595.1
+Supplementary files format and content: gene count table (raw reads counts)
+Supplementary files format and content: Deseq2 output table of differentially expressed genes
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8045nnn/GSM8045612/suppl/GSM8045612_Cont1_30mins_RNA.txt.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667166" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23443811" />
+  </Sample>
+
+  <Sample iid="GSM8045613">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>control_30mins_2</Title>
+    <Accession database="GEO">GSM8045613</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole cell</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="tissue">
+whole cell
+      </Characteristics>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+no treatment
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+GTF-phenol (Tollervey &amp; Mattaj EMBO J 1987; PMID: 2953599)
+Libraries prepared by Novagene using prokaryotic directional mRNA library preparation (with rRNA removal).
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+prepocessing using BBDuk. BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014). After trimming, BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+mapped using BBMap
+Read counts for each feature was computed using bedtools coverage (https://bedtools.readthedocs.io/en/latest/)(PMID: 25199790)
+Differential gene expression analysis was performed using DESeq2 (Love et al, 2014)(PMID: 25516281)
+Assembly: GCF_000145595.1
+Supplementary files format and content: gene count table (raw reads counts)
+Supplementary files format and content: Deseq2 output table of differentially expressed genes
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8045nnn/GSM8045613/suppl/GSM8045613_Cont2_30mins_RNA.txt.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667165" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23443812" />
+  </Sample>
+
+  <Sample iid="GSM8045614">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>control_30mins_3</Title>
+    <Accession database="GEO">GSM8045614</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole cell</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="tissue">
+whole cell
+      </Characteristics>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+no treatment
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+GTF-phenol (Tollervey &amp; Mattaj EMBO J 1987; PMID: 2953599)
+Libraries prepared by Novagene using prokaryotic directional mRNA library preparation (with rRNA removal).
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+prepocessing using BBDuk. BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014). After trimming, BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+mapped using BBMap
+Read counts for each feature was computed using bedtools coverage (https://bedtools.readthedocs.io/en/latest/)(PMID: 25199790)
+Differential gene expression analysis was performed using DESeq2 (Love et al, 2014)(PMID: 25516281)
+Assembly: GCF_000145595.1
+Supplementary files format and content: gene count table (raw reads counts)
+Supplementary files format and content: Deseq2 output table of differentially expressed genes
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8045nnn/GSM8045614/suppl/GSM8045614_Cont3_30mins_RNA.txt.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667164" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23443813" />
+  </Sample>
+
+  <Sample iid="GSM8045615">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>vancomcyin_30mins_1</Title>
+    <Accession database="GEO">GSM8045615</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole cell</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="tissue">
+whole cell
+      </Characteristics>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+8 ug/ml vancomycin for 30 mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+GTF-phenol (Tollervey &amp; Mattaj EMBO J 1987; PMID: 2953599)
+Libraries prepared by Novagene using prokaryotic directional mRNA library preparation (with rRNA removal).
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+prepocessing using BBDuk. BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014). After trimming, BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+mapped using BBMap
+Read counts for each feature was computed using bedtools coverage (https://bedtools.readthedocs.io/en/latest/)(PMID: 25199790)
+Differential gene expression analysis was performed using DESeq2 (Love et al, 2014)(PMID: 25516281)
+Assembly: GCF_000145595.1
+Supplementary files format and content: gene count table (raw reads counts)
+Supplementary files format and content: Deseq2 output table of differentially expressed genes
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8045nnn/GSM8045615/suppl/GSM8045615_Van1_30mins_RNA.txt.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667163" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23443814" />
+  </Sample>
+
+  <Sample iid="GSM8045616">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>vancomycin_30mins_2</Title>
+    <Accession database="GEO">GSM8045616</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole cell</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="tissue">
+whole cell
+      </Characteristics>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+8 ug/ml vancomycin for 30 mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+GTF-phenol (Tollervey &amp; Mattaj EMBO J 1987; PMID: 2953599)
+Libraries prepared by Novagene using prokaryotic directional mRNA library preparation (with rRNA removal).
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+prepocessing using BBDuk. BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014). After trimming, BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+mapped using BBMap
+Read counts for each feature was computed using bedtools coverage (https://bedtools.readthedocs.io/en/latest/)(PMID: 25199790)
+Differential gene expression analysis was performed using DESeq2 (Love et al, 2014)(PMID: 25516281)
+Assembly: GCF_000145595.1
+Supplementary files format and content: gene count table (raw reads counts)
+Supplementary files format and content: Deseq2 output table of differentially expressed genes
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8045nnn/GSM8045616/suppl/GSM8045616_Van2_30mins_RNA.txt.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667162" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23443815" />
+  </Sample>
+
+  <Sample iid="GSM8045617">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-17</Release-Date>
+      <Last-Update-Date>2024-03-17</Last-Update-Date>
+    </Status>
+    <Title>vancomcycin_30mins_3</Title>
+    <Accession database="GEO">GSM8045617</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>whole cell</Source>
+      <Organism taxid="546342">Staphylococcus aureus subsp. aureus str. JKD6008</Organism>
+      <Characteristics tag="tissue">
+whole cell
+      </Characteristics>
+      <Characteristics tag="cell line">
+strain JKD6008 (vancomycin intermediate, VISA)
+      </Characteristics>
+      <Characteristics tag="genotype">
+VISA
+      </Characteristics>
+      <Characteristics tag="treatment">
+8 ug/ml vancomycin for 30 mins
+      </Characteristics>
+      <Treatment-Protocol>
+Where applicable, cultures were treated with 8ug/ml of vancomycin for 30mins and then harvested into GTC-phenol buffer.
+      </Treatment-Protocol>
+      <Growth-Protocol>
+S. aureus str. JKD6008 was grown in Muller-Hinton media to an OD600 of 0.8 before treatment
+      </Growth-Protocol>
+      <Molecule>total RNA</Molecule>
+      <Extract-Protocol>
+GTF-phenol (Tollervey &amp; Mattaj EMBO J 1987; PMID: 2953599)
+Libraries prepared by Novagene using prokaryotic directional mRNA library preparation (with rRNA removal).
+      </Extract-Protocol>
+    </Channel>
+    <Data-Processing>
+prepocessing using BBDuk. BBDuk was used to trim the 5’ adapter sequence of the raw data using the parameters ‘ktrim=l k=23 mink=11 hdist=1’ followed by quality trimming with the parameters ‘qtrim=rl trimq=30’(Bushnell, 2014). After trimming, BBmerge was used to merge the paired-end reads using the default parameters (Bushnell et al, 2017)
+mapped using BBMap
+Read counts for each feature was computed using bedtools coverage (https://bedtools.readthedocs.io/en/latest/)(PMID: 25199790)
+Differential gene expression analysis was performed using DESeq2 (Love et al, 2014)(PMID: 25516281)
+Assembly: GCF_000145595.1
+Supplementary files format and content: gene count table (raw reads counts)
+Supplementary files format and content: Deseq2 output table of differentially expressed genes
+    </Data-Processing>
+    <Platform-Ref ref="GPL31256" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8045nnn/GSM8045617/suppl/GSM8045617_Van3_30mins_RNA.txt.gz
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN39667161" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX23443816" />
+  </Sample>
+
+  <Series iid="GSE254530">
+    <Status database="GEO">
+      <Submission-Date>2024-01-30</Submission-Date>
+      <Release-Date>2024-03-18</Release-Date>
+      <Last-Update-Date>2024-05-01</Last-Update-Date>
+    </Status>
+    <Title>The functional small RNA interactome reveals targets for the vancomycin-responsive sRNA RsaOI in vancomycin tolerant Staphylococcus aureus [RNA-seq]</Title>
+    <Accession database="GEO">GSE254530</Accession>
+    <Pubmed-ID>38534138</Pubmed-ID>
+    <Summary>
+Small RNAs have been found to control a broad range of bacterial phenotypes including tolerance to antibiotics. Vancomycin tolerance in multidrug resistance Staphylococcus aureus is correlated with dysregulation of small RNAs although their contribution to antibiotic tolerance in poorly understood. RNA-RNA interactome profiling techniques are expanding our understanding of sRNA-mRNA interactions in bacteria; however, determining the function of these interactions for hundreds of sRNA-mRNA pairs is a major challenge. At steady-state, protein and mRNA abundances are often highly correlated and lower than expected protein abundance may indicate translational repression of an mRNA. To identify sRNA-mRNA interactions that regulate mRNA translation, we examined the correlation between gene transcript abundance, ribosome occupancy, and protein levels. We used the machine learning technique self-organising maps (SOMS) to cluster genes with similar transcription and translation patterns and identified a cluster of mRNAs that appeared to be post-transcriptionally repressed. By integrating our clustering with sRNA-mRNA interactome data generated in vancomycin tolerant S. aureus by RNase III-CLASH, we identified sRNAs that may be mediating translational repression. We have confirmed sRNA-dependant post-transcriptional repression of several mRNAs in this cluster. Two of these interactions are mediated by RsaOI, a sRNA that is highly upregulated by vancomycin. We demonstrate regulation of HPr and the cell-wall autolysin Atl. These findings suggest RsaOI coordinates carbon metabolism and cell wall turnover during vancomycin treatment.
+    </Summary>
+    <Overall-Design>
+This study uses a metaomics approach to assess gene transcription and translation, and identify genes that are post-transcriptionally regulated. RNA-seq is used to assess mRNA abundance and is presented in this entry. Total RNA was extracted from S. aureus strain JKD6008 (VISA) in biological triplicate. Cultures were prepared with or without treatment with 8ug/ml vancomycin for 30 minutes.
+    </Overall-Design>
+    <Type>Expression profiling by high throughput sequencing</Type>
+    <Contributor-Ref ref="contrib3" position="1" />
+    <Contributor-Ref ref="contrib4" position="2" />
+    <Contributor-Ref ref="contrib5" position="3" />
+    <Contact-Ref ref="contrib1" />
+    <Sample-Ref ref="GSM8045612" />
+    <Sample-Ref ref="GSM8045613" />
+    <Sample-Ref ref="GSM8045614" />
+    <Sample-Ref ref="GSM8045615" />
+    <Sample-Ref ref="GSM8045616" />
+    <Sample-Ref ref="GSM8045617" />
+    <Supplementary-Data type="TAR">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254530/suppl/GSE254530_RAW.tar
+    </Supplementary-Data>
+    <Supplementary-Data type="TXT">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254530/suppl/GSE254530_RNAseq_VAN30_DEseq2.txt.gz
+    </Supplementary-Data>
+    <Relation type="SubSeries of" target="GSE254533" />
+    <Relation type="BioProject" target="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1070979" />
+  </Series>
+
+</MINiML>
