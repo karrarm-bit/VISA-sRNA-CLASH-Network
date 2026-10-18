@@ -1,0 +1,16 @@
+{
+  "JKD6008": "CP002120.1 sequence extracted unchanged from supplied original GenBank record",
+  "JKD6009": "NCBI EFetch NZ_LR027876.1 retrieved 2026-10-18; https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NZ_LR027876.1&rettype=fasta&retmode=text",
+  "checksums": [
+    {
+      "path": "references/JKD6008_CP002120.1.fa",
+      "bytes": 2960930,
+      "sha256": "5186f7bec00c151ea0951c3faf164cbee0fae35758c85687724d67e5b82ca5b8"
+    },
+    {
+      "path": "references/JKD6009_NZ_LR027876.1.fa",
+      "bytes": 2972385,
+      "sha256": "a54b4e104f608a6ee350d32114e8d9c674417a71e9bde1c76b70a911755f3879"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+candidate,source_reference,source_start,source_end,target_reference,target_start,target_end,strand,coordinate_system,source_3prime,target_3prime,offset,flank_each_side_nt,exact_alignment_length_nt,unique_forward_match,reverse_complement_match
+3UTR-RS04120,CP002120.1 (JKD6008; equivalent NC_017341.1 sequence),811819,811847,NZ_LR027876.1 (JKD6009),812356,812384,+,1-based inclusive,811847,812384,537,50,129,True,False
+3UTR-RS05585,CP002120.1 (JKD6008; equivalent NC_017341.1 sequence),1084557,1084613,NZ_LR027876.1 (JKD6009),1085084,1085140,-,1-based inclusive,1084557,1085084,527,50,157,True,False

@@ -1,0 +1,3 @@
+candidate,strand,expected_3prime,replicates_examined,replicates_with_signal,replicates_with_enrichment,replicates_with_strong_local_peak,median_boundary_signal,median_enrichment_ratio,TermSeq_boundary_class,manuscript_interpretation
+3UTR-RS04120,+,812384,2,2,2,2,941.5,942.5,Reproducible strong 3′-boundary support,Reproducible local boundary support in parental JKD6009; independent processing in JKD6008 remains unestablished.
+3UTR-RS05585,-,1085084,2,2,2,0,3.0,4.0,Reproducible local 3′-boundary enrichment,Reproducible local boundary support in parental JKD6009; independent processing in JKD6008 remains unestablished.
