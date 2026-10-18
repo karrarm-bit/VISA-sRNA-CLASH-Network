@@ -1,0 +1,11 @@
+metric,value
+Total collapsed CLASH sRNA-mRNA edges,211
+Edges with significant target DEG,10
+Edges with strong target response,2
+Edges with measured target but below DEG threshold,71
+Edges without mapped target transcriptomic evidence,130
+Named sRNA edges,69
+Putative 3UTR-associated RNA edges,47
+RsaOI edges,1
+SprA2/RsaJ edges,3
+nrdF-targeting edges,2

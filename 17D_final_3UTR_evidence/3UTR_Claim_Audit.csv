@@ -1,0 +1,3 @@
+candidate,proposed_parent,target,genomic_3UTR_context_supported,CLASH_interaction_supported,target_significant_transcriptional_response,reproducible_sharp_TermSeq_boundary,independent_processing_demonstrated,direct_regulation_demonstrated,causal_vancomycin_role_demonstrated
+3UTR-RS04120,nrdF,nrdF,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+3UTR-RS05585,folD,nrdF,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE

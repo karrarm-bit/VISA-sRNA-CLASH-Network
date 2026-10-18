@@ -1,0 +1,11 @@
+Regulatory RNA,Regulatory RNA class,Target gene,Target locus,Predicted protein product,Target log2FC,Target response,Target adjusted P,CLASH hybrid count,CLASH adjusted P,Connection score,Experiments,CLASH-support score,CLASH-support category
+INT-0-419,Intergenic RNA candidate,spa,SAA6008_RS00455,staphylococcal protein A,-2.887,Repressed,2.7722098318263e-43,300,1.3099999999999998e-88,0.9015,5,13,Higher CLASH support
+INT-0-1153,Intergenic RNA candidate,modA,SAA6008_RS12655,molybdate ABC transporter substrate-binding protein,-1.047,Repressed,4.78144858619508e-9,52,0,0,3,10,Higher CLASH support
+INT-0-1448,Intergenic RNA candidate,gltB,SAA6008_RS02440,glutamate synthase large subunit,1.325,Induced,9.32671268897748e-5,28,4.7600000000000004e-29,0.4248,2,9,Higher CLASH support
+3UTR-RS04120,Putative 3′UTR-associated RNA candidate,nrdF,SAA6008_RS03945,class 1b ribonucleoside-diphosphate reductase subunit beta,-1.118,Repressed,3.0404775457353495e-11,15,0,0.2887,2,7,Intermediate CLASH support
+INT-0-332,Intergenic RNA candidate,modA,SAA6008_RS12655,molybdate ABC transporter substrate-binding protein,-1.047,Repressed,4.78144858619508e-9,8,1.1599999999999999e-28,0.7698,1,7,Intermediate CLASH support
+sRNA-00053,Predicted sRNA candidate,dhaK,SAA6008_RS03500,dihydroxyacetone kinase subunit DhaK,1.097,Induced,1.32978034052569e-13,6,0,0.0033,2,6,Intermediate CLASH support
+SprA2/RsaJ,Named sRNA,guaB,SAA6008_RS02005,IMP dehydrogenase,-1.23,Repressed,6.36922601652228e-15,10,1.19e-22,0.1952,1,5,Limited CLASH support
+3UTR-RS05585,Putative 3′UTR-associated RNA candidate,nrdF,SAA6008_RS03945,class 1b ribonucleoside-diphosphate reductase subunit beta,-1.118,Repressed,3.0404775457353495e-11,7,1.24e-13,0.1059,1,5,Limited CLASH support
+sRNA-00246,Predicted sRNA candidate,qoxB,SAA6008_RS05355,cytochrome aa3 quinol oxidase subunit I,-1.653,Repressed,3.5834677799344e-18,4,5.76e-9,0.0967,1,3,Limited CLASH support
+INT-0-421,Intergenic RNA candidate,spa,SAA6008_RS00455,staphylococcal protein A,-2.887,Repressed,2.7722098318263e-43,1,0,0,1,3,Limited CLASH support

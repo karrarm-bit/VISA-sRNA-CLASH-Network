@@ -1,0 +1,10 @@
+SCRIPT 17A - TERM-SEQ BOUNDARY AUDIT
+
+Candidate coordinates were taken from the CLASH-derived regulatory RNA annotations.
+For plus-strand candidates, the genomic end was treated as the expected 3-prime boundary.
+For minus-strand candidates, the genomic start was treated as the expected 3-prime boundary.
+Term-seq signal was examined in the matching strand in two available control replicates.
+Signal within +/-5 nt of the expected boundary was compared descriptively with local signal 20-100 nt away.
+The enrichment categories are descriptive audit thresholds and are not statistical proof of RNA processing.
+A reproducible Term-seq 3-prime end supports a discrete transcript boundary but does not establish that the candidate is independently processed or functionally regulatory.
+The available GSE158830 RAW archive used here contains Term-seq and CLASH-related files but no locally available dRNA-seq file was identified.

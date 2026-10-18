@@ -1,0 +1,19 @@
+candidate,candidate_start,candidate_end,candidate_strand,distance_to_candidate,relationship,gene_id,current_locus_tag,gene_symbol,protein_id,product,feature_type,genomic_start,genomic_end,strand,is_rna_feature,is_srna,srna_standard_name
+3UTR-RS04120,811819,811847,+,53,Genomically left of candidate,SAA6008_00747,SAA6008_RS03945,nrdF,WP_000562498.1,class 1b ribonucleoside-diphosphate reductase subunit beta,CDS,810795,811766,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,669,Genomically right of candidate,SAA6008_00748,SAA6008_RS03960,sstA,WP_000876318.1,ABC transporter permease,CDS,812516,813487,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,1142,Genomically left of candidate,SAA6008_00746,SAA6008_RS03940,nrdE,WP_000855505.1,class 1b ribonucleoside-diphosphate reductase subunit alpha,CDS,808572,810677,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,1627,Genomically right of candidate,SAA6008_00749,SAA6008_RS03965,sstB,WP_001245577.1,iron chelate uptake ABC transporter family permease subunit,CDS,813474,814430,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,2580,Genomically right of candidate,SAA6008_00750,SAA6008_RS03970,sstC,WP_000616842.1,iron ABC transporter ATP-binding protein,CDS,814427,815188,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,3210,Genomically left of candidate,SAA6008_00745,SAA6008_RS03935,nrdI,WP_000692521.1,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,CDS,808211,808609,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,3460,Genomically right of candidate,SAA6008_00751,SAA6008_RS03975,NA,WP_000754443.1,ferrated catecholamine ABC transporter substrate-binding lipoprotein SstD,CDS,815307,816335,+,FALSE,FALSE,NA
+3UTR-RS04120,811819,811847,+,4409,Genomically left of candidate,SAA6008_00744,SAA6008_RS03930,NA,WP_001068497.1,DMT family transporter,CDS,806544,807410,-,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,177,Genomically right of candidate,SAA6008_01019,SAA6008_RS05375,folD,WP_000225837.1,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,CDS,1084790,1085650,-,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,572,Genomically left of candidate,SAA6008_01018,SAA6008_RS05370,NA,WP_001037831.1,DUF5011 domain-containing protein,CDS,1083668,1083985,-,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,1238,Genomically right of candidate,SAA6008_01020,SAA6008_RS05380,purE,WP_000861572.1,5-(carboxyamino)imidazole ribonucleotide mutase,CDS,1085851,1086333,+,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,1461,Genomically left of candidate,SAA6008_01016,SAA6008_RS05360,qoxA,WP_000032836.1,cytochrome aa3 quinol oxidase subunit II,CDS,1081996,1083096,-,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,1707,Genomically right of candidate,SAA6008_01021,SAA6008_RS05385,purK,WP_001010412.1,5-(carboxyamino)imidazole ribonucleotide synthase,CDS,1086320,1087444,+,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,2561,Genomically left of candidate,SAA6008_01015,SAA6008_RS05355,qoxB,WP_001010762.1,cytochrome aa3 quinol oxidase subunit I,CDS,1080008,1081996,-,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,2835,Genomically right of candidate,SAA6008_01022,SAA6008_RS05390,purC,WP_000174053.1,phosphoribosylaminoimidazolesuccinocarboxamide synthase,CDS,1087448,1088152,+,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,3539,Genomically right of candidate,SAA6008_01023,SAA6008_RS05395,purS,WP_000848350.1,phosphoribosylformylglycinamidine synthase subunit PurS,CDS,1088152,1088415,+,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,3804,Genomically right of candidate,SAA6008_01024,SAA6008_RS05400,purQ,WP_000666799.1,phosphoribosylformylglycinamidine synthase I,CDS,1088417,1089088,+,FALSE,FALSE,NA
+3UTR-RS05585,1084557,1084613,-,4468,Genomically right of candidate,SAA6008_01025,SAA6008_RS05405,purL,WP_000032727.1,phosphoribosylformylglycinamidine synthase subunit PurL,CDS,1089081,1091270,+,FALSE,FALSE,NA

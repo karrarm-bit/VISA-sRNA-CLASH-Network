@@ -1,0 +1,183 @@
+source_label,target_node,final_gene_symbol,final_product,final_functional_system,annotation_evidence_level
+INT-0-1157,SAA6008_01716,pepA1,M42 family metallopeptidase,Other or unclassified function,Unresolved
+sprAs1,SAA6008_01716,pepA1,M42 family metallopeptidase,Other or unclassified function,Unresolved
+3UTR-00824,SAA6008_01448,ypdA,bacillithiol disulfide reductase YpdA,Other or unclassified function,Unresolved
+3UTR-00741,RNA:wp_001165377_1:cds:saa_6008_c1:1399449-1399512:-,WP_001165377.1,WP_001165377.1,Other or unclassified function,Unresolved
+5UTR-00166,RNA:wp_000491755_1:cds:saa_6008_c1:738563-738619:+,WP_000491755.1,WP_000491755.1,Other or unclassified function,Unresolved
+INT-0-493,RNA:wp_000402172_1:cds:saa_6008_c1:703600-703658:+,WP_000402172.1,WP_000402172.1,Other or unclassified function,Unresolved
+3UTR-01379,RNA:wp_000429674_1:cds:saa_6008_c1:2467152-2467182:-,WP_000429674.1,WP_000429674.1,Other or unclassified function,Unresolved
+INT-0-917,RNA:wp_000817954_1:cds:saa_6008_c1:718425-718468:+,WP_000817954.1,WP_000817954.1,Other or unclassified function,Unresolved
+INT-0-1162,RNA:wp_000429674_1:cds:saa_6008_c1:2468445-2468490:-,WP_000429674.1,WP_000429674.1,Other or unclassified function,Unresolved
+INT-0-879,RNA:wp_000082539_1:cds:saa_6008_c1:1379661-1379685:+,WP_000082539.1,WP_000082539.1,Other or unclassified function,Unresolved
+RsaA,RNA:wp_001283444_1:cds:saa_6008_c1:761118-761188:-,WP_001283444.1,WP_001283444.1,Other or unclassified function,Unresolved
+SRNA305,RNA:wp_001791613_1:cds:saa_6008_c1:2096445-2096557:-,WP_001791613.1,WP_001791613.1,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_001173163_1:cds:saa_6008_c1:2539675-2539781:-,WP_001173163.1,WP_001173163.1,Other or unclassified function,Unresolved
+sprD,RNA:wp_001173163_1:cds:saa_6008_c1:2539691-2539779:-,WP_001173163.1,WP_001173163.1,Other or unclassified function,Unresolved
+3UTR-01253,RNA:wp_001048816_1:cds:saa_6008_c1:2256343-2256383:-,atpE,atpE,Other or unclassified function,Unresolved
+sprD,RNA:wp_000934798_1:cds:saa_6008_c1:389886-389951:+,ssb,ssb,Other or unclassified function,Unresolved
+3UTR-00972-E0E12-RS09230,RNA:wp_001279338_1:cds:saa_6008_c1:1820014-1820081:+,WP_001279338.1,WP_001279338.1,Other or unclassified function,Unresolved
+INT-0-488,RNA:wp_000367064_1:cds:saa_6008_c1:749572-749622:+,WP_000367064.1,WP_000367064.1,Other or unclassified function,Unresolved
+3UTR-00664,RNA:wp_000517908_1:cds:saa_6008_c1:1249315-1249332:-,WP_000517908.1,WP_000517908.1,Other or unclassified function,Unresolved
+RNAIII,SAA6008_02729,lip1,YSIRK domain-containing triacylglycerol lipase Lip1,Other or unclassified function,Unresolved
+Saa-6008-C1.9034,RNA:wp_000282655_1:cds:saa_6008_c1:2094028-2094071:-,WP_000282655.1,WP_000282655.1,Other or unclassified function,Unresolved
+3UTR-00824,SAA6008_01448,ypdA,bacillithiol disulfide reductase YpdA,Other or unclassified function,Unresolved
+3UTR-00825-E0E12-RS07905,RNA:wp_000681758_1:cds:saa_6008_c1:1567031-1567107:+,WP_000681758.1,WP_000681758.1,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000216727_1:cds:saa_6008_c1:770220-770266:+,WP_000216727.1,WP_000216727.1,Other or unclassified function,Unresolved
+3UTR-00164,RNA:wp_001055897_1:cds:saa_6008_c1:409672-409731:-,WP_001055897.1,WP_001055897.1,Other or unclassified function,Unresolved
+Saa-6008-C1.9034,RNA:wp_000185319_1:cds:saa_6008_c1:965063-965093:-,WP_000185319.1,WP_000185319.1,Other or unclassified function,Unresolved
+3UTR-01034-E0E12-RS09845,SAA6008_01792,traP,signal transduction protein TRAP,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_000817954_1:cds:saa_6008_c1:719108-719179:+,WP_000817954.1,WP_000817954.1,Other or unclassified function,Unresolved
+3UTR-00020,RNA:wp_000804328_1:cds:saa_6008_c1:1327187-1327274:+,WP_000804328.1,WP_000804328.1,Other or unclassified function,Unresolved
+5UTR-00908-E0E12-RS02135,RNA:wp_001791010_1:cds:saa_6008_c1:432665-432803:-,WP_001791010.1,WP_001791010.1,Other or unclassified function,Unresolved
+INT-0-944,RNA:wp_000608521_1:cds:saa_6008_c1:1529045-1529099:-,WP_000608521.1,WP_000608521.1,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_000691766_1:cds:saa_6008_c1:545722-545866:+,WP_000691766.1,WP_000691766.1,Other or unclassified function,Unresolved
+RNAIII,SAA6008_00448,lpl10,tandem-type lipoprotein Lpl10,Other or unclassified function,Unresolved
+INT-0-103,SAA6008_01200,sucC,ADP-forming succinate--CoA ligase subunit beta,Other or unclassified function,Unresolved
+sprG1,RNA:wp_072482930_1:cds:saa_6008_c1:2120151-2120200:-,WP_072482930.1,WP_072482930.1,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000052590_1:cds:saa_6008_c1:1312071-1312113:+,WP_000052590.1,WP_000052590.1,Other or unclassified function,Unresolved
+3UTR-00664-E0E12-RS06445,RNA:wp_000354088_1:cds:saa_6008_c1:655682-655708:-,WP_000354088.1,WP_000354088.1,Other or unclassified function,Unresolved
+tsr15,RNA:wp_000513308_1:cds:saa_6008_c1:846455-846514:+,WP_000513308.1,WP_000513308.1,Other or unclassified function,Unresolved
+sRNA289,RNA:wp_001196354_1:cds:saa_6008_c1:1874715-1874781:+,WP_001196354.1,WP_001196354.1,Other or unclassified function,Unresolved
+INT-0-612,SAA6008_02191,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),Other or unclassified function,Unresolved
+SprA2/SprAs2,RNA:wp_000482650_1:cds:saa_6008_c1:2589127-2589169:-,WP_000482650.1,WP_000482650.1,Other or unclassified function,Unresolved
+SRNA305,RNA:wp_001791613_1:cds:saa_6008_c1:2096472-2096557:-,WP_001791613.1,WP_001791613.1,Other or unclassified function,Unresolved
+5UTR-00908-E0E12-RS02135,RNA:wp_001791010_1:cds:saa_6008_c1:432665-432816:-,WP_001791010.1,WP_001791010.1,Other or unclassified function,Unresolved
+rsaOG,SAA6008_01139,ftsA,cell division protein FtsA,Other or unclassified function,Unresolved
+3UTR-01603,SAA6008_02729,lip1,YSIRK domain-containing triacylglycerol lipase Lip1,Other or unclassified function,Unresolved
+INT-0-500,SAA6008_01403,ebh,hyperosmolarity resistance protein Ebh,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_000803162_1:cds:saa_6008_c1:1390913-1390964:+,WP_000803162.1,WP_000803162.1,Other or unclassified function,Unresolved
+INT-0-528,SAA6008_00745,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,Other or unclassified function,Unresolved
+sRNA-00003,RNA:saa_6008_c1_11379:cds:saa_6008_c1:2092878-2092935:-,Saa-6008-C1.11379,Saa-6008-C1.11379,Other or unclassified function,Unresolved
+5UTR-00178,RNA:wp_000342185_1:cds:saa_6008_c1:1205096-1205141:+,WP_000342185.1,WP_000342185.1,Other or unclassified function,Unresolved
+INT-0-669,SAA6008_00965,fabI,enoyl-ACP reductase FabI,Other or unclassified function,Unresolved
+tsr21,RNA:wp_000231632_1:cds:saa_6008_c1:1182133-1182150:-,WP_000231632.1,WP_000231632.1,Other or unclassified function,Unresolved
+3UTR-00164,RNA:wp_001055897_1:cds:saa_6008_c1:409668-409731:-,WP_001055897.1,WP_001055897.1,Other or unclassified function,Unresolved
+INT-0-493,RNA:wp_000402172_1:cds:saa_6008_c1:703599-703658:+,WP_000402172.1,WP_000402172.1,Other or unclassified function,Unresolved
+INT-0-318,RNA:wp_000395155_1:cds:saa_6008_c1:1022508-1022583:+,WP_000395155.1,WP_000395155.1,Other or unclassified function,Unresolved
+Teg4,RNA:wp_014532405_1:cds:saa_6008_c1:49427-49490:-,psm-mec,psm-mec,Other or unclassified function,Unresolved
+3UTR-00664,RNA:wp_000517908_1:cds:saa_6008_c1:1249337-1249455:-,WP_000517908.1,WP_000517908.1,Other or unclassified function,Unresolved
+3UTR-00664,RNA:wp_000517908_1:cds:saa_6008_c1:1249306-1249564:-,WP_000517908.1,WP_000517908.1,Other or unclassified function,Unresolved
+RsaOR/SprX2,SAA6008_00502,spoVG,septation regulator SpoVG,Other or unclassified function,Unresolved
+Teg4,RNA:wp_014532405_1:cds:saa_6008_c1:49400-49546:-,psm-mec,psm-mec,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_000691766_1:cds:saa_6008_c1:545728-545848:+,WP_000691766.1,WP_000691766.1,Other or unclassified function,Unresolved
+Sau30,SAA6008_00791,eno,surface-displayed alpha-enolase,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000216727_1:cds:saa_6008_c1:770220-770297:+,WP_000216727.1,WP_000216727.1,Other or unclassified function,Unresolved
+INT-0-1696,RNA:wp_001096491_1:cds:saa_6008_c1:1887749-1887833:-,WP_001096491.1,WP_001096491.1,Other or unclassified function,Unresolved
+RNAIII,SAA6008_02729,lip1,YSIRK domain-containing triacylglycerol lipase Lip1,Other or unclassified function,Unresolved
+3UTR-01196,RNA:wp_001554031_1:cds:saa_6008_c1:2178006-2178065:+,WP_001554031.1,WP_001554031.1,Other or unclassified function,Unresolved
+Teg124,SAA6008_01766,pckA,phosphoenolpyruvate carboxykinase (ATP),Other or unclassified function,Unresolved
+INT-0-948,SAA6008_02729,lip1,YSIRK domain-containing triacylglycerol lipase Lip1,Other or unclassified function,Unresolved
+INT-0-552,SAA6008_00795,rnr,ribonuclease R,Other or unclassified function,Unresolved
+sRNA274,RNA:wp_000434765_1:cds:saa_6008_c1:1849948-1850048:-,WP_000434765.1,WP_000434765.1,Other or unclassified function,Unresolved
+INT-0-1255,RNA:wp_000888494_1:cds:saa_6008_c1:1243856-1243885:+,WP_000888494.1,WP_000888494.1,Other or unclassified function,Unresolved
+INT-0-644,RNA:wp_000863556_1:cds:saa_6008_c1:1636134-1636237:-,WP_000863556.1,WP_000863556.1,Other or unclassified function,Unresolved
+5UTR-00050,RNA:wp_000544967_1:cds:saa_6008_c1:2034046-2034096:-,WP_000544967.1,WP_000544967.1,Other or unclassified function,Unresolved
+3UTR-01185,SAA6008_02708,secA2,accessory Sec system translocase SecA2,Other or unclassified function,Unresolved
+INT-0-1,RNA:wp_000833483_1:cds:saa_6008_c1:747113-747189:+,WP_000833483.1,WP_000833483.1,Other or unclassified function,Unresolved
+INT-0-493,RNA:wp_000076929_1:cds:saa_6008_c1:2427477-2427551:-,WP_000076929.1,WP_000076929.1,Other or unclassified function,Unresolved
+3UTR-01332-E0E12-RS12640,RNA:wp_000517908_1:cds:saa_6008_c1:1249478-1249561:-,WP_000517908.1,WP_000517908.1,Other or unclassified function,Unresolved
+3UTR-00491-E0E12-RS05275,SAA6008_00965,fabI,enoyl-ACP reductase FabI,Other or unclassified function,Unresolved
+sprG1,RNA:saa_6008_c1_11656:cds:saa_6008_c1:2119895-2119973:+,Saa-6008-C1.11656,Saa-6008-C1.11656,Other or unclassified function,Unresolved
+3UTR-01326-E0E12-RS12560,RNA:wp_000079317_1:cds:saa_6008_c1:1171648-1171705:+,WP_000079317.1,WP_000079317.1,Other or unclassified function,Unresolved
+3UTR-00607-E0E12-RS06020,SAA6008_01099,trxA,thioredoxin,Other or unclassified function,Unresolved
+5UTR-00645,RNA:wp_000390829_1:cds:saa_6008_c1:2217193-2217250:-,WP_000390829.1,WP_000390829.1,Other or unclassified function,Unresolved
+INT-0-1284,RNA:wp_000813311_1:cds:saa_6008_c1:404133-404194:+,WP_000813311.1,WP_000813311.1,Other or unclassified function,Unresolved
+INT-0-571,RNA:wp_000660709_1:cds:saa_6008_c1:2676272-2676326:-,WP_000660709.1,WP_000660709.1,Other or unclassified function,Unresolved
+Sau46,RNA:wp_001198024_1:cds:saa_6008_c1:1239458-1239547:-,WP_001198024.1,WP_001198024.1,Other or unclassified function,Unresolved
+INT-0-433,RNA:wp_000257888_1:cds:saa_6008_c1:1112722-1112766:-,WP_000257888.1,WP_000257888.1,Other or unclassified function,Unresolved
+INT-0-1631,RNA:wp_001108346_1:cds:saa_6008_c1:1740026-1740047:-,WP_001108346.1,WP_001108346.1,Other or unclassified function,Unresolved
+RsaE/RsaF,SAA6008_01200,sucC,ADP-forming succinate--CoA ligase subunit beta,Other or unclassified function,Unresolved
+3UTR-01603,SAA6008_02729,lip1,YSIRK domain-containing triacylglycerol lipase Lip1,Other or unclassified function,Unresolved
+RsaOR/SprX2,SAA6008_00502,spoVG,septation regulator SpoVG,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_000057330_1:cds:saa_6008_c1:1289798-1289843:+,WP_000057330.1,WP_000057330.1,Other or unclassified function,Unresolved
+SRNA64,RNA:wp_001251935_1:cds:saa_6008_c1:2338177-2338216:+,WP_001251935.1,WP_001251935.1,Other or unclassified function,Unresolved
+RsaH,RNA:wp_001031880_1:cds:saa_6008_c1:253443-253611:+,WP_001031880.1,WP_001031880.1,Other or unclassified function,Unresolved
+rsaOG,RNA:wp_001800370_1:cds:saa_6008_c1:391093-391138:-,WP_001800370.1,WP_001800370.1,Other or unclassified function,Unresolved
+RsaA,SAA6008_00297,lip2,YSIRK domain-containing triacylglycerol lipase Lip2/Geh,Other or unclassified function,Unresolved
+3UTR-00276,RNA:wp_000587958_1:cds:saa_6008_c1:650042-650083:-,WP_000587958.1,WP_000587958.1,Other or unclassified function,Unresolved
+RsaH,RNA:wp_000704122_1:cds:saa_6008_c1:1705310-1705345:-,WP_000704122.1,WP_000704122.1,Other or unclassified function,Unresolved
+3UTR-01298,SAA6008_02191,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),Other or unclassified function,Unresolved
+INT-0-1632,SAA6008_00965,fabI,enoyl-ACP reductase FabI,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000166895_1:cds:saa_6008_c1:218259-218286:+,WP_000166895.1,WP_000166895.1,Other or unclassified function,Unresolved
+rsaOG,SAA6008_01703,acsA,acetate--CoA ligase,Other or unclassified function,Unresolved
+3UTR-00067-E0E12-RS00785,RNA:wp_000290401_1:cds:saa_6008_c1:165716-165769:+,WP_000290401.1,WP_000290401.1,Other or unclassified function,Unresolved
+Teg70,RNA:wp_000425353_1:cds:saa_6008_c1:1743774-1743814:-,WP_000425353.1,WP_000425353.1,Other or unclassified function,Unresolved
+3UTR-00742-E0E12-RS07190,RNA:wp_000640490_1:cds:saa_6008_c1:1399284-1399327:+,WP_000640490.1,WP_000640490.1,Other or unclassified function,Unresolved
+INT-0-824,RNA:wp_000398672_1:cds:saa_6008_c1:1194825-1194911:+,WP_000398672.1,WP_000398672.1,Other or unclassified function,Unresolved
+Teg6as,RNA:wp_001817892_1:cds:saa_6008_c1:37304-37366:-,WP_001817892.1,WP_001817892.1,Other or unclassified function,Unresolved
+sRNA-00003,RNA:wp_001282728_1:cds:saa_6008_c1:35837-35857:-,WP_001282728.1,WP_001282728.1,Other or unclassified function,Unresolved
+3UTR-01066,RNA:wp_000466769_1:cds:saa_6008_c1:1984919-1984972:-,WP_000466769.1,WP_000466769.1,Other or unclassified function,Unresolved
+RNAIII,SAA6008_00448,lpl10,tandem-type lipoprotein Lpl10,Other or unclassified function,Unresolved
+RNAIII,RNA:saa_6008_c1_2493:cds:saa_6008_c1:517295-517372:+,Saa-6008-C1.2493,Saa-6008-C1.2493,Other or unclassified function,Unresolved
+INT-0-1665,RNA:wp_000138487_1:cds:saa_6008_c1:963204-963309:+,WP_000138487.1,WP_000138487.1,Other or unclassified function,Unresolved
+INT-0-934,RNA:wp_000213875_1:cds:saa_6008_c1:2502121-2502216:-,WP_000213875.1,WP_000213875.1,Other or unclassified function,Unresolved
+INT-0-1696,RNA:wp_001549197_1:cds:saa_6008_c1:2176877-2176939:-,WP_001549197.1,WP_001549197.1,Other or unclassified function,Unresolved
+sRNA-00053,RNA:wp_000070811_1:cds:saa_6008_c1:1912590-1912629:-,WP_000070811.1,WP_000070811.1,Other or unclassified function,Unresolved
+sRNA-00053,RNA:wp_000140679_1:cds:saa_6008_c1:2255942-2255990:-,WP_000140679.1,WP_000140679.1,Other or unclassified function,Unresolved
+3UTR-01603-E0E12-RS15245,RNA:wp_001276571_1:cds:saa_6008_c1:1620204-1620343:+,WP_001276571.1,WP_001276571.1,Other or unclassified function,Unresolved
+5UTR-00230,SAA6008_02128,yidC,membrane protein insertase YidC,Other or unclassified function,Unresolved
+RNAIII,SAA6008_00256,esxA,WXG100 family type VII secretion effector EsxA,Other or unclassified function,Unresolved
+RsaE/RsaF,RNA:wp_000664764_1:cds:saa_6008_c1:1317046-1317089:+,WP_000664764.1,WP_000664764.1,Other or unclassified function,Unresolved
+Sau-6477/RsaOI,RNA:wp_000825929_1:cds:saa_6008_c1:2569052-2569100:-,WP_000825929.1,WP_000825929.1,Other or unclassified function,Unresolved
+3UTR-01561-E0E12-RS14795,RNA:wp_000125701_1:cds:saa_6008_c1:2780889-2780919:+,WP_000125701.1,WP_000125701.1,Other or unclassified function,Unresolved
+INT-0-1189,SAA6008_02128,yidC,membrane protein insertase YidC,Other or unclassified function,Unresolved
+RsaE/RsaF,RNA:wp_001253312_1:cds:saa_6008_c1:2180532-2180563:-,WP_001253312.1,WP_001253312.1,Other or unclassified function,Unresolved
+RsaH,RNA:wp_001801792_1:cds:saa_6008_c1:2257390-2257413:-,WP_001801792.1,WP_001801792.1,Other or unclassified function,Unresolved
+3UTR-00801-E0E12-RS07720,SAA6008_01200,sucC,ADP-forming succinate--CoA ligase subunit beta,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000136159_1:cds:saa_6008_c1:2829393-2829432:-,argF,argF,Other or unclassified function,Unresolved
+sRNA-00053,RNA:wp_001273085_1:cds:saa_6008_c1:597271-597311:+,WP_001273085.1,WP_001273085.1,Other or unclassified function,Unresolved
+3UTR-00258-E0E12-RS03055,RNA:wp_000031892_1:cds:saa_6008_c1:606666-606734:+,WP_000031892.1,WP_000031892.1,Other or unclassified function,Unresolved
+RsaOR/SprX2,RNA:wp_001234988_1:cds:saa_6008_c1:556766-556836:+,WP_001234988.1,WP_001234988.1,Other or unclassified function,Unresolved
+Sau6057,SAA6008_00553,fusA,elongation factor G,Other or unclassified function,Unresolved
+sRNA-00120,RNA:wp_000064078_1:cds:saa_6008_c1:1582286-1582327:-,WP_000064078.1,WP_000064078.1,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000231632_1:cds:saa_6008_c1:1182218-1182264:-,WP_000231632.1,WP_000231632.1,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_001249285_1:cds:saa_6008_c1:1167325-1167392:+,WP_001249285.1,WP_001249285.1,Other or unclassified function,Unresolved
+sRNA-00053,RNA:wp_000809526_1:cds:saa_6008_c1:1138146-1138196:+,WP_000809526.1,WP_000809526.1,Other or unclassified function,Unresolved
+5UTR-01169-E0E12-RS14400,RNA:wp_000592303_1:cds:saa_6008_c1:2413142-2413185:-,WP_000592303.1,WP_000592303.1,Other or unclassified function,Unresolved
+Teg83,RNA:wp_001015117_1:cds:saa_6008_c1:1624862-1624880:-,WP_001015117.1,WP_001015117.1,Other or unclassified function,Unresolved
+SRNA64,RNA:wp_000834095_1:cds:saa_6008_c1:126288-126369:+,WP_000834095.1,WP_000834095.1,Other or unclassified function,Unresolved
+5UTR-00472-E0E12-RS08460,RNA:wp_001103743_1:cds:saa_6008_c1:1338760-1338808:+,WP_001103743.1,WP_001103743.1,Other or unclassified function,Unresolved
+INT-0-1448,SAA6008_02267,secY,preprotein translocase subunit SecY,Other or unclassified function,Unresolved
+SprX,RNA:wp_001173163_1:cds:saa_6008_c1:2539731-2539781:-,WP_001173163.1,WP_001173163.1,Other or unclassified function,Unresolved
+SprX,RNA:wp_000057330_1:cds:saa_6008_c1:1289798-1289843:+,WP_000057330.1,WP_000057330.1,Other or unclassified function,Unresolved
+3UTR-00042-E0E12-RS00485,RNA:wp_000173891_1:cds:saa_6008_c1:101311-101410:+,WP_000173891.1,WP_000173891.1,Other or unclassified function,Unresolved
+INT-0-160,RNA:wp_000147103_1:cds:saa_6008_c1:1194964-1195013:+,WP_000147103.1,WP_000147103.1,Other or unclassified function,Unresolved
+INT-0-31,RNA:wp_000934517_1:cds:saa_6008_c1:652307-652339:+,WP_000934517.1,WP_000934517.1,Other or unclassified function,Unresolved
+INT-0-125,SAA6008_01403,ebh,hyperosmolarity resistance protein Ebh,Other or unclassified function,Unresolved
+INT-0-934,SAA6008_00479,treC,"alpha,alpha-phosphotrehalase",Other or unclassified function,Unresolved
+3UTR-00664,RNA:wp_000517908_1:cds:saa_6008_c1:1249398-1249427:-,WP_000517908.1,WP_000517908.1,Other or unclassified function,Unresolved
+INT-0-1107,RNA:wp_000214170_1:cds:saa_6008_c1:400315-400349:+,WP_000214170.1,WP_000214170.1,Other or unclassified function,Unresolved
+INT-0-197,SAA6008_02607,isaA,lytic transglycosylase IsaA,Other or unclassified function,Unresolved
+INT-0-339,RNA:wp_001125631_1:cds:saa_6008_c1:2845002-2845064:+,WP_001125631.1,WP_001125631.1,Other or unclassified function,Unresolved
+SprA2/RsaJ,RNA:wp_000482650_1:cds:saa_6008_c1:2589127-2589147:-,WP_000482650.1,WP_000482650.1,Other or unclassified function,Unresolved
+INT-0-339,RNA:wp_000690002_1:cds:saa_6008_c1:1799277-1799318:-,ald,ald,Other or unclassified function,Unresolved
+3UTR-01241,SAA6008_02128,yidC,membrane protein insertase YidC,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000149344_1:cds:saa_6008_c1:781728-781805:-,WP_000149344.1,WP_000149344.1,Other or unclassified function,Unresolved
+SprX,SAA6008_00502,spoVG,septation regulator SpoVG,Other or unclassified function,Unresolved
+3UTR-01298,SAA6008_02191,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),Other or unclassified function,Unresolved
+3UTR-00567-E0E12-RS05695,SAA6008_01039,ptsP,phosphoenolpyruvate--protein phosphotransferase,Other or unclassified function,Unresolved
+RsaE/RsaF,RNA:wp_001792494_1:cds:saa_6008_c1:2644718-2644802:-,WP_001792494.1,WP_001792494.1,Other or unclassified function,Unresolved
+Teg35,RNA:wp_001187629_1:cds:saa_6008_c1:2240764-2240795:+,WP_001187629.1,WP_001187629.1,Other or unclassified function,Unresolved
+RNAIII,SAA6008_00034,aadD1,aminoglycoside O-nucleotidyltransferase ANT(4')-Ia,Other or unclassified function,Unresolved
+RNAIII,SAA6008_01325,mprF,bifunctional lysylphosphatidylglycerol flippase/synthetase MprF,Other or unclassified function,Unresolved
+RNAIII,SAA6008_00034,aadD1,aminoglycoside O-nucleotidyltransferase ANT(4')-Ia,Other or unclassified function,Unresolved
+5UTR-00328,RNA:wp_000147103_1:cds:saa_6008_c1:1194995-1195024:+,WP_000147103.1,WP_000147103.1,Other or unclassified function,Unresolved
+RsaOR/SprX2,SAA6008_00779,trxB,thioredoxin-disulfide reductase,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000282655_1:cds:saa_6008_c1:2094331-2094467:-,WP_000282655.1,WP_000282655.1,Other or unclassified function,Unresolved
+RsaX23,SAA6008_01716,pepA1,M42 family metallopeptidase,Other or unclassified function,Unresolved
+sRNA171,SAA6008_02729,lip1,YSIRK domain-containing triacylglycerol lipase Lip1,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_000145499_1:cds:saa_6008_c1:1124866-1124890:+,WP_000145499.1,WP_000145499.1,Other or unclassified function,Unresolved
+RNAIII,RNA:wp_001017866_1:cds:saa_6008_c1:1631622-1631655:-,WP_001017866.1,WP_001017866.1,Other or unclassified function,Unresolved
+RsaE/RsaF,RNA:wp_000429674_1:cds:saa_6008_c1:2468512-2468570:-,WP_000429674.1,WP_000429674.1,Other or unclassified function,Unresolved
+SprG3/Teg19b/SprF3,RNA:wp_000517908_1:cds:saa_6008_c1:1249469-1249551:-,WP_000517908.1,WP_000517908.1,Other or unclassified function,Unresolved
+sRNA-00053,RNA:wp_001283665_1:cds:saa_6008_c1:1462442-1462568:-,WP_001283665.1,WP_001283665.1,Other or unclassified function,Unresolved
+sRNA-00237,SAA6008_01201,sucD,succinate--CoA ligase subunit alpha,Other or unclassified function,Unresolved
+3UTR-00209,RNA:wp_001549197_1:cds:saa_6008_c1:2177018-2177061:-,WP_001549197.1,WP_001549197.1,Other or unclassified function,Unresolved
+3UTR-00212-E0E12-RS02455,RNA:wp_014373779_1:cds:saa_6008_c1:489600-489651:-,WP_014373779.1,WP_014373779.1,Other or unclassified function,Unresolved
+5UTR-00458,RNA:wp_000919772_1:cds:saa_6008_c1:1633699-1633749:-,WP_000919772.1,WP_000919772.1,Other or unclassified function,Unresolved
+5UTR-00901,RNA:wp_000066378_1:cds:saa_6008_c1:1833480-1833547:-,WP_000066378.1,WP_000066378.1,Other or unclassified function,Unresolved
+RsaA,RNA:wp_000273483_1:cds:saa_6008_c1:440226-440344:-,WP_000273483.1,WP_000273483.1,Other or unclassified function,Unresolved
+RsaE/RsaF,RNA:wp_000270135_1:cds:saa_6008_c1:391633-391653:-,WP_000270135.1,WP_000270135.1,Other or unclassified function,Unresolved
+SprX,RNA:wp_001234988_1:cds:saa_6008_c1:556766-556836:+,WP_001234988.1,WP_001234988.1,Other or unclassified function,Unresolved
+SRNA305,SAA6008_01716,pepA1,M42 family metallopeptidase,Other or unclassified function,Unresolved
+sRNA-00237,RNA:wp_000139189_1:cds:saa_6008_c1:2411061-2411146:-,WP_000139189.1,WP_000139189.1,Other or unclassified function,Unresolved

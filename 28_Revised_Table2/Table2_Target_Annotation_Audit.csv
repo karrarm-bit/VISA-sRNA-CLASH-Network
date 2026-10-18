@@ -1,0 +1,11 @@
+Regulatory_RNA,target_label,target_node,Target_locus,Predicted_protein_product,Annotation_source
+INT-0-419,spa,SAA6008_00089,SAA6008_RS00455,staphylococcal protein A,GSE254530_DESeq2_annotated_all_genes.csv
+INT-0-1153,modA,SAA6008_02316,SAA6008_RS12655,molybdate ABC transporter substrate-binding protein,GSE254530_DESeq2_annotated_all_genes.csv
+INT-0-1448,gltB,SAA6008_00475,SAA6008_RS02440,glutamate synthase large subunit,GSE254530_DESeq2_annotated_all_genes.csv
+3UTR-RS04120,nrdF,SAA6008_00747,SAA6008_RS03945,class 1b ribonucleoside-diphosphate reductase subunit beta,GSE254530_DESeq2_annotated_all_genes.csv
+INT-0-332,modA,SAA6008_02316,SAA6008_RS12655,molybdate ABC transporter substrate-binding protein,GSE254530_DESeq2_annotated_all_genes.csv
+sRNA-00053,dhaK,SAA6008_00666,SAA6008_RS03500,dihydroxyacetone kinase subunit DhaK,GSE254530_DESeq2_annotated_all_genes.csv
+SprA2/RsaJ,guaB,SAA6008_00389,SAA6008_RS02005,IMP dehydrogenase,GSE254530_DESeq2_annotated_all_genes.csv
+3UTR-RS05585,nrdF,SAA6008_00747,SAA6008_RS03945,class 1b ribonucleoside-diphosphate reductase subunit beta,GSE254530_DESeq2_annotated_all_genes.csv
+sRNA-00246,qoxB,SAA6008_01015,SAA6008_RS05355,cytochrome aa3 quinol oxidase subunit I,GSE254530_DESeq2_annotated_all_genes.csv
+INT-0-421,spa,SAA6008_00089,SAA6008_RS00455,staphylococcal protein A,GSE254530_DESeq2_annotated_all_genes.csv

@@ -1,0 +1,3 @@
+candidate,strand,expected_3prime,replicates_examined,replicates_with_signal,replicates_with_enrichment,replicates_with_strong_local_peak,median_boundary_signal,median_enrichment_ratio,TermSeq_boundary_class,manuscript_interpretation
+3UTR-RS04120,+,811847,2,2,1,0,6,3.5,Reproducible 3′-end signal without strong enrichment,"Term-seq signal is detectable near the candidate boundary, but evidence is insufficient to claim a reproducible discrete 3′ end."
+3UTR-RS05585,-,1084557,2,1,1,0,1,2,Single-replicate 3′-end signal,"Term-seq signal is detectable near the candidate boundary, but evidence is insufficient to claim a reproducible discrete 3′ end."
